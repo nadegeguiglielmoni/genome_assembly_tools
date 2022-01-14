@@ -1,2 +1,2 @@
-# genome_assembly_tools
+# Genome assembly tools
 List of genome assembly tools
