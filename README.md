@@ -34,3 +34,8 @@ List of genome assembly tools
 
 ## Assembly pre/post-processing
 
+| Step               | Reads         | Tool                                                               | Publication                     | Last update |
+|:-------------------|:--------------|:-------------------------------------------------------------------|:--------------------------------|:------------|
+|__Haplotig purging__| __Long reads__| [HaploMerger2](https://github.com/mapleforest/HaploMerger2)        | 10.1093/bioinformatics/btx220   | 2021        |
+|                    |               | [purge_dups](https://github.com/dfguan/purge_dups)                 | 10.1093/bioinformatics/btaa025  | 2021        |
+|                    |               | [Purge Haplotigs](https://bitbucket.org/mroachawri/purge_haplotigs)| 10.1186/s12859-018-2485-7       | 2022        |
