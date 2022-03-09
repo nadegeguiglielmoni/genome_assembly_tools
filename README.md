@@ -1,6 +1,8 @@
 # Genome assembly tools
 List of genome assembly tools
 
+The category "Last update" takes into account commits and responses from the developers to issues.
+
 ## Genome assemblers
  
 | Reads                        | Assembler                                                | Publication                      | Last update |
@@ -39,3 +41,14 @@ List of genome assembly tools
 |__Haplotig purging__| __Long reads__| [HaploMerger2](https://github.com/mapleforest/HaploMerger2)        | 10.1093/bioinformatics/btx220   | 2021        |
 |                    |               | [purge_dups](https://github.com/dfguan/purge_dups)                 | 10.1093/bioinformatics/btaa025  | 2021        |
 |                    |               | [Purge Haplotigs](https://bitbucket.org/mroachawri/purge_haplotigs)| 10.1186/s12859-018-2485-7       | 2022        |
+|__Scaffolding__     | __Hi-C__      | [3D-DNA](https://github.com/aidenlab/3d-dna)                       | 10.1126/science.aal3327         | 2021        |
+|                    |               | [dnaTri](https://github.com/NoamKaplan/dna-triangulation)          | 10.1038/nbt.2768                | 2016        |
+|                    |               | [EndHiC](https://github.com/fanagislab/EndHiC)                     | 10.48550/arXiv.2111.15411       | 2022        |
+|                    |               | [GRAAL](https://github.com/koszullab/GRAAL)                        | 10.1038/ncomms6695              | 2018        |
+|                    |               | [HiCAssembler](https://github.com/maxplanck-ie/HiCAssembler)       | 10.1101/gad.328971.119          | 2019        |
+|                    |               | [Lachesis](https://github.com/shendurelab/LACHESIS)                | 10.1038/nbt.2727                | 2017        |
+|                    |               | [instaGRAAL](https://github.com/koszullab/instaGRAAL)              | 10.1186/s13059-020-02041-z      | 2022        |
+|                    |               | [pin_hic](https://github.com/dfguan/pin_hic)                       | 10.1186/s12859-021-04453-5      | 2021        |
+|                    |               | [SALSA2](https://github.com/marbl/SALSA)                           | 10.1371/journal.pcbi.1007273    | 2021        |
+|                    |               | [scaffHiC](https://github.com/wtsi-hpag/scaffHiC)                  |                                 | 2020        |
+|                    |               | [YaHS](https://github.com/c-zhou/yahs)                             |                                 | 2022        |
