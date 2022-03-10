@@ -52,3 +52,11 @@ The category "Last update" takes into account commits and responses from the dev
 |                    |               | [SALSA2](https://github.com/marbl/SALSA)                           | 10.1371/journal.pcbi.1007273    | 2021        |
 |                    |               | [scaffHiC](https://github.com/wtsi-hpag/scaffHiC)                  |                                 | 2020        |
 |                    |               | [YaHS](https://github.com/c-zhou/yahs)                             |                                 | 2022        |
+|__Gap filling__     | __Long reads__| [Cobbler](https://github.com/bcgsc/RAILS)                          | 10.21105/joss.00116             | 2021        |
+|                    |               | [DENTIST](https://github.com/a-ludi/dentist)                       | 10.1093/gigascience/giab100     | 2022        |
+|                    |               | [FGAP](https://github.com/pirovc/fgap)                             | 10.1186/1756-0500-7-371         | 2021        |
+|                    |               | [GMcloser](https://sourceforge.net/projects/gmcloser/)             | 10.1093/bioinformatics/btv465   | 2018        |
+|                    |               | [LR_Gapcloser](https://github.com/CAFS-bioinformatics/LR_Gapcloser)| 10.1093/gigascience/giy157      | 2018        |
+|                    |               | [PBJelly](https://sourceforge.net/projects/pb-jelly/)              | 10.1371/journal.pone.0047768    | 2017        |
+|                    |               | PGcloser                                                           | 10.1177/1176934320913859        | 2020        |
+|                    |               | [TGS-GapCloser](https://github.com/BGI-Qingdao/TGS-GapCloser)      | 10.1093/gigascience/giaa094     | 2022        |
