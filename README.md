@@ -41,7 +41,10 @@ The category "Last update" takes into account commits and responses from the dev
 |__Haplotig purging__| __Long reads__  | [HaploMerger2](https://github.com/mapleforest/HaploMerger2)        | 10.1093/bioinformatics/btx220   | 2021        |
 |                    |                 | [purge_dups](https://github.com/dfguan/purge_dups)                 | 10.1093/bioinformatics/btaa025  | 2021        |
 |                    |                 | [Purge Haplotigs](https://bitbucket.org/mroachawri/purge_haplotigs)| 10.1186/s12859-018-2485-7       | 2022        |
-|__Scaffolding__     | __Linked reads__| [ARBitR](https://github.com/markhilt/ARBitR)                       | 10.1093/bioinformatics/btaa975  | 2021        |
+|__Scaffolding__     | __Long reads__  | [DENTIST](https://github.com/a-ludi/dentist)                       | 10.1093/gigascience/giab100     | 2022        |
+|                    |                 | [LINKS](https://github.com/bcgsc/LINKS)                            | 10.1186/s13742-015-0076-3       | 2022        |
+|                    | __Genetic maps__| [ALLMAPS](https://github.com/tanghaibao/jcvi/wiki/ALLMAPS)         | 10.1186/s13059-014-0573-1       | 2022        |
+|                    | __Linked reads__| [ARBitR](https://github.com/markhilt/ARBitR)                       | 10.1093/bioinformatics/btaa975  | 2021        |
 |                    |                 | [Architect](https://github.com/kuleshov/architect)                 | 10.1093/bioinformatics/btw267   | 2016        |
 |                    |                 | [ARCS](https://github.com/bcgsc/ARCS/)                             | 10.1093/bioinformatics/btx675   | 2022        |
 |                    |                 | [ARKS](https://github.com/bcgsc/arks)                              | 10.1186/s12859-018-2243-x       | 2019        |
