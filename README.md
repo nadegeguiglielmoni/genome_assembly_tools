@@ -44,6 +44,11 @@ The category "Last update" takes into account commits and responses from the dev
 |__Scaffolding__     | __Long reads__  | [DENTIST](https://github.com/a-ludi/dentist)                       | 10.1093/gigascience/giab100     | 2022        |
 |                    |                 | [LINKS](https://github.com/bcgsc/LINKS)                            | 10.1186/s13742-015-0076-3       | 2022        |
 |                    | __Genetic maps__| [ALLMAPS](https://github.com/tanghaibao/jcvi/wiki/ALLMAPS)         | 10.1186/s13059-014-0573-1       | 2022        |
+|                    | __Optical maps__| [AGORA](https://static-content.springer.com/esm/art%3A10.1186%2F1471-2105-13-189/MediaObjects/12859_2012_5306_MOESM3_ESM.zip)| 10.1186/1471-2105-13-189 | 2012        |
+|                    |                 | [BiSCoT](https://github.com/institut-de-genomique/biscot)          | 10.7717/peerj.10150             | 2021        |
+|                    |                 | [OMGS](https://github.com/ucrbioinfo/OMGS)                         | 10.1089/cmb.2019.0310           | 2021        |
+|                    |                 | [SewingMachine](https://github.com/i5K-KINBRE-script-share/Irys-scaffolding/blob/master/KSU_bioinfo_lab/stitch/sewing_machine_LAB.md) | 10.1186/s12864-015-1911-8 | 2015        |
+|                    |                 | [SOMA](ftp://ftp.cbcb.umd.edu/pub/software/soma)                   | 10.1093/bioinformatics/btn102   | 2008        |
 |                    | __Linked reads__| [ARBitR](https://github.com/markhilt/ARBitR)                       | 10.1093/bioinformatics/btaa975  | 2021        |
 |                    |                 | [Architect](https://github.com/kuleshov/architect)                 | 10.1093/bioinformatics/btw267   | 2016        |
 |                    |                 | [ARCS](https://github.com/bcgsc/ARCS/)                             | 10.1093/bioinformatics/btx675   | 2022        |
