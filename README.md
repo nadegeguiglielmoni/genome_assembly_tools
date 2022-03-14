@@ -38,6 +38,11 @@ The category "Last update" takes into account commits and responses from the dev
 
 | Step               | Reads           | Tool                                                               | Publication                     | Last update |
 |:-------------------|:----------------|:-------------------------------------------------------------------|:--------------------------------|:------------|
+|__Long-read__       | __Long reads__  | [Canu](https://github.com/marbl/canu)                              | 10.1101/gr.215087.116           | 2021        |
+|__error correction__|                 | [MECAT](https://github.com/xiaochuanle/MECAT)                      | 10.1038/nmeth.4432              | 2019        |
+|                    |                 | [MECAT2](https://github.com/xiaochuanle/MECAT2)                    | 10.1038/nmeth.4432              | 2020        |
+|                    |                 | [NECAT](https://github.com/xiaochuanle/NECAT)                      | 10.1038/s41467-020-20236-7      | 2021        |
+|                    |                 | [NextDenovo](https://github.com/Nextomics/NextDenovo)              |                                 | 2022        |
 |__Haplotig purging__| __Long reads__  | [HaploMerger2](https://github.com/mapleforest/HaploMerger2)        | 10.1093/bioinformatics/btx220   | 2021        |
 |                    |                 | [purge_dups](https://github.com/dfguan/purge_dups)                 | 10.1093/bioinformatics/btaa025  | 2021        |
 |                    |                 | [Purge Haplotigs](https://bitbucket.org/mroachawri/purge_haplotigs)| 10.1186/s12859-018-2485-7       | 2022        |
