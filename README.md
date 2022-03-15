@@ -39,7 +39,11 @@ The category "Last update" takes into account commits and responses from the dev
 | Step               | Reads           | Tool                                                               | Publication                     | Last update |
 |:-------------------|:----------------|:-------------------------------------------------------------------|:--------------------------------|:------------|
 |__Long-read__       | __Long reads__  | [Canu](https://github.com/marbl/canu)                              | 10.1101/gr.215087.116           | 2021        |
-|__error correction__|                 | [MECAT](https://github.com/xiaochuanle/MECAT)                      | 10.1038/nmeth.4432              | 2019        |
+|__error correction__|                 | [CONSENT](https://github.com/morispi/CONSENT)                      | 10.1038/s41598-020-80757-5      | 2022        |
+|                    |                 | [Daccord](https://github.com/gt1/daccord)                          | 10.1101/106252                  | 2020        |
+|                    |                 | [FLAS](https://github.com/baoe/FLAS)                               | 10.1093/bioinformatics/btz206   | 2019        |
+|                    |                 | [HALC](https://github.com/lanl001/halc)                            | 10.1186/s12859-017-1610-3       | 2018        |
+|                    |                 | [MECAT](https://github.com/xiaochuanle/MECAT)                      | 10.1038/nmeth.4432              | 2019        |
 |                    |                 | [MECAT2](https://github.com/xiaochuanle/MECAT2)                    | 10.1038/nmeth.4432              | 2020        |
 |                    |                 | [NECAT](https://github.com/xiaochuanle/NECAT)                      | 10.1038/s41467-020-20236-7      | 2021        |
 |                    |                 | [NextDenovo](https://github.com/Nextomics/NextDenovo)              |                                 | 2022        |
