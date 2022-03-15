@@ -38,8 +38,15 @@ The category "Last update" takes into account commits and responses from the dev
 
 | Step               | Reads           | Tool                                                               | Publication                     | Last update |
 |:-------------------|:----------------|:-------------------------------------------------------------------|:--------------------------------|:------------|
-|__Long-read__       | __Long reads__  | [Canu](https://github.com/marbl/canu)                              | 10.1101/gr.215087.116           | 2021        |
-|__error correction__|                 | [CONSENT](https://github.com/morispi/CONSENT)                      | 10.1038/s41598-020-80757-5      | 2022        |
+|__Long-read__       | __Short reads__ | [CoLoRMap](https://github.com/cchauve/CoLoRMap)                    | 10.1093/bioinformatics/btw463   | 2018        |
+|__error correction__|                 | [Hercules](https://github.com/BilkentCompGen/Hercules)             | 10.1093/nar/gky724              | 2020        |
+|                    |                 | [Jabba](https://github.com/biointec/jabba)                         | 10.1186/s13015-016-0075-7       | 2021        |
+|                    |                 | [LoRDEC](https://gite.lirmm.fr/lordec/lordec-releases/-/wikis/home)| 10.1093/bioinformatics/btu538   | 2020        |
+|                    |                 | [LoRMA](https://gite.lirmm.fr/lorma/lorma-releases/-/wikis/home)   | 10.1093/bioinformatics/btw321   | 2019        |
+|                    |                 | [NaS](https://github.com/institut-de-genomique/NaS)                | 10.1186/s12864-015-1519-z       | 2018        |
+|                    |                 | [proovread](https://github.com/BioInf-Wuerzburg/proovread)         | 10.1093/bioinformatics/btu392   | 2021        |
+|                    | __Long reads__  | [Canu](https://github.com/marbl/canu)                              | 10.1101/gr.215087.116           | 2021        |
+|                    |                 | [CONSENT](https://github.com/morispi/CONSENT)                      | 10.1038/s41598-020-80757-5      | 2022        |
 |                    |                 | [Daccord](https://github.com/gt1/daccord)                          | 10.1101/106252                  | 2020        |
 |                    |                 | [FLAS](https://github.com/baoe/FLAS)                               | 10.1093/bioinformatics/btz206   | 2019        |
 |                    |                 | [HALC](https://github.com/lanl001/halc)                            | 10.1186/s12859-017-1610-3       | 2018        |
