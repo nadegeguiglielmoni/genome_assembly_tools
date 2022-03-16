@@ -59,6 +59,14 @@ The category "Last update" takes into account commits and responses from the dev
 |                    |                 | [Purge Haplotigs](https://bitbucket.org/mroachawri/purge_haplotigs)| 10.1186/s12859-018-2485-7       | 2022        |
 |__Scaffolding__     | __Long reads__  | [DENTIST](https://github.com/a-ludi/dentist)                       | 10.1093/gigascience/giab100     | 2022        |
 |                    |                 | [LINKS](https://github.com/bcgsc/LINKS)                            | 10.1186/s13742-015-0076-3       | 2022        |
+|                    |                 | [LRScaf](https://github.com/shingocat/lrscaf)                      | 10.1186/s12864-019-6337-2       | 2021        |
+|                    |                 | [npScarf](https://github.com/mdcao/npScarf)                        | 10.1038/ncomms14515             | 2019        |
+|                    |                 | [PBJelly](https://sourceforge.net/projects/pb-jelly/)              | 10.1371/journal.pone.0047768    | 2017        |
+|                    |                 | [Cobbler](https://github.com/bcgsc/RAILS)                          | 10.21105/joss.00116             | 2021        |
+|                    |                 | [SLR](https://github.com/luojunwei/SLR)                            | 10.1186/s12859-019-3114-9       | 2020        |
+|                    |                 | [SMIS](https://github.com/wtsi-hpag/smis)                          |                                 | 2018        |
+|                    |                 | [SMSC](https://github.com/UTbioinf/SMSC)                           | 10.1186/s12864-017-4271-8       | 2019        |
+|                    |                 | SSPACE-LongRead                                                    | 10.1186/1471-2105-15-211        | 2014        |
 |                    | __Genetic maps__| [ALLMAPS](https://github.com/tanghaibao/jcvi/wiki/ALLMAPS)         | 10.1186/s13059-014-0573-1       | 2022        |
 |                    | __Optical maps__| [AGORA](https://static-content.springer.com/esm/art%3A10.1186%2F1471-2105-13-189/MediaObjects/12859_2012_5306_MOESM3_ESM.zip)| 10.1186/1471-2105-13-189 | 2012        |
 |                    |                 | [BiSCoT](https://github.com/institut-de-genomique/biscot)          | 10.7717/peerj.10150             | 2021        |
