@@ -61,6 +61,9 @@ The category "Last update" takes into account commits and responses from the dev
 |                    | __+ Long reads__| [Hapo-G](https://github.com/institut-de-genomique/HAPO-G)          | 10.1093/nargab/lqab034          | 2022    |
 |                    |                 | [HyPo](https://github.com/kensung-lab/hypo)                        | 10.1101/2019.12.19.882506       | 2020    |
 |                    |                 | [Racon](https://github.com/isovic/racon)                           | 10.1101/gr.214270.116           | 2022    |
+|                    | __Long reads__  | Arrow                                                              |                                 | 2014    |
+|                    |                 | [CONSENT](https://github.com/morispi/CONSENT)                      | 10.1038/s41598-020-80757-5      | 2022    |
+|                    |                 | Quiver                                                             |                                 | 2014    |
 |__Haplotig purging__| __Long reads__  | [HaploMerger2](https://github.com/mapleforest/HaploMerger2)        | 10.1093/bioinformatics/btx220   | 2021    |
 |                    |                 | [purge_dups](https://github.com/dfguan/purge_dups)                 | 10.1093/bioinformatics/btaa025  | 2021    |
 |                    |                 | [Purge Haplotigs](https://bitbucket.org/mroachawri/purge_haplotigs)| 10.1186/s12859-018-2485-7       | 2022    |
