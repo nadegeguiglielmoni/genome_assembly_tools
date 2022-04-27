@@ -7,7 +7,16 @@ The category "Last update" takes into account commits and responses from the dev
  
 | Reads                        | Assembler                                                | Publication                      | Last update |
 |:-----------------------------|:---------------------------------------------------------|:---------------------------------|:-----|
-| __Short reads__              |                                                          |                                  |      | 
+| __Short reads__              | [ABySS](https://github.com/bcgsc/abyss)                  | 10.1101/gr.214346.116            | 2022 |
+|                              | [ALLPATHS](https://software.broadinstitute.org/allpaths-lg/blog/?page_id=12) | 10.1101/gr.7337908 | 2008 |
+|                              | [BASE](https://github.com/dhlbh/BASE)                    | 10.1186/s12864-016-2829-5        | 2017 |
+|                              | [CABOG](http://wgs-assembler.sourceforge.net)            | 10.1093/bioinformatics/btn548    | 2008 |
+|                              | [Edena](http://www.genomic.ch/edena.php)                 | 10.1101/gr.072033.107            | 2013 |
+|                              | [EPGA](https://github.com/bioinfomaticsCSU/EPGA)         | 10.1093/bioinformatics/btu762    | 2017 |
+|                              | [Euler-SR](http://web.archive.org/web/20110720080755/http://euler-assembler.ucsd.edu/euler-sr.1.1.2.tgz) | 10.1101/gr.7088808 | 2011 |
+|                              | Gossamer                                                 | 10.1093/bioinformatics/bts297    | 2012 |
+|                              | [IDBA](https://github.com/loneknightpy/idba)             | 10.1007/978-3-642-12683-3_28     | 2016 |
+|                              |  | |
 | __Low-accuracy long reads__  | [Canu](https://github.com/marbl/canu)                    | 10.1101/gr.215087.116            | 2021 |
 |                              | [FALCON](https://github.com/PacificBiosciences/FALCON)   | 10.1038/nmeth.4035               | 2021 |
 |                              | [Flye](https://github.com/fenderglass/Flye)              | 10.1038/s41587-019-0072-8        | 2022 |
