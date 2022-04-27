@@ -109,12 +109,28 @@ The category "Last update" takes into account commits and responses from the dev
 |__Haplotig purging__| __Long reads__  | [HaploMerger2](https://github.com/mapleforest/HaploMerger2)        | 10.1093/bioinformatics/btx220   | 2021    |
 |                    |                 | [purge_dups](https://github.com/dfguan/purge_dups)                 | 10.1093/bioinformatics/btaa025  | 2021    |
 |                    |                 | [Purge Haplotigs](https://bitbucket.org/mroachawri/purge_haplotigs)| 10.1186/s12859-018-2485-7       | 2022    |
-|__Scaffolding__     | __Long reads__  | [DENTIST](https://github.com/a-ludi/dentist)                       | 10.1093/gigascience/giab100     | 2022    |
+|__Scaffolding__     | __Short reads__ | [Bambus]() | 10.1101/gr.1536204 |  |
+|                    | __Mate pairs__  | [BATISCAF]() | 10.1101/330472 |  |
+|                    |                 | [BESST]() | 10.1186/1471-2105-15-281 |  |
+|                    |                 | [BOSS]() | 10.1093/bioinformatics/btw597 |  |
+|                    |                 | [GRASS]() | 10.1093/bioinformatics/bts175 |  |
+|                    |                 | [MIP]() | 10.1093/bioinformatics/btr562 |  |
+|                    |                 | [Opera]() | 10.1089/cmb.2011.0170 |  |
+|                    |                 | [ScaffMatch]() | 10.1093/bioinformatics/btv211 |  |
+|                    |                 | [ScaffoldScaffolder]() | 10.1093/bioinformatics/btv548 |  |
+|                    |                 | [SCARPA]() | 10.1093/bioinformatics/bts716 |  |
+|                    |                 | [SCOP]() | 10.1093/bioinformatics/bty773 |  |
+|                    |                 | [SLIQ]() | 10.1089/cmb.2011.0263 |  |
+|                    |                 | [SOPRA]() | 10.1186/1471-2105-11-345 |  |
+|                    |                 | [SSPACE]() | 10.1093/bioinformatics/btq683 |  |
+|                    |                 | [WiseScaffolder]() | 10.1186/s12859-015-0705-y |  |
+|                    | __Long reads__  | [DENTIST](https://github.com/a-ludi/dentist)                       | 10.1093/gigascience/giab100     | 2022    |
+|                    |                 | [gapless]() | 10.1101/2022.03.08.483466 |  |
 |                    |                 | [LINKS](https://github.com/bcgsc/LINKS)                            | 10.1186/s13742-015-0076-3       | 2022    |
 |                    |                 | [LRScaf](https://github.com/shingocat/lrscaf)                      | 10.1186/s12864-019-6337-2       | 2021    |
 |                    |                 | [npScarf](https://github.com/mdcao/npScarf)                        | 10.1038/ncomms14515             | 2019    |
 |                    |                 | [PBJelly](https://sourceforge.net/projects/pb-jelly/)              | 10.1371/journal.pone.0047768    | 2017    |
-|                    |                 | [Cobbler](https://github.com/bcgsc/RAILS)                          | 10.21105/joss.00116             | 2021    |
+|                    |                 | [RAILS](https://github.com/bcgsc/RAILS)                          | 10.21105/joss.00116             | 2021    |
 |                    |                 | [SLR](https://github.com/luojunwei/SLR)                            | 10.1186/s12859-019-3114-9       | 2020    |
 |                    |                 | [SMIS](https://github.com/wtsi-hpag/smis)                          |                                 | 2018    |
 |                    |                 | [SMSC](https://github.com/UTbioinf/SMSC)                           | 10.1186/s12864-017-4271-8       | 2019    |
@@ -142,9 +158,13 @@ The category "Last update" takes into account commits and responses from the dev
 |                    |                 | [SALSA2](https://github.com/marbl/SALSA)                           | 10.1371/journal.pcbi.1007273    | 2021    |
 |                    |                 | [scaffHiC](https://github.com/wtsi-hpag/scaffHiC)                  |                                 | 2020    |
 |                    |                 | [YaHS](https://github.com/c-zhou/yahs)                             |                                 | 2022    |
-|__Gap filling__     | __Long reads__  | [Cobbler](https://github.com/bcgsc/RAILS)                          | 10.21105/joss.00116             | 2021    |
+|__Gap filling__     | __Short reads__ | [GapFiller]() | 10.1186/gb-2012-13-6-r56 |  |
+|                    |                 | [GAPPadder]() | 10.1186/s12864-019-5703-4 |  |
+|                    |                 | [Sealer]() | 10.1186/s12859-015-0663-4 |  |
+|                    | __Long reads__  | [Cobbler](https://github.com/bcgsc/RAILS)                          | 10.21105/joss.00116             | 2021    |
 |                    |                 | [DENTIST](https://github.com/a-ludi/dentist)                       | 10.1093/gigascience/giab100     | 2022    |
 |                    |                 | [FGAP](https://github.com/pirovc/fgap)                             | 10.1186/1756-0500-7-371         | 2021    |
+|                    |                 | [gapless]() | 10.1101/2022.03.08.483466 |  |
 |                    |                 | [GMcloser](https://sourceforge.net/projects/gmcloser/)             | 10.1093/bioinformatics/btv465   | 2018    |
 |                    |                 | [LR_Gapcloser](https://github.com/CAFS-bioinformatics/LR_Gapcloser)| 10.1093/gigascience/giy157      | 2018    |
 |                    |                 | [PBJelly](https://sourceforge.net/projects/pb-jelly/)              | 10.1371/journal.pone.0047768    | 2017    |
