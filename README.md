@@ -82,6 +82,7 @@ The category "Last update" takes into account commits and responses from the dev
 |:-------------------|:----------------|:-------------------------------------------------------------------|:--------------------------------|:--------|
 |__Long-read__       | __Short reads__ | [CoLoRMap](https://github.com/cchauve/CoLoRMap)                    | 10.1093/bioinformatics/btw463   | 2018    |
 |__error correction__|                 | [Hercules](https://github.com/BilkentCompGen/Hercules)             | 10.1093/nar/gky724              | 2020    |
+|                    |                 | [HG-CoLoR](https://github.com/morispi/HG-CoLoR)                    | 10.1093/bioinformatics/bty521   | 2021    |
 |                    |                 | [Jabba](https://github.com/biointec/jabba)                         | 10.1186/s13015-016-0075-7       | 2021    |
 |                    |                 | [LoRDEC](https://gite.lirmm.fr/lordec/lordec-releases/-/wikis/home)| 10.1093/bioinformatics/btu538   | 2020    |
 |                    |                 | [LoRMA](https://gite.lirmm.fr/lorma/lorma-releases/-/wikis/home)   | 10.1093/bioinformatics/btw321   | 2019    |
