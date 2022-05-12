@@ -3,80 +3,105 @@ List of genome assembly tools
 
 The category "Last update" takes into account commits and responses from the developers to issues.
 
-## Genome assemblers
- 
-| Reads                        | Assembler                                                | Publication                      | Last update |
-|:-----------------------------|:---------------------------------------------------------|:---------------------------------|:-----|
-| __Sanger reads__             | [ARACHNE]() | 10.1101/gr.208902 |  |
-|                              | [Atlas]() | 10.1101/gr.2264004 |  | 
-|                              | [CAP3]() | 10.1101/gr.9.9.868 |  |
-|                              | [Celera]() | 10.1093/bioinformatics/btn074 |  |
-|                              | [Euler]() | 10.1073/pnas.171285098 |  |
-|                              | [JAZZ]() | 10.1126/science.1072104 |  |
-|                              | [Minimus]() | 10.1186/1471-2105-8-64 |  |
-|                              | [phrap]() | 10.1101/gr.8.3.186 |
-|                              | [Phusion]() | 10.1101/gr.731003 |  |
-|                              | [TIGR]() | 10.1089/gst.1995.1.9 |  |
-| __Short reads__              | [ABySS](https://github.com/bcgsc/abyss)                  | 10.1101/gr.214346.116            | 2022 |
-|                              | [ALLPATHS](https://software.broadinstitute.org/allpaths-lg/blog/?page_id=12) | 10.1101/gr.7337908 | 2008 |
-|                              | [BASE](https://github.com/dhlbh/BASE)                    | 10.1186/s12864-016-2829-5        | 2017 |
-|                              | [CABOG](http://wgs-assembler.sourceforge.net)            | 10.1093/bioinformatics/btn548    | 2008 |
-|                              | [Edena](http://www.genomic.ch/edena.php)                 | 10.1101/gr.072033.107            | 2013 |
-|                              | [EPGA](https://github.com/bioinfomaticsCSU/EPGA)         | 10.1093/bioinformatics/btu762    | 2017 |
-|                              | [Euler-SR](http://web.archive.org/web/20110720080755/http://euler-assembler.ucsd.edu/euler-sr.1.1.2.tgz) | 10.1101/gr.7088808 | 2011 |
-|                              | Gossamer                                                 | 10.1093/bioinformatics/bts297    | 2012 |
-|                              | [IDBA](https://github.com/loneknightpy/idba)             | 10.1007/978-3-642-12683-3_28     | 2016 |
-|                              | ISEA | 10.1109/TCBB.2016.2550433 |  |
-|                              | [JR-Assembler]() | 10.1073/pnas.1314090110 |  |
-|                              | [LightAssembler]() | 10.1093/bioinformatics/btw470 |  |
-|                              | [Meraculous]() | 10.1371/journal.pone.0023501 |  |
-|                              | [Mira]() | 10.1.1.23.7465 |  |
-|                              | [Newbler]() |  |  |
-|                              | [PCAP]() | 10.1101/gr.1390403 |  |
-|                              | [PE-Assembler]() | 10.1093/bioinformatics/btq626 |  |
-|                              | [PERGA]() | 10.1371/journal.pone.0114253 |  |
-|                              | [Platanus]() | 10.1101/gr.170720.113 |  | 
-|                              | [QSRA]()  | 10.1186/1471-2105-10-69 |  | 
-|                              | [Ray]() | 10.1089/cmb.2009.0238 |  |
-|                              | [Readjoiner]() | 10.1186/1471-2105-13-82 | | 
-|                              | [SGA]() | 10.1101/gr.126953.111 |  |
-|                              | [SHARCGS]() | 10.1101/gr.6435207 |  |
-|                              | [SOAPdenovo]() | 10.1101/gr.097261.109 |  |
-|                              | [SOAPdenovo2]() | 10.1186/2047-217X-1-18 |  |
-|                              | [SPAdes]() | 10.1089/cmb.2012.0021 |  |
-|                              | [SparseAssembler]() | 10.1186/1471-2105-13-S6-S1 |  |
-|                              | [SSAKE]() | 10.1093/bioinformatics/btl629 |  |
-|                              | [SUTTA]() | 10.1093/bioinformatics/btq646 |  |
-|                              | [VCAKE]() | 10.1093/bioinformatics/btm451 |  |
-|                              | [Velvet]() | 10.1002/0471250953.bi1105s31 |  |
-|                              | [Taipan]() | 10.1093/bioinformatics/btp374 |  |
-| __Low-accuracy long reads__  | [Canu](https://github.com/marbl/canu)                    | 10.1101/gr.215087.116            | 2021 |
-|                              | [FALCON](https://github.com/PacificBiosciences/FALCON)   | 10.1038/nmeth.4035               | 2021 |
-|                              | [Flye](https://github.com/fenderglass/Flye)              | 10.1038/s41587-019-0072-8        | 2022 |
-|                              | [HINGE](https://github.com/HingeAssembler/HINGE)         | 10.1101/gr.216465.116            | 2021 |
-|                              | [MECAT](https://github.com/xiaochuanle/MECAT)            | 10.1038/nmeth.4432               | 2019 |
-|                              | [MECAT2](https://github.com/xiaochuanle/MECAT2)          | 10.1038/nmeth.4432               | 2020 |
-|                              | [miniasm](https://github.com/lh3/miniasm)                | 10.1038/nmeth.4432               | 2020 |
-|                              | [NECAT](https://github.com/xiaochuanle/NECAT)            | 10.1038/s41467-020-20236-7       | 2021 |
-|                              | [NextDenovo](https://github.com/Nextomics/NextDenovo)    |                                  | 2022 |
-|                              | [Ra](https://github.com/lbcb-sci/ra)                     | 10.1109/ISPA.2019.8868909        | 2020 |
-|                              | [Raven](https://github.com/lbcb-sci/raven)               | 10.1038/s43588-021-00073-4       | 2021 |
-|                              | [SMARTdenovo](https://github.com/ruanjue/smartdenovo)    | 10.20944/preprints202009.0207.v1 | 2021 |
-|                              | [wtdbg](https://github.com/ruanjue/wtdbg)                |                                  | 2021 |
-|                              | [wtdbg2](https://github.com/ruanjue/wtdbg2)              | 10.1038/s41592-019-0669-3        | 2021 |
-| __High-accuracy long reads__ | [Flye](https://github.com/fenderglass/Flye)              | 10.1038/s41587-019-0072-8        | 2022 |
-|                              | [HiCanu](https://github.com/marbl/canu)                  | 10.1101/gr.215087.116            | 2021 |
-|                              | [hifiasm](https://github.com/chhylp123/hifiasm)          | 10.1038/s41592-020-01056-5       | 2022 |
-|                              | [IPA](https://github.com/PacificBiosciences/pbipa)       |                                  | 2021 |
-|                              | [LJA](https://github.com/AntonBankevich/LJA)             | 10.1101/2020.12.10.420448        | 2021 |
-|                              | [mdBG](https://github.com/ekimb/rust-mdbg/)              | 10.1016/j.cels.2021.08.009       | 2021 |
-|                              | [MBG](https://github.com/maickrau/MBG)                   | 10.1093/bioinformatics/btab004   | 2021 |
-|                              | [NextDenovo](https://github.com/Nextomics/NextDenovo)    |                                  | 2022 |
-|                              | [Peregrine](https://github.com/cschin/Peregrine)         |                                  | 2021 |
-|                              | [Raven](https://github.com/lbcb-sci/raven)               | 10.1038/s43588-021-00073-4       | 2021 |
-|                              | [wtdbg2](https://github.com/ruanjue/wtdbg2)              | 10.1038/s41592-019-0669-3        | 2021 |
+## Table of contents
+* [Genome assemblers](#Genome-assemblers)
+  * [Sanger reads](#Sanger-reads)
+  * [High-accuracy short reads](#High-accuracy-short-reads)
+  * [Low-accuracy long reads](#Low-accuracy-long-reads)
+  * [High-accuracy long reads](#High-accuracy-long-reads)
+* [Assembly pre and post-processing](#Assembly-pre-and-post-processing)
 
-## Assembly pre/post-processing
+## Genome assemblers
+
+### Sanger reads
+ 
+| Assembler                                                | Publication                      | Last update |
+|:---------------------------------------------------------|:---------------------------------|:-----|
+| [ARACHNE]() | 10.1101/gr.208902 |  |
+| [Atlas]() | 10.1101/gr.2264004 |  | 
+| [CAP3]() | 10.1101/gr.9.9.868 |  |
+| [Celera]() | 10.1093/bioinformatics/btn074 |  |
+| [Euler]() | 10.1073/pnas.171285098 |  |
+| [JAZZ]() | 10.1126/science.1072104 |  |
+| [Minimus]() | 10.1186/1471-2105-8-64 |  |
+| [phrap]() | 10.1101/gr.8.3.186 |
+| [Phusion]() | 10.1101/gr.731003 |  |
+| [TIGR]() | 10.1089/gst.1995.1.9 |  |
+
+### High-accuracy short reads
+
+| Assembler                                                | Publication                      | Last update |
+|:---------------------------------------------------------|:---------------------------------|:-----|
+| [ABySS](https://github.com/bcgsc/abyss)                  | 10.1101/gr.214346.116            | 2022 |
+| [ALLPATHS](https://software.broadinstitute.org/allpaths-lg/blog/?page_id=12) | 10.1101/gr.7337908 | 2008 |
+| [BASE](https://github.com/dhlbh/BASE)                    | 10.1186/s12864-016-2829-5        | 2017 |
+| [CABOG](http://wgs-assembler.sourceforge.net)            | 10.1093/bioinformatics/btn548    | 2008 |
+| [Edena](http://www.genomic.ch/edena.php)                 | 10.1101/gr.072033.107            | 2013 |
+| [EPGA](https://github.com/bioinfomaticsCSU/EPGA)         | 10.1093/bioinformatics/btu762    | 2017 |
+| [Euler-SR](http://web.archive.org/web/20110720080755/http://euler-assembler.ucsd.edu/euler-sr.1.1.2.tgz) | 10.1101/gr.7088808 | 2011 |
+| Gossamer                                                 | 10.1093/bioinformatics/bts297    | 2012 |
+| [IDBA](https://github.com/loneknightpy/idba)             | 10.1007/978-3-642-12683-3_28     | 2016 |
+| ISEA | 10.1109/TCBB.2016.2550433 |  |
+| [JR-Assembler]() | 10.1073/pnas.1314090110 |  |
+| [LightAssembler]() | 10.1093/bioinformatics/btw470 |  |
+| [Meraculous]() | 10.1371/journal.pone.0023501 |  |
+| [Mira]() | 10.1.1.23.7465 |  |
+| [Newbler]() |  |  |
+| [PCAP]() | 10.1101/gr.1390403 |  |
+| [PE-Assembler]() | 10.1093/bioinformatics/btq626 |  |
+| [PERGA]() | 10.1371/journal.pone.0114253 |  |
+| [Platanus]() | 10.1101/gr.170720.113 |  | 
+| [QSRA]()  | 10.1186/1471-2105-10-69 |  | 
+| [Ray]() | 10.1089/cmb.2009.0238 |  |
+| [Readjoiner]() | 10.1186/1471-2105-13-82 | | 
+| [SGA]() | 10.1101/gr.126953.111 |  |
+| [SHARCGS]() | 10.1101/gr.6435207 |  |
+| [SOAPdenovo]() | 10.1101/gr.097261.109 |  |
+| [SOAPdenovo2]() | 10.1186/2047-217X-1-18 |  |
+| [SPAdes]() | 10.1089/cmb.2012.0021 |  |
+| [SparseAssembler]() | 10.1186/1471-2105-13-S6-S1 |  |
+| [SSAKE]() | 10.1093/bioinformatics/btl629 |  |
+| [SUTTA]() | 10.1093/bioinformatics/btq646 |  |
+| [VCAKE]() | 10.1093/bioinformatics/btm451 |  |
+| [Velvet]() | 10.1002/0471250953.bi1105s31 |  |
+| [Taipan]() | 10.1093/bioinformatics/btp374 |  |
+
+### Low-accuracy long reads
+
+| Assembler                                                | Publication                      | Last update |
+|:---------------------------------------------------------|:---------------------------------|:-----|
+| [Canu](https://github.com/marbl/canu)                    | 10.1101/gr.215087.116            | 2021 |
+| [FALCON](https://github.com/PacificBiosciences/FALCON)   | 10.1038/nmeth.4035               | 2021 |
+| [Flye](https://github.com/fenderglass/Flye)              | 10.1038/s41587-019-0072-8        | 2022 |
+| [HINGE](https://github.com/HingeAssembler/HINGE)         | 10.1101/gr.216465.116            | 2021 |
+| [MECAT](https://github.com/xiaochuanle/MECAT)            | 10.1038/nmeth.4432               | 2019 |
+| [MECAT2](https://github.com/xiaochuanle/MECAT2)          | 10.1038/nmeth.4432               | 2020 |
+| [miniasm](https://github.com/lh3/miniasm)                | 10.1038/nmeth.4432               | 2020 |
+| [NECAT](https://github.com/xiaochuanle/NECAT)            | 10.1038/s41467-020-20236-7       | 2021 |
+| [NextDenovo](https://github.com/Nextomics/NextDenovo)    |                                  | 2022 |
+| [Ra](https://github.com/lbcb-sci/ra)                     | 10.1109/ISPA.2019.8868909        | 2020 |
+| [Raven](https://github.com/lbcb-sci/raven)               | 10.1038/s43588-021-00073-4       | 2021 |
+| [SMARTdenovo](https://github.com/ruanjue/smartdenovo)    | 10.20944/preprints202009.0207.v1 | 2021 |
+| [wtdbg](https://github.com/ruanjue/wtdbg)                |                                  | 2021 |
+| [wtdbg2](https://github.com/ruanjue/wtdbg2)              | 10.1038/s41592-019-0669-3        | 2021 |
+
+### High-accuracy long reads 
+
+| Assembler                                                | Publication                      | Last update |
+|:---------------------------------------------------------|:---------------------------------|:-----|
+| [Flye](https://github.com/fenderglass/Flye)              | 10.1038/s41587-019-0072-8        | 2022 |
+| [HiCanu](https://github.com/marbl/canu)                  | 10.1101/gr.215087.116            | 2021 |
+| [hifiasm](https://github.com/chhylp123/hifiasm)          | 10.1038/s41592-020-01056-5       | 2022 |
+| [IPA](https://github.com/PacificBiosciences/pbipa)       |                                  | 2021 |
+| [LJA](https://github.com/AntonBankevich/LJA)             | 10.1101/2020.12.10.420448        | 2021 |
+| [mdBG](https://github.com/ekimb/rust-mdbg/)              | 10.1016/j.cels.2021.08.009       | 2021 |
+| [MBG](https://github.com/maickrau/MBG)                   | 10.1093/bioinformatics/btab004   | 2021 |
+| [NextDenovo](https://github.com/Nextomics/NextDenovo)    |                                  | 2022 |
+| [Peregrine](https://github.com/cschin/Peregrine)         |                                  | 2021 |
+| [Raven](https://github.com/lbcb-sci/raven)               | 10.1038/s43588-021-00073-4       | 2021 |
+| [wtdbg2](https://github.com/ruanjue/wtdbg2)              | 10.1038/s41592-019-0669-3        | 2021 |
+
+## Assembly pre and post-processing
 
 | Step               | Reads           | Tool                                                               | Publication                     | Last update |
 |:-------------------|:----------------|:-------------------------------------------------------------------|:--------------------------------|:--------|
