@@ -105,6 +105,7 @@ The category "Last update" takes into account commits and responses from the dev
 | [NextDenovo](https://github.com/Nextomics/NextDenovo)    |                                  | 2022 |
 | [Peregrine](https://github.com/cschin/Peregrine)         |                                  | 2021 |
 | [Raven](https://github.com/lbcb-sci/raven)               | 10.1038/s43588-021-00073-4       | 2021 |
+| [verkko](https://github.com/marbl/verkko)                | 10.1101/2022.06.24.497523        | 2022 |
 | [wtdbg2](https://github.com/ruanjue/wtdbg2)              | 10.1038/s41592-019-0669-3        | 2021 |
 
 ## Assembly pre and post-processing
