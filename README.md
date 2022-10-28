@@ -79,6 +79,7 @@ The category "Last update" takes into account commits and responses from the dev
 | [Canu](https://github.com/marbl/canu)                    | 10.1101/gr.215087.116            | 2021 |
 | [FALCON](https://github.com/PacificBiosciences/FALCON)   | 10.1038/nmeth.4035               | 2021 |
 | [Flye](https://github.com/fenderglass/Flye)              | 10.1038/s41587-019-0072-8        | 2022 |
+| [GoldRush](https://github.com/bcgsc/goldrush)            | 10.1101/2022.10.25.513734        | 2022 | 
 | [HINGE](https://github.com/HingeAssembler/HINGE)         | 10.1101/gr.216465.116            | 2021 |
 | [MECAT](https://github.com/xiaochuanle/MECAT)            | 10.1038/nmeth.4432               | 2019 |
 | [MECAT2](https://github.com/xiaochuanle/MECAT2)          | 10.1038/nmeth.4432               | 2020 |
@@ -146,6 +147,7 @@ The category "Last update" takes into account commits and responses from the dev
 |                 | [Racon](https://github.com/isovic/racon)                           | 10.1101/gr.214270.116           | 2022    |
 | __Long reads__  | Arrow                                                              |                                 | 2014    |
 |                 | [CONSENT](https://github.com/morispi/CONSENT)                      | 10.1038/s41598-020-80757-5      | 2022    |
+|                 | [GoldRush](https://github.com/bcgsc/goldrush)                      | 10.1101/2022.10.25.513734       | 2022    |
 |                 | Quiver                                                             |                                 | 2014    |
 
 
@@ -180,6 +182,7 @@ The category "Last update" takes into account commits and responses from the dev
 | __Long reads__  | [DENTIST](https://github.com/a-ludi/dentist)                       | 10.1093/gigascience/giab100     | 2022    |
 |                 | [FinisherSC](https://github.com/kakitone/finishingTool)            | 10.1093/bioinformatics/btv280   | 2022    |
 |                 | [gapless]() | 10.1101/2022.03.08.483466 |  |
+|                 | [GoldRush](https://github.com/bcgsc/goldrush)                      | 10.1101/2022.10.25.513734       | 2022    |
 |                 | [LINKS](https://github.com/bcgsc/LINKS)                            | 10.1186/s13742-015-0076-3       | 2022    |
 |                 | [LRScaf](https://github.com/shingocat/lrscaf)                      | 10.1186/s12864-019-6337-2       | 2021    |
 |                 | [npScarf](https://github.com/mdcao/npScarf)                        | 10.1038/ncomms14515             | 2019    |
