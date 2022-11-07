@@ -19,9 +19,11 @@ The category "Last update" takes into account commits and responses from the dev
 ## Genome assemblers
 
 {% macro assembler_tbl(assemblers, tech) -%}
+| Assembler | Publication | Last update |
+|:----------|:------------|:------------|
 {% for a in assemblers %}
   {% if a.technology == tech %}
-     [{{a.name}}]({{a.link}}) | {{a.publication}} | {{a.last_update}} |
+    | [{{a.name}}]({{a.link}}) | {{a.publication}} | {{a.last_update}} |
   {% endif %}
 {%- endmacro -%}
 
@@ -29,23 +31,19 @@ The category "Last update" takes into account commits and responses from the dev
 
 ### Sanger reads
  
-Assembler                                                | Publication                      | Last update |
 {{ assembler_tbl(assemblers, "Sanger") }}
 
 
 ### High-accuracy short reads
 
-Assembler                                                | Publication                      | Last update |
 {{ assembler_tbl(assemblers, "High-accuracy short reads") }}
 
 ### Low-accuracy long reads
 
-Assembler                                                | Publication                      | Last update |
 {{ assembler_tbl(assemblers, "Low-accuracy long reads") }}
 
 ### High-accuracy long reads 
 
-Assembler                                                | Publication                      | Last update |
 {{ assembler_tbl(assemblers, "High-accuracy long reads") }}
 
 ## Assembly pre and post-processing
