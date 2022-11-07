@@ -1,0 +1,169 @@
+# Genome assembly tools
+List of genome assembly tools
+
+The category "Last update" takes into account commits and responses from the developers to issues.
+
+## Table of contents
+* [Genome assemblers](#Genome-assemblers)
+  * [Sanger reads](#Sanger-reads)
+  * [High-accuracy short reads](#High-accuracy-short-reads)
+  * [Low-accuracy long reads](#Low-accuracy-long-reads)
+  * [High-accuracy long reads](#High-accuracy-long-reads)
+* [Assembly pre and post-processing](#Assembly-pre-and-post-processing)
+  * [Long-read error correction](#Long-read-error-correction)
+  * [Polishing](#Polishing)
+  * [Haplotig purging](#Haplotig-purging)
+  * [Scaffolding](#Scaffolding)
+  * [Gap filling](#Gap-filling)
+
+## Genome assemblers
+
+{% macro assembler_tbl(assemblers, tech) -%}
+{% for a in assemblers %}
+  {% if a.technology == tech %}
+     [{{a.name}}]({{a.link}}) | {{a.publication}} | {{a.last_update}} |
+  {% endif %}
+{%- endmacro -%}
+
+{{ print_route_info(sh_bgp_routes) }}
+
+### Sanger reads
+ 
+Assembler                                                | Publication                      | Last update |
+{{ assembler_tbl(assemblers, "Sanger") }}
+
+
+### High-accuracy short reads
+
+Assembler                                                | Publication                      | Last update |
+{{ assembler_tbl(assemblers, "High-accuracy short reads") }}
+
+### Low-accuracy long reads
+
+Assembler                                                | Publication                      | Last update |
+{{ assembler_tbl(assemblers, "Low-accuracy long reads") }}
+
+### High-accuracy long reads 
+
+Assembler                                                | Publication                      | Last update |
+{{ assembler_tbl(assemblers, "High-accuracy long reads") }}
+
+## Assembly pre and post-processing
+
+### Long-read error correction
+
+Reads           | Tool                                                               | Publication                     | Last update |
+__Short reads__ | [CoLoRMap](https://github.com/cchauve/CoLoRMap)                    | 10.1093/bioinformatics/btw463   | 2018    |
+                | [Hercules](https://github.com/BilkentCompGen/Hercules)             | 10.1093/nar/gky724              | 2020    |
+                | [HG-CoLoR](https://github.com/morispi/HG-CoLoR)                    | 10.1093/bioinformatics/bty521   | 2021    |
+                | [Jabba](https://github.com/biointec/jabba)                         | 10.1186/s13015-016-0075-7       | 2021    |
+                | [LoRDEC](https://gite.lirmm.fr/lordec/lordec-releases/-/wikis/home)| 10.1093/bioinformatics/btu538   | 2020    |
+                | [LoRMA](https://gite.lirmm.fr/lorma/lorma-releases/-/wikis/home)   | 10.1093/bioinformatics/btw321   | 2019    |
+                | [NaS](https://github.com/institut-de-genomique/NaS)                | 10.1186/s12864-015-1519-z       | 2018    |
+                | [proovread](https://github.com/BioInf-Wuerzburg/proovread)         | 10.1093/bioinformatics/btu392   | 2021    |
+                | [Ratatosk](https://github.com/DecodeGenetics/Ratatosk)             | 10.1186/s13059-020-02244-4      | 2022    |
+__Long reads__  | [Canu](https://github.com/marbl/canu)                              | 10.1101/gr.215087.116           | 2021    |
+                | [CONSENT](https://github.com/morispi/CONSENT)                      | 10.1038/s41598-020-80757-5      | 2022    |
+                | [Daccord](https://github.com/gt1/daccord)                          | 10.1101/106252                  | 2020    |
+                | [FLAS](https://github.com/baoe/FLAS)                               | 10.1093/bioinformatics/btz206   | 2019    |
+                | [HALC](https://github.com/lanl001/halc)                            | 10.1186/s12859-017-1610-3       | 2018    |
+                | [MECAT](https://github.com/xiaochuanle/MECAT)                      | 10.1038/nmeth.4432              | 2019    |
+                | [MECAT2](https://github.com/xiaochuanle/MECAT2)                    | 10.1038/nmeth.4432              | 2020    |
+                | [NECAT](https://github.com/xiaochuanle/NECAT)                      | 10.1038/s41467-020-20236-7      | 2021    |
+                | [NextDenovo](https://github.com/Nextomics/NextDenovo)              |                                 | 2022    |
+
+### Polishing
+
+Reads           | Tool                                                               | Publication                     | Last update |
+__Short reads__ | [ntEdit](https://github.com/bcgsc/ntEdit)                          | 10.1093/bioinformatics/btz400   | 2022    |
+                | [Pilon](https://github.com/broadinstitute/pilon)                   | 10.1371/journal.pone.0112963    | 2021    |
+                | [POLCA](https://github.com/alekseyzimin/masurca)                   | 10.1371/journal.pcbi.1007981    | 2022    |
+__Short reads__ | [Apollo](https://github.com/CMU-SAFARI/Apollo)                     | 10.1093/bioinformatics/btaa179  | 2022    |
+__+ Long reads__| [Hapo-G](https://github.com/institut-de-genomique/HAPO-G)          | 10.1093/nargab/lqab034          | 2022    |
+                | [HyPo](https://github.com/kensung-lab/hypo)                        | 10.1101/2019.12.19.882506       | 2020    |
+                | [Racon](https://github.com/isovic/racon)                           | 10.1101/gr.214270.116           | 2022    |
+__Long reads__  | Arrow                                                              |                                 | 2014    |
+                | [CONSENT](https://github.com/morispi/CONSENT)                      | 10.1038/s41598-020-80757-5      | 2022    |
+                | [GoldRush](https://github.com/bcgsc/goldrush)                      | 10.1101/2022.10.25.513734       | 2022    |
+                | Quiver                                                             |                                 | 2014    |
+
+
+### Haplotig purging
+
+Reads                         | Tool                                                               | Publication                     | Last update |
+__Long reads__                | [HaploMerger2](https://github.com/mapleforest/HaploMerger2)        | 10.1093/bioinformatics/btx220   | 2021    |
+                              | [purge_dups](https://github.com/dfguan/purge_dups)                 | 10.1093/bioinformatics/btaa025  | 2021    |
+                              | [Purge Haplotigs](https://bitbucket.org/mroachawri/purge_haplotigs)| 10.1186/s12859-018-2485-7       | 2022    |
+__Long reads + short reads__  | [Redundans](https://github.com/lpryszcz/redundans)                 | 10.1093/nar/gkw294              | 2021    |
+
+### Scaffolding     
+
+Reads           | Tool                                                               | Publication                     | Last update |
+__Short reads__ | [Bambus]() | 10.1101/gr.1536204 |  |
+__Mate pairs__  | [BATISCAF]() | 10.1101/330472 |  |
+                | [BESST]() | 10.1186/1471-2105-15-281 |  |
+                | [BOSS]() | 10.1093/bioinformatics/btw597 |  |
+                | [GRASS]() | 10.1093/bioinformatics/bts175 |  |
+                | [MIP]() | 10.1093/bioinformatics/btr562 |  |
+                | [Opera]() | 10.1089/cmb.2011.0170 |  |
+                | [ScaffMatch]() | 10.1093/bioinformatics/btv211 |  |
+                | [ScaffoldScaffolder]() | 10.1093/bioinformatics/btv548 |  |
+                | [SCARPA]() | 10.1093/bioinformatics/bts716 |  |
+                | [SCOP]() | 10.1093/bioinformatics/bty773 |  |
+                | [SLIQ]() | 10.1089/cmb.2011.0263 |  |
+                | [SOPRA]() | 10.1186/1471-2105-11-345 |  |
+                | [SSPACE]() | 10.1093/bioinformatics/btq683 |  |
+                | [WiseScaffolder]() | 10.1186/s12859-015-0705-y |  |
+__Long reads__  | [DENTIST](https://github.com/a-ludi/dentist)                       | 10.1093/gigascience/giab100     | 2022    |
+                | [FinisherSC](https://github.com/kakitone/finishingTool)            | 10.1093/bioinformatics/btv280   | 2022    |
+                | [gapless]() | 10.1101/2022.03.08.483466 |  |
+                | [GoldRush](https://github.com/bcgsc/goldrush)                      | 10.1101/2022.10.25.513734       | 2022    |
+                | [LINKS](https://github.com/bcgsc/LINKS)                            | 10.1186/s13742-015-0076-3       | 2022    |
+                | [LRScaf](https://github.com/shingocat/lrscaf)                      | 10.1186/s12864-019-6337-2       | 2021    |
+                | [npScarf](https://github.com/mdcao/npScarf)                        | 10.1038/ncomms14515             | 2019    |
+                | [PBJelly](https://sourceforge.net/projects/pb-jelly/)              | 10.1371/journal.pone.0047768    | 2017    |
+                | [RAILS](https://github.com/bcgsc/RAILS)                          | 10.21105/joss.00116             | 2021    |
+                | [SLR](https://github.com/luojunwei/SLR)                            | 10.1186/s12859-019-3114-9       | 2020    |
+                | [SMIS](https://github.com/wtsi-hpag/smis)                          |                                 | 2018    |
+                | [SMSC](https://github.com/UTbioinf/SMSC)                           | 10.1186/s12864-017-4271-8       | 2019    |
+                | SSPACE-LongRead                                                    | 10.1186/1471-2105-15-211        | 2014    |
+__Genetic maps__| [ALLMAPS](https://github.com/tanghaibao/jcvi/wiki/ALLMAPS)         | 10.1186/s13059-014-0573-1       | 2022    |
+__Optical maps__| [AGORA](https://static-content.springer.com/esm/art%3A10.1186%2F1471-2105-13-189/MediaObjects/12859_2012_5306_MOESM3_ESM.zip)| 10.1186/1471-2105-13-189 | 2012        |
+                | [BiSCoT](https://github.com/institut-de-genomique/biscot)          | 10.7717/peerj.10150             | 2021    |
+                | [OMGS](https://github.com/ucrbioinfo/OMGS)                         | 10.1089/cmb.2019.0310           | 2021    |
+                | [SewingMachine](https://github.com/i5K-KINBRE-script-share/Irys-scaffolding/blob/master/KSU_bioinfo_lab/stitch/sewing_machine_LAB.md) | 10.1186/s12864-015-1911-8 | 2015        |
+                | [SOMA](ftp://ftp.cbcb.umd.edu/pub/software/soma)                   | 10.1093/bioinformatics/btn102   | 2008    |
+__Linked reads__| [ARBitR](https://github.com/markhilt/ARBitR)                       | 10.1093/bioinformatics/btaa975  | 2021    |
+                | [Architect](https://github.com/kuleshov/architect)                 | 10.1093/bioinformatics/btw267   | 2016    |
+                | [ARCS](https://github.com/bcgsc/ARCS/)                             | 10.1093/bioinformatics/btx675   | 2022    |
+                | [ARKS](https://github.com/bcgsc/arks)                              | 10.1186/s12859-018-2243-x       | 2019    |
+                | [fragScaff](https://github.com/adeylab/fragScaff)                  | 10.1101/gr.178319.114           | 2018    |
+                | [scaff10X](https://github.com/wtsi-hpag/Scaff10X)                  |                                 | 2022    |
+__Hi-C__        | [3D-DNA](https://github.com/aidenlab/3d-dna)                       | 10.1126/science.aal3327         | 2021    |
+                | [dnaTri](https://github.com/NoamKaplan/dna-triangulation)          | 10.1038/nbt.2768                | 2016    |
+                | [EndHiC](https://github.com/fanagislab/EndHiC)                     | 10.48550/arXiv.2111.15411       | 2022    |
+                | [GRAAL](https://github.com/koszullab/GRAAL)                        | 10.1038/ncomms6695              | 2018    |
+                | [HiCAssembler](https://github.com/maxplanck-ie/HiCAssembler)       | 10.1101/gad.328971.119          | 2019    |
+                | [instaGRAAL](https://github.com/koszullab/instaGRAAL)              | 10.1186/s13059-020-02041-z      | 2022    |
+                | [Lachesis](https://github.com/shendurelab/LACHESIS)                | 10.1038/nbt.2727                | 2017    |
+                | [pin_hic](https://github.com/dfguan/pin_hic)                       | 10.1186/s12859-021-04453-5      | 2021    |
+                | [SALSA2](https://github.com/marbl/SALSA)                           | 10.1371/journal.pcbi.1007273    | 2021    |
+                | [scaffHiC](https://github.com/wtsi-hpag/scaffHiC)                  |                                 | 2020    |
+                | [YaHS](https://github.com/c-zhou/yahs)                             |                                 | 2022    |
+
+### Gap filling 
+
+Reads           | Tool                                                               | Publication                     | Last update |
+__Short reads__ | [GapFiller]() | 10.1186/gb-2012-13-6-r56 |  |
+                | [GAPPadder]() | 10.1186/s12864-019-5703-4 |  |
+                | [Sealer]() | 10.1186/s12859-015-0663-4 |  |
+__Long reads__  | [Cobbler](https://github.com/bcgsc/RAILS)                          | 10.21105/joss.00116             | 2021    |
+                | [DENTIST](https://github.com/a-ludi/dentist)                       | 10.1093/gigascience/giab100     | 2022    |
+                | [FGAP](https://github.com/pirovc/fgap)                             | 10.1186/1756-0500-7-371         | 2021    |
+                | [FinisherSC](https://github.com/kakitone/finishingTool)            | 10.1093/bioinformatics/btv280   | 2022    |
+                | [gapless]() | 10.1101/2022.03.08.483466 |  |
+                | [GMcloser](https://sourceforge.net/projects/gmcloser/)             | 10.1093/bioinformatics/btv465   | 2018    |
+                | [LR_Gapcloser](https://github.com/CAFS-bioinformatics/LR_Gapcloser)| 10.1093/gigascience/giy157      | 2018    |
+                | [PBJelly](https://sourceforge.net/projects/pb-jelly/)              | 10.1371/journal.pone.0047768    | 2017    |
+                | PGcloser                                                           | 10.1177/1176934320913859        | 2020    |
+                | [TGS-GapCloser](https://github.com/BGI-Qingdao/TGS-GapCloser)      | 10.1093/gigascience/giaa094     | 2022    |
