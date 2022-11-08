@@ -1,9 +1,22 @@
 """Dynamically renders the readme from its jinja2 template and csv of assemblers"""
 import csv
 from dataclasses import dataclass
+import tempfile
+import time
+
+import git
 from typing import Iterable, List, Optional, Type, TypeVar
 
 from jinja2 import Environment, FileSystemLoader
+
+
+def get_last_commit_date(url: str) -> str:
+    """Clones only the .git folder in a tempdir and retrieve
+    the latest commit date."""
+    repo_dir = tempfile.TemporaryDirectory()
+    cloned = git.Repo.clone_from(url, repo_dir.name, no_checkout=True)
+    auth_date = cloned.head.commit.authored_datetime
+    return f"{auth_date.year}-{auth_date.month}"
 
 
 @dataclass
@@ -11,20 +24,23 @@ class Software:
     """Used to allow automatic update-date retrieval in subclasses"""
 
     name: str
-    link: str
+    link: Optional[str]
     publication: Optional[str]
     last_update: Optional[str]
 
     def __post_init__(self):
-        if not self.last_update:
+        if self.link:
             self.set_last_commit_date()
+        # Don't spam git server
+        time.sleep(0.1)
 
     def set_last_commit_date(self):
-        # Dispatch based on URL pattern
-        # e.g. gh api for github.com
-        # git for other git providers
-        # http response header for others ? (unreliable)
-        ...
+        """Read the remote repo to find the latest commit date"""
+        try:
+            self.last_update = get_last_commit_date(self.link)
+        # If this is not a git repo, do nothing
+        except git.GitCommandError:
+            pass
 
 
 @dataclass
@@ -86,7 +102,7 @@ def fmt_processors(procs: Iterable[Processor]):
 env = Environment(loader=FileSystemLoader("."), autoescape=False,)
 
 # Load list of softwares and render templates consecutively.
-# Just dump everything to stdout to compose the readme 🥴
+# Just dump everything to stdout to compose the readme
 
 ### HEADER ###
 
@@ -107,3 +123,4 @@ template = env.get_template("templates/processors.j2")
 # Gotta sort processors and edit them a bit for fancy md formatting
 fmt_procs = fmt_processors(procs)
 print(template.render(processors=fmt_procs))
+
