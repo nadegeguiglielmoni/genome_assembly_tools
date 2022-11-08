@@ -5,7 +5,7 @@
 |:------|:------|:------------| ----------- |
 {%- for p in procs -%}
   {% if p.task == task %}
-| [{{p.name}}]({{p.link}}) | {{p.publication}} | {{p.last_update}} |
+| {{p.reads}} | [{{p.name}}]({{p.link}}) | {{p.publication}} | {{p.last_update}} |
   {%- endif %}
 {%- endfor %}
 {%- endmacro -%}
