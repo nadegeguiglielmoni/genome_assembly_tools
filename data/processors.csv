@@ -1,0 +1,98 @@
+task,reads,name,link,publication,last_update
+Long-read error correction,Short reads,CoLoRMap,https://github.com/cchauve/CoLoRMap,10.1093/bioinformatics/btw463,2018
+Long-read error correction,Short reads,Hercules,https://github.com/BilkentCompGen/Hercules,10.1093/nar/gky724,2020
+Long-read error correction,Short reads,HG-CoLoR,https://github.com/morispi/HG-CoLoR,10.1093/bioinformatics/bty521,2021
+Long-read error correction,Short reads,Jabba,https://github.com/biointec/jabba,10.1186/s13015-016-0075-7,2021
+Long-read error correction,Short reads,LoRDEC,https://gite.lirmm.fr/lordec/lordec-releases/-/wikis/home, 10.1093/bioinformatics/btu538,2020
+Long-read error correction,Short reads,LoRMA,https://gite.lirmm.fr/lorma/lorma-releases/-/wikis/home,10.1093/bioinformatics/btw321,2019
+Long-read error correction,Short reads,NaS,https://github.com/institut-de-genomique/NaS,10.1186/s12864-015-1519-z,2018
+Long-read error correction,Short reads,proovread,https://github.com/BioInf-Wuerzburg/proovread,10.1093/bioinformatics/btu392,2021
+Long-read error correction,Short reads,Ratatosk,https://github.com/DecodeGenetics/Ratatosk,10.1186/s13059-020-02244-4,2022
+Long-read error correction,Long reads,Canu,https://github.com/marbl/canu,10.1101/gr.215087.116,2021
+Long-read error correction,Long reads,CONSENT,https://github.com/morispi/CONSENT,10.1038/s41598-020-80757-5,2022
+Long-read error correction,Long reads,Daccord,https://github.com/gt1/daccord,10.1101/106252,2020
+Long-read error correction,Long reads,FLAS,https://github.com/baoe/FLAS,10.1093/bioinformatics/btz206,2019
+Long-read error correction,Long reads,HALC,https://github.com/lanl001/halc,10.1186/s12859-017-1610-3,2018
+Long-read error correction,Long reads,MECAT,https://github.com/xiaochuanle/MECAT,10.1038/nmeth.4432,2019
+Long-read error correction,Long reads,MECAT2,https://github.com/xiaochuanle/MECAT2,10.1038/nmeth.4432,2020
+Long-read error correction,Long reads,NECAT,https://github.com/xiaochuanle/NECAT,10.1038/s41467-020-20236-7,2021
+Long-read error correction,Long reads,NextDenovo,https://github.com/Nextomics/NextDenovo, 2022
+Polishing,Short reads,ntEdit,https://github.com/bcgsc/ntEdit,10.1093/bioinformatics/btz400,2022
+Polishing,Short reads,Pilon,https://github.com/broadinstitute/pilon,10.1371/journal.pone.0112963,2021
+Polishing,Short reads,POLCA,https://github.com/alekseyzimin/masurca,10.1371/journal.pcbi.1007981,2022
+Polishing,Short reads,Apollo,https://github.com/CMU-SAFARI/Apollo,10.1093/bioinformatics/btaa179,2022
+Polishing,Long reads + short reads, Hapo-G,https://github.com/institut-de-genomique/HAPO-G,10.1093/nargab/lqab034,2022
+Polishing,Long reads + short reads,HyPo,https://github.com/kensung-lab/hypo,10.1101/2019.12.19.882506,2020
+Polishing,Long reads + short reads,Racon,https://github.com/isovic/racon,10.1101/gr.214270.116,2022
+Polishing,Long reads,Arrow, 2014
+Polishing,Long reads,CONSENT,https://github.com/morispi/CONSENT,10.1038/s41598-020-80757-5,2022
+Polishing,Long reads,GoldRush,https://github.com/bcgsc/goldrush,10.1101/2022.10.25.513734,2022
+Polishing,Long reads,Quiver, 2014
+Haplotig purging,Long reads,HaploMerger2,https://github.com/mapleforest/HaploMerger2,10.1093/bioinformatics/btx220,2021
+Haplotig purging,Long reads,purge_dups,https://github.com/dfguan/purge_dups,10.1093/bioinformatics/btaa025,2021
+Haplotig purging,Long reads,Purge Haplotigs,https://bitbucket.org/mroachawri/purge_haplotigs, 10.1186/s12859-018-2485-7,2022
+Haplotig purging,Long reads + short reads,Redundans,https://github.com/lpryszcz/redundans,10.1093/nar/gkw294,2021
+Scaffolding,Short reads,Bambus,,10.1101/gr.1536204,
+Scaffolding,Mate pairs,BATISCAF,,10.1101/330472,
+Scaffolding,Mate pairs,BESST,,10.1186/1471-2105-15-281,
+Scaffolding,Mate pairs,BOSS,,10.1093/bioinformatics/btw597,
+Scaffolding,Mate pairs,GRASS,,10.1093/bioinformatics/bts175,
+Scaffolding,Mate pairs,MIP,,10.1093/bioinformatics/btr562,
+Scaffolding,Mate pairs,Opera,,10.1089/cmb.2011.0170,
+Scaffolding,Mate pairs,ScaffMatch,,10.1093/bioinformatics/btv211,
+Scaffolding,Mate pairs,ScaffoldScaffolder,,10.1093/bioinformatics/btv548,
+Scaffolding,Mate pairs,SCARPA,,10.1093/bioinformatics/bts716,
+Scaffolding,Mate pairs,SCOP,,10.1093/bioinformatics/bty773,
+Scaffolding,Mate pairs,SLIQ,,10.1089/cmb.2011.0263,
+Scaffolding,Mate pairs,SOPRA,,10.1186/1471-2105-11-345,
+Scaffolding,Mate pairs,SSPACE,,10.1093/bioinformatics/btq683,
+Scaffolding,Mate pairs,WiseScaffolder,,10.1186/s12859-015-0705-y,
+Scaffolding,Long reads,DENTIST,https://github.com/a-ludi/dentist,10.1093/gigascience/giab100,2022
+Scaffolding,Long reads,FinisherSC,https://github.com/kakitone/finishingTool,10.1093/bioinformatics/btv280,2022
+Scaffolding,Long reads,gapless,,10.1101/2022.03.08.483466,
+Scaffolding,Long reads,GoldRush,https://github.com/bcgsc/goldrush,10.1101/2022.10.25.513734,2022
+Scaffolding,Long reads,LINKS,https://github.com/bcgsc/LINKS,10.1186/s13742-015-0076-3,2022
+Scaffolding,Long reads,LRScaf,https://github.com/shingocat/lrscaf,10.1186/s12864-019-6337-2,2021
+Scaffolding,Long reads,npScarf,https://github.com/mdcao/npScarf,10.1038/ncomms14515,2019
+Scaffolding,Long reads,PBJelly,https://sourceforge.net/projects/pb-jelly/,10.1371/journal.pone.0047768,2017
+Scaffolding,Long reads,RAILS,https://github.com/bcgsc/RAILS,10.21105/joss.00116,2021
+Scaffolding,Long reads,SLR,https://github.com/luojunwei/SLR,10.1186/s12859-019-3114-9,2020
+Scaffolding,Long reads,SMIS,https://github.com/wtsi-hpag/smis, 2018
+Scaffolding,Long reads,SMSC,https://github.com/UTbioinf/SMSC,10.1186/s12864-017-4271-8,2019
+Scaffolding,Long reads,SSPACE-LongRead,10.1186/1471-2105-15-211,2014
+Scaffolding,Genetic maps, ALLMAPS,https://github.com/tanghaibao/jcvi/wiki/ALLMAPS,10.1186/s13059-014-0573-1,2022
+Scaffolding,Optical maps, AGORA,https://static-content.springer.com/esm/art%3A10.1186%2F1471-2105-13-189/MediaObjects/12859_2012_5306_MOESM3_ESM.zip, 10.1186/1471-2105-13-189,2012
+Scaffolding,Optical maps,BiSCoT,https://github.com/institut-de-genomique/biscot,10.7717/peerj.10150,2021
+Scaffolding,Optical maps,OMGS,https://github.com/ucrbioinfo/OMGS,10.1089/cmb.2019.0310,2021
+Scaffolding,Optical maps,SewingMachine,https://github.com/i5K-KINBRE-script-share/Irys-scaffolding/blob/master/KSU_bioinfo_lab/stitch/sewing_machine_LAB.md,10.1186/s12864-015-1911-8,2015
+Scaffolding,Optical maps,SOMA,ftp://ftp.cbcb.umd.edu/pub/software/soma,10.1093/bioinformatics/btn102,2008
+Scaffolding,Linked reads, ARBitR,https://github.com/markhilt/ARBitR,10.1093/bioinformatics/btaa975,2021
+Scaffolding,Linked reads,Architect,https://github.com/kuleshov/architect,10.1093/bioinformatics/btw267,2016
+Scaffolding,Linked reads,ARCS,https://github.com/bcgsc/ARCS/,10.1093/bioinformatics/btx675,2022
+Scaffolding,Linked reads,ARKS,https://github.com/bcgsc/arks,10.1186/s12859-018-2243-x,2019
+Scaffolding,Linked reads,fragScaff,https://github.com/adeylab/fragScaff,10.1101/gr.178319.114,2018
+Scaffolding,Linked reads,scaff10X,https://github.com/wtsi-hpag/Scaff10X, 2022
+Scaffolding,Hi-C,3D-DNA,https://github.com/aidenlab/3d-dna,10.1126/science.aal3327,2021
+Scaffolding,Hi-C,dnaTri,https://github.com/NoamKaplan/dna-triangulation,10.1038/nbt.2768,2016
+Scaffolding,Hi-C,EndHiC,https://github.com/fanagislab/EndHiC,10.48550/arXiv.2111.15411,2022
+Scaffolding,Hi-C,GRAAL,https://github.com/koszullab/GRAAL,10.1038/ncomms6695,2018
+Scaffolding,Hi-C,HiCAssembler,https://github.com/maxplanck-ie/HiCAssembler,10.1101/gad.328971.119,2019
+Scaffolding,Hi-C,instaGRAAL,https://github.com/koszullab/instaGRAAL,10.1186/s13059-020-02041-z,2022
+Scaffolding,Hi-C,Lachesis,https://github.com/shendurelab/LACHESIS,10.1038/nbt.2727,2017
+Scaffolding,Hi-C,pin_hic,https://github.com/dfguan/pin_hic,10.1186/s12859-021-04453-5,2021
+Scaffolding,Hi-C,SALSA2,https://github.com/marbl/SALSA,10.1371/journal.pcbi.1007273,2021
+Scaffolding,Hi-C,scaffHiC,https://github.com/wtsi-hpag/scaffHiC, 2020
+Scaffolding,Hi-C,YaHS,https://github.com/c-zhou/yahs, 2022
+Gap filling,Short reads,GapFiller,,10.1186/gb-2012-13-6-r56,
+Gap filling,Short reads,GAPPadder,,10.1186/s12864-019-5703-4,
+Gap filling,Short reads,Sealer,,10.1186/s12859-015-0663-4,
+Gap filling,Long reads,Cobbler,https://github.com/bcgsc/RAILS,10.21105/joss.00116,2021
+Gap filling,Long reads,DENTIST,https://github.com/a-ludi/dentist,10.1093/gigascience/giab100,2022
+Gap filling,Long reads,FGAP,https://github.com/pirovc/fgap,10.1186/1756-0500-7-371,2021
+Gap filling,Long reads,FinisherSC,https://github.com/kakitone/finishingTool,10.1093/bioinformatics/btv280,2022
+Gap filling,Long reads,gapless,,10.1101/2022.03.08.483466,
+Gap filling,Long reads,GMcloser,https://sourceforge.net/projects/gmcloser/,10.1093/bioinformatics/btv465,2018
+Gap filling,Long reads,LR_Gapcloser,https://github.com/CAFS-bioinformatics/LR_Gapcloser, 10.1093/gigascience/giy157,2018
+Gap filling,Long reads,PBJelly,https://sourceforge.net/projects/pb-jelly/,10.1371/journal.pone.0047768,2017
+Gap filling,Long reads,PGcloser,10.1177/1176934320913859,2020
+Gap filling,Long reads,TGS-GapCloser,https://github.com/BGI-Qingdao/TGS-GapCloser,10.1093/gigascience/giaa094,2022
