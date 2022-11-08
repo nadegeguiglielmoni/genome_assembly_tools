@@ -1,0 +1,31 @@
+## Assembly pre and post-processing
+
+{% macro processors_tbl(procs, task) -%}
+| Reads | Tool  | Publication | Last update |
+|:------|:------|:------------| ----------- |
+{%- for p in procs -%}
+  {% if p.task == task %}
+| [{{p.name}}]({{p.link}}) | {{p.publication}} | {{p.last_update}} |
+  {%- endif %}
+{%- endfor %}
+{%- endmacro -%}
+
+### Long-read error correction
+ 
+{{ processors_tbl(assemblers, "Long-read error correction") }}
+
+### Polishing
+
+{{ processors_tbl(processors, "Polishing") }}
+
+### Haplotig purging
+
+{{ processors_tbl(processors, "Haplotig purging") }}
+
+### Scaffolding
+
+{{ processors_tbl(processors, "Scaffolding") }}
+
+### Gap filling
+
+{{ processors_tbl(processors, "Scaffolding") }}
