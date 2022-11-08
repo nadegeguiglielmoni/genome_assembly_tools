@@ -1,4 +1,4 @@
-"""Renders the readme from its jinja2 template and csv of assemblers"""
+"""Dynamically renders the readme from its jinja2 template and csv of assemblers"""
 import csv
 from dataclasses import dataclass
 from typing import List, Optional, Type
@@ -45,15 +45,29 @@ def load_softwares(path: str, soft_type: Type[Software]) -> List[Software]:
         reader = csv.DictReader(csvfile)
         for row in reader:
             # csv fields expand to dataclass attrs
-            print(row)
             softs.append(soft_type(**row))
     return softs
 
 
 env = Environment(loader=FileSystemLoader("."), autoescape=False,)
 
-# Load list of assemblers and render template
+# Load list of softwares and render templates consecutively.
+# Just dump everything to stdout to compose the readme 🥴
+
+### HEADER ###
+
+with open("templates/header.md") as header:
+    print(header.read())
+
+### ASSEMBLERS ###
+
 assemblers = load_softwares("data/assemblers.csv", Assembler)
-template = env.get_template("templates/assemblers.tmpl")
+template = env.get_template("templates/assemblers.j2")
 print(template.render(assemblers=assemblers))
 
+### PRE/POST PROCESSORS ###
+
+print("## Assembly pre and post-processing")
+procs = load_softwares("data/processors.csv", PostProcessor)
+template = env.get_template("templates/processors.j2")
+print(template.render(processors=procs))
