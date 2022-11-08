@@ -1,12 +1,12 @@
 technology,name,link,publication,last_update
 Sanger,ARACHNE,,10.1101/gr.208902,
-Sanger,Atlas,https://www.hgsc.bcm.edu/software/atlas-2,10.1101/gr.2264004,2013,
+Sanger,Atlas,https://www.hgsc.bcm.edu/software/atlas-2,10.1101/gr.2264004,2013
 Sanger,CAP3,https://faculty.sites.iastate.edu/xqhuang/cap3-assembly-program,10.1101/gr.9.9.868,
 Sanger,Celera,,10.1093/bioinformatics/btn074,
 Sanger,Euler,,10.1073/pnas.171285098,
 Sanger,JAZZ,,10.1126/science.1072104,
 Sanger,Minimus,,10.1186/1471-2105-8-64,
-Sanger,phrap,,10.1101/gr.8.3.186
+Sanger,phrap,,10.1101/gr.8.3.186,
 Sanger,Phusion,,10.1101/gr.731003,
 Sanger,TIGR,,10.1089/gst.1995.1.9,
 High-accuracy short reads,ABySS,https://github.com/bcgsc/abyss,10.1101/gr.214346.116,2022
@@ -16,9 +16,9 @@ High-accuracy short reads,CABOG,http://wgs-assembler.sourceforge.net,10.1093/bio
 High-accuracy short reads,Edena,http://www.genomic.ch/edena.php,10.1101/gr.072033.107,2013
 High-accuracy short reads,EPGA,https://github.com/bioinfomaticsCSU/EPGA,10.1093/bioinformatics/btu762,2017
 High-accuracy short reads,Euler-SR,http://web.archive.org/web/20110720080755/http://euler-assembler.ucsd.edu/euler-sr.1.1.2.tgz,10.1101/gr.7088808,2011
-High-accuracy short reads,Gossamer,10.1093/bioinformatics/bts297,2012
+High-accuracy short reads,Gossamer,,10.1093/bioinformatics/bts297,2012
 High-accuracy short reads,IDBA,https://github.com/loneknightpy/idba,10.1007/978-3-642-12683-3_28,2016
-High-accuracy short reads,ISEA,10.1109/TCBB.2016.2550433,
+High-accuracy short reads,ISEA,,10.1109/TCBB.2016.2550433,
 High-accuracy short reads,JR-Assembler,,10.1073/pnas.1314090110,
 High-accuracy short reads,LightAssembler,,10.1093/bioinformatics/btw470,
 High-accuracy short reads,Meraculous,,10.1371/journal.pone.0023501,
@@ -28,10 +28,10 @@ High-accuracy short reads,Newbler,,,
 High-accuracy short reads,PCAP,https://faculty.sites.iastate.edu/xqhuang/pcap-assembly-program,10.1101/gr.1390403,
 High-accuracy short reads,PE-Assembler,,10.1093/bioinformatics/btq626,
 High-accuracy short reads,PERGA,,10.1371/journal.pone.0114253,
-High-accuracy short reads,Platanus,,10.1101/gr.170720.113,,
-High-accuracy short reads,QSRA,,10.1186/1471-2105-10-69,,
+High-accuracy short reads,Platanus,,10.1101/gr.170720.113,
+High-accuracy short reads,QSRA,,10.1186/1471-2105-10-69,
 High-accuracy short reads,Ray,,10.1089/cmb.2009.0238,
-High-accuracy short reads,Readjoiner,,10.1186/1471-2105-13-82,,
+High-accuracy short reads,Readjoiner,,10.1186/1471-2105-13-82,
 High-accuracy short reads,SGA,,10.1101/gr.126953.111,
 High-accuracy short reads,SHARCGS,,10.1101/gr.6435207,
 High-accuracy short reads,SOAPdenovo,,10.1101/gr.097261.109,
@@ -46,7 +46,7 @@ High-accuracy short reads,Taipan,,10.1093/bioinformatics/btp374,
 Low-accuracy long reads,Canu,https://github.com/marbl/canu,10.1101/gr.215087.116,2021
 Low-accuracy long reads,FALCON,https://github.com/PacificBiosciences/FALCON,10.1038/nmeth.4035,2021
 Low-accuracy long reads,Flye,https://github.com/fenderglass/Flye,10.1038/s41587-019-0072-8,2022
-Low-accuracy long reads,GoldRush,https://github.com/bcgsc/goldrush,10.1101/2022.10.25.513734,2022,
+Low-accuracy long reads,GoldRush,https://github.com/bcgsc/goldrush,10.1101/2022.10.25.513734,2022
 Low-accuracy long reads,HINGE,https://github.com/HingeAssembler/HINGE,10.1101/gr.216465.116,2021
 Low-accuracy long reads,MECAT,https://github.com/xiaochuanle/MECAT,10.1038/nmeth.4432,2019
 Low-accuracy long reads,MECAT2,https://github.com/xiaochuanle/MECAT2,10.1038/nmeth.4432,2020
