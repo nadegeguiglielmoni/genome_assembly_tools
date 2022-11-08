@@ -31,8 +31,8 @@ class Software:
     def __post_init__(self):
         if self.link:
             self.set_last_commit_date()
-        # Don't spam git server
-        time.sleep(0.1)
+            # Don't spam git server
+            time.sleep(0.1)
 
     def set_last_commit_date(self):
         """Read the remote repo to find the latest commit date"""
