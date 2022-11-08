@@ -3,13 +3,12 @@
 {% macro assembler_tbl(assemblers, tech) -%}
 | Assembler | Publication | Last update |
 |:----------|:------------|:------------|
-{% for a in assemblers %}
+{%- for a in assemblers -%}
   {% if a.technology == tech %}
-    | [{{a.name}}]({{a.link}}) | {{a.publication}} | {{a.last_update}} |
-  {% endif %}
+| [{{a.name}}]({{a.link}}) | {{a.publication}} | {{a.last_update}} |
+  {%- endif %}
+{%- endfor %}
 {%- endmacro -%}
-
-{{ print_route_info(sh_bgp_routes) }}
 
 ### Sanger reads
  

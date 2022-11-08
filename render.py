@@ -50,7 +50,7 @@ def load_softwares(path: str, soft_type: Type[Software]) -> List[Software]:
     return softs
 
 
-env = Environment(loader=FileSystemLoader("."), autoescape=True,)
+env = Environment(loader=FileSystemLoader("."), autoescape=False,)
 
 # Load list of assemblers and render template
 assemblers = load_softwares("data/assemblers.csv", Assembler)
