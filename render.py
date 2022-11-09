@@ -63,12 +63,15 @@ S = TypeVar("S", Software, Assembler, Processor)
 def load_softwares(path: str, soft_type: Type[S]) -> List[S]:
     """Load a bunch of softwares from CSV file"""
     softs = []
+    n_softs = sum(1 for i in open(path, "rb"))
     with open(path, "r") as csvfile:
         reader = csv.DictReader(csvfile)
-        for row in reader:
+        for idx, row in enumerate(reader):
             # csv fields expand to dataclass attrs
             softs.append(soft_type(**row))
-            logging.info(f'processed: {row["name"]}')
+            logging.info(
+                f'({idx} / {n_softs}) {soft_type.__name__} Done: {row["name"]}'
+            )
     return softs
 
 
