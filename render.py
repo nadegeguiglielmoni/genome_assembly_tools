@@ -15,7 +15,18 @@ logging.basicConfig(format="%(asctime)s - %(message)s", level=logging.INFO)
 
 def get_last_commit_date(url: str) -> str:
     """Clone only the .git folder from target remote
-    into a tempdir and retrieve the latest commit date."""
+    into a tempdir and retrieve the latest commit date.
+    
+    Parameters
+    ----------
+    url: str
+        URL of the git repository.
+    
+    Returns
+    -------
+    str:
+        The date of the last commit in YYYY-MM format.
+    """
     with tempfile.TemporaryDirectory() as repo_dir:
         cloned = git.Repo.clone_from(url, repo_dir, no_checkout=True)
         auth_date = cloned.head.commit.authored_datetime
@@ -48,11 +59,16 @@ class Software:
 
 @dataclass
 class Assembler(Software):
+    """A software used to assemble a genome"""
+
     technology: str
 
 
 @dataclass
 class Processor(Software):
+    """Software used to perform a pre/post-processing
+    task on data in genome assembly."""
+
     task: str
     reads: str
 
@@ -61,7 +77,15 @@ S = TypeVar("S", Software, Assembler, Processor)
 
 
 def load_softwares(path: str, soft_type: Type[S]) -> List[S]:
-    """Load a bunch of softwares from CSV file"""
+    """Load a bunch of softwares from CSV file.
+
+    Parameters
+    ----------
+    path: str
+        Path to CSV file containing the list of softwares.
+    soft_type: type Software, Assembler or Processor
+        The class to use to represent softwares. This
+        affects the fields available."""
     softs = []
     n_softs = sum(1 for i in open(path, "rb"))
     with open(path, "r") as csvfile:
@@ -75,8 +99,8 @@ def load_softwares(path: str, soft_type: Type[S]) -> List[S]:
     return softs
 
 
-def fmt_processors(procs: Iterable[Processor]):
-    """Format processors so that:
+def fmt_processors(procs: Iterable[Processor]) -> List[Processor]:
+    """Format a list of processors so that:
     + They are sorted by task, reads
     + Reads field is in italic
     + Only the first of each read type per task has a value
