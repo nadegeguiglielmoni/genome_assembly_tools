@@ -1,27 +1,30 @@
 """Dynamically renders the readme from its jinja2 template and csv of assemblers"""
+import os
 import csv
 from dataclasses import dataclass
+import logging
 import tempfile
 import time
-
-import git
 from typing import Iterable, List, Optional, Type, TypeVar
 
+import git
 from jinja2 import Environment, FileSystemLoader
+
+logging.basicConfig(format="%(asctime)s - %(message)s", level=logging.INFO)
 
 
 def get_last_commit_date(url: str) -> str:
-    """Clones only the .git folder in a tempdir and retrieve
-    the latest commit date."""
-    repo_dir = tempfile.TemporaryDirectory()
-    cloned = git.Repo.clone_from(url, repo_dir.name, no_checkout=True)
-    auth_date = cloned.head.commit.authored_datetime
+    """Clone only the .git folder from target remote
+    into a tempdir and retrieve the latest commit date."""
+    with tempfile.TemporaryDirectory() as repo_dir:
+        cloned = git.Repo.clone_from(url, repo_dir, no_checkout=True)
+        auth_date = cloned.head.commit.authored_datetime
     return f"{auth_date.year}-{auth_date.month}"
 
 
 @dataclass
 class Software:
-    """Used to allow automatic update-date retrieval in subclasses"""
+    """Defines standard fields and behaviours for all softwares."""
 
     name: str
     link: Optional[str]
@@ -65,6 +68,7 @@ def load_softwares(path: str, soft_type: Type[S]) -> List[S]:
         for row in reader:
             # csv fields expand to dataclass attrs
             softs.append(soft_type(**row))
+            logging.info(f'processed: {row["name"]}')
     return softs
 
 
@@ -117,7 +121,6 @@ print(template.render(assemblers=assemblers))
 
 ### PRE/POST PROCESSORS ###
 
-print("## Assembly pre and post-processing")
 procs = load_softwares("data/processors.csv", Processor)
 template = env.get_template("templates/processors.j2")
 # Gotta sort processors and edit them a bit for fancy md formatting
