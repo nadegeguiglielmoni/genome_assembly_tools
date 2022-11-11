@@ -1,0 +1,28 @@
+## Genome assemblers
+
+{% macro assembler_tbl(assemblers, tech) -%}
+| Assembler | Publication | Last update |
+|:----------|:------------|:------------|
+{%- for a in assemblers -%}
+  {% if a.technology == tech %}
+| [{{a.name}}]({{a.link}}) | {{a.publication}} | {{a.last_update}} |
+  {%- endif %}
+{%- endfor %}
+{%- endmacro -%}
+
+### Sanger reads
+ 
+{{ assembler_tbl(assemblers, "Sanger") }}
+
+
+### High-accuracy short reads
+
+{{ assembler_tbl(assemblers, "High-accuracy short reads") }}
+
+### Low-accuracy long reads
+
+{{ assembler_tbl(assemblers, "Low-accuracy long reads") }}
+
+### High-accuracy long reads 
+
+{{ assembler_tbl(assemblers, "High-accuracy long reads") }}
