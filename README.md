@@ -79,9 +79,9 @@ The category "Last update" takes into account commits and responses from the dev
 
 | Assembler | Publication | Last update |
 |:----------|:------------|:------------|
-| [Canu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2022-10 |
+| [Canu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2022-11 |
 | [FALCON](https://github.com/PacificBiosciences/FALCON) | 10.1038/nmeth.4035 | 2018-4 |
-| [Flye](https://github.com/fenderglass/Flye) | 10.1038/s41587-019-0072-8 | 2022-8 |
+| [Flye](https://github.com/fenderglass/Flye) | 10.1038/s41587-019-0072-8 | 2022-11 |
 | [GoldRush](https://github.com/bcgsc/goldrush) | 10.1101/2022.10.25.513734 | 2022-11 |
 | [HINGE](https://github.com/HingeAssembler/HINGE) | 10.1101/gr.216465.116 | 2019-1 |
 | [MECAT](https://github.com/xiaochuanle/MECAT) | 10.1038/nmeth.4432 | 2019-2 |
@@ -90,7 +90,7 @@ The category "Last update" takes into account commits and responses from the dev
 | [NECAT](https://github.com/xiaochuanle/NECAT) | 10.1038/s41467-020-20236-7 | 2021-3 |
 | [NextDenovo](https://github.com/Nextomics/NextDenovo) |  | 2022-7 |
 | [Ra](https://github.com/lbcb-sci/ra) | 10.1109/ISPA.2019.8868909 | 2018-12 |
-| [Raven](https://github.com/lbcb-sci/raven) | 10.1038/s43588-021-00073-4 | 2022-6 |
+| [Raven](https://github.com/lbcb-sci/raven) | 10.1038/s43588-021-00073-4 | 2022-11 |
 | [SMARTdenovo](https://github.com/ruanjue/smartdenovo) | 10.20944/preprints202009.0207.v1 | 2021-2 |
 | [wtdbg](https://github.com/ruanjue/wtdbg) |  | 2017-3 |
 | [wtdbg2](https://github.com/ruanjue/wtdbg2) | 10.1038/s41592-019-0669-3 | 2020-12 |
@@ -99,17 +99,17 @@ The category "Last update" takes into account commits and responses from the dev
 
 | Assembler | Publication | Last update |
 |:----------|:------------|:------------|
-| [Flye](https://github.com/fenderglass/Flye) | 10.1038/s41587-019-0072-8 | 2022-8 |
-| [HiCanu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2022-10 |
-| [hifiasm](https://github.com/chhylp123/hifiasm) | 10.1038/s41592-020-01056-5 | 2021-9 |
+| [Flye](https://github.com/fenderglass/Flye) | 10.1038/s41587-019-0072-8 | 2022-11 |
+| [HiCanu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2022-11 |
+| [hifiasm](https://github.com/chhylp123/hifiasm) | 10.1038/s41592-020-01056-5 | 2022-11 |
 | [IPA](https://github.com/PacificBiosciences/pbipa) |  | 2022-3 |
 | [LJA](https://github.com/AntonBankevich/LJA) | 10.1101/2020.12.10.420448 | 2022-1 |
 | [mdBG](https://github.com/ekimb/rust-mdbg/) | 10.1016/j.cels.2021.08.009 | 2022-10 |
 | [MBG](https://github.com/maickrau/MBG) | 10.1093/bioinformatics/btab004 | 2022-11 |
 | [NextDenovo](https://github.com/Nextomics/NextDenovo) |  | 2022-7 |
 | [Peregrine](https://github.com/cschin/Peregrine) |  | 2022-2 |
-| [Raven](https://github.com/lbcb-sci/raven) | 10.1038/s43588-021-00073-4 | 2022-6 |
-| [verkko](https://github.com/marbl/verkko) | 10.1101/2022.06.24.497523 | 2022-10 |
+| [Raven](https://github.com/lbcb-sci/raven) | 10.1038/s43588-021-00073-4 | 2022-11 |
+| [verkko](https://github.com/marbl/verkko) | 10.1101/2022.06.24.497523 | 2022-11 |
 | [wtdbg2](https://github.com/ruanjue/wtdbg2) | 10.1038/s41592-019-0669-3 | 2020-12 |
 ## Assembly pre and post-processing
 
@@ -117,7 +117,7 @@ The category "Last update" takes into account commits and responses from the dev
  
 | Reads | Tool  | Publication | Last update |
 |:------|:------|:------------| ----------- |
-| __Long reads__ | [Canu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2022-10 |
+| __Long reads__ | [Canu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2022-11 |
 |  | [CONSENT](https://github.com/morispi/CONSENT) | 10.1038/s41598-020-80757-5 | 2021-9 |
 |  | [Daccord](https://github.com/gt1/daccord) | 10.1101/106252 | 2018-9 |
 |  | [FLAS](https://github.com/baoe/FLAS) | 10.1093/bioinformatics/btz206 | 2019-2 |
@@ -125,7 +125,7 @@ The category "Last update" takes into account commits and responses from the dev
 |  | [MECAT](https://github.com/xiaochuanle/MECAT) | 10.1038/nmeth.4432 | 2019-2 |
 |  | [MECAT2](https://github.com/xiaochuanle/MECAT2) | 10.1038/nmeth.4432 | 2020-4 |
 |  | [NECAT](https://github.com/xiaochuanle/NECAT) | 10.1038/s41467-020-20236-7 | 2021-3 |
-|  | [NextDenovo](https://github.com/Nextomics/NextDenovo) |  2022 | 2022-7 |
+|  | [NextDenovo](https://github.com/Nextomics/NextDenovo) |  | 2022-7 |
 | __Short reads__ | [CoLoRMap](https://github.com/cchauve/CoLoRMap) | 10.1093/bioinformatics/btw463 | 2018-3 |
 |  | [Hercules](https://github.com/BilkentCompGen/Hercules) | 10.1093/nar/gky724 | 2018-8 |
 |  | [HG-CoLoR](https://github.com/morispi/HG-CoLoR) | 10.1093/bioinformatics/bty521 | 2021-1 |
@@ -134,16 +134,16 @@ The category "Last update" takes into account commits and responses from the dev
 |  | [LoRMA](https://gite.lirmm.fr/lorma/lorma-releases/-/wikis/home) | 10.1093/bioinformatics/btw321 | 2019 |
 |  | [NaS](https://github.com/institut-de-genomique/NaS) | 10.1186/s12864-015-1519-z | 2017-3 |
 |  | [proovread](https://github.com/BioInf-Wuerzburg/proovread) | 10.1093/bioinformatics/btu392 | 2019-5 |
-|  | [Ratatosk](https://github.com/DecodeGenetics/Ratatosk) | 10.1186/s13059-020-02244-4 | 2022-4 |
+|  | [Ratatosk](https://github.com/DecodeGenetics/Ratatosk) | 10.1186/s13059-020-02244-4 | 2022-11 |
 
 ### Polishing
 
 | Reads | Tool  | Publication | Last update |
 |:------|:------|:------------| ----------- |
-| __Long reads__ | [Arrow]( 2014) | None | None |
+| __Long reads__ | [Arrow]() |  | 2014 |
 |  | [CONSENT](https://github.com/morispi/CONSENT) | 10.1038/s41598-020-80757-5 | 2021-9 |
 |  | [GoldRush](https://github.com/bcgsc/goldrush) | 10.1101/2022.10.25.513734 | 2022-11 |
-|  | [Quiver]( 2014) | None | None |
+|  | [Quiver]() |  | 2014 |
 | __Long reads + short reads__ | [ Hapo-G](https://github.com/institut-de-genomique/HAPO-G) | 10.1093/nargab/lqab034 | 2022-11 |
 |  | [HyPo](https://github.com/kensung-lab/hypo) | 10.1101/2019.12.19.882506 | 2020-2 |
 |  | [Racon](https://github.com/isovic/racon) | 10.1101/gr.214270.116 | 2020-8 |
@@ -171,18 +171,18 @@ The category "Last update" takes into account commits and responses from the dev
 |  | [EndHiC](https://github.com/fanagislab/EndHiC) | 10.48550/arXiv.2111.15411 | 2022-10 |
 |  | [GRAAL](https://github.com/koszullab/GRAAL) | 10.1038/ncomms6695 | 2020-1 |
 |  | [HiCAssembler](https://github.com/maxplanck-ie/HiCAssembler) | 10.1101/gad.328971.119 | 2019-11 |
-|  | [instaGRAAL](https://github.com/koszullab/instaGRAAL) | 10.1186/s13059-020-02041-z | 2022-4 |
+|  | [instaGRAAL](https://github.com/koszullab/instaGRAAL) | 10.1186/s13059-020-02041-z | 2022-11 |
 |  | [Lachesis](https://github.com/shendurelab/LACHESIS) | 10.1038/nbt.2727 | 2017-12 |
 |  | [pin_hic](https://github.com/dfguan/pin_hic) | 10.1186/s12859-021-04453-5 | 2021-12 |
 |  | [SALSA2](https://github.com/marbl/SALSA) | 10.1371/journal.pcbi.1007273 | 2022-4 |
-|  | [scaffHiC](https://github.com/wtsi-hpag/scaffHiC) |  2020 | 2020-3 |
-|  | [YaHS](https://github.com/c-zhou/yahs) |  2022 | 2022-9 |
+|  | [scaffHiC](https://github.com/wtsi-hpag/scaffHiC) |  | 2020-3 |
+|  | [YaHS](https://github.com/c-zhou/yahs) |  | 2022-9 |
 | __Linked reads__ | [ ARBitR](https://github.com/markhilt/ARBitR) | 10.1093/bioinformatics/btaa975 | 2020-10 |
 |  | [Architect](https://github.com/kuleshov/architect) | 10.1093/bioinformatics/btw267 | 2016-10 |
 |  | [ARCS](https://github.com/bcgsc/ARCS/) | 10.1093/bioinformatics/btx675 | 2022-6 |
 |  | [ARKS](https://github.com/bcgsc/arks) | 10.1186/s12859-018-2243-x | 2019-12 |
 |  | [fragScaff](https://github.com/adeylab/fragScaff) | 10.1101/gr.178319.114 | 2018-11 |
-|  | [scaff10X](https://github.com/wtsi-hpag/Scaff10X) |  2022 | 2022-1 |
+|  | [scaff10X](https://github.com/wtsi-hpag/Scaff10X) |  | 2022-1 |
 | __Long reads__ | [DENTIST](https://github.com/a-ludi/dentist) | 10.1093/gigascience/giab100 | 2022-10 |
 |  | [FinisherSC](https://github.com/kakitone/finishingTool) | 10.1093/bioinformatics/btv280 | 2016-11 |
 |  | [gapless]() | 10.1101/2022.03.08.483466 |  |
@@ -193,9 +193,9 @@ The category "Last update" takes into account commits and responses from the dev
 |  | [PBJelly](https://sourceforge.net/projects/pb-jelly/) | 10.1371/journal.pone.0047768 | 2017 |
 |  | [RAILS](https://github.com/bcgsc/RAILS) | 10.21105/joss.00116 | 2022-8 |
 |  | [SLR](https://github.com/luojunwei/SLR) | 10.1186/s12859-019-3114-9 | 2020-8 |
-|  | [SMIS](https://github.com/wtsi-hpag/smis) |  2018 | 2018-2 |
+|  | [SMIS](https://github.com/wtsi-hpag/smis) |  | 2018-2 |
 |  | [SMSC](https://github.com/UTbioinf/SMSC) | 10.1186/s12864-017-4271-8 | 2019-9 |
-|  | [SSPACE-LongRead](10.1186/1471-2105-15-211) | 2014 | None |
+|  | [SSPACE-LongRead]() | 10.1186/1471-2105-15-211 | 2014 |
 | __Mate pairs__ | [BATISCAF]() | 10.1101/330472 |  |
 |  | [BESST]() | 10.1186/1471-2105-15-281 |  |
 |  | [BOSS]() | 10.1093/bioinformatics/btw597 |  |
@@ -227,18 +227,18 @@ The category "Last update" takes into account commits and responses from the dev
 |  | [EndHiC](https://github.com/fanagislab/EndHiC) | 10.48550/arXiv.2111.15411 | 2022-10 |
 |  | [GRAAL](https://github.com/koszullab/GRAAL) | 10.1038/ncomms6695 | 2020-1 |
 |  | [HiCAssembler](https://github.com/maxplanck-ie/HiCAssembler) | 10.1101/gad.328971.119 | 2019-11 |
-|  | [instaGRAAL](https://github.com/koszullab/instaGRAAL) | 10.1186/s13059-020-02041-z | 2022-4 |
+|  | [instaGRAAL](https://github.com/koszullab/instaGRAAL) | 10.1186/s13059-020-02041-z | 2022-11 |
 |  | [Lachesis](https://github.com/shendurelab/LACHESIS) | 10.1038/nbt.2727 | 2017-12 |
 |  | [pin_hic](https://github.com/dfguan/pin_hic) | 10.1186/s12859-021-04453-5 | 2021-12 |
 |  | [SALSA2](https://github.com/marbl/SALSA) | 10.1371/journal.pcbi.1007273 | 2022-4 |
-|  | [scaffHiC](https://github.com/wtsi-hpag/scaffHiC) |  2020 | 2020-3 |
-|  | [YaHS](https://github.com/c-zhou/yahs) |  2022 | 2022-9 |
+|  | [scaffHiC](https://github.com/wtsi-hpag/scaffHiC) |  | 2020-3 |
+|  | [YaHS](https://github.com/c-zhou/yahs) |  | 2022-9 |
 | __Linked reads__ | [ ARBitR](https://github.com/markhilt/ARBitR) | 10.1093/bioinformatics/btaa975 | 2020-10 |
 |  | [Architect](https://github.com/kuleshov/architect) | 10.1093/bioinformatics/btw267 | 2016-10 |
 |  | [ARCS](https://github.com/bcgsc/ARCS/) | 10.1093/bioinformatics/btx675 | 2022-6 |
 |  | [ARKS](https://github.com/bcgsc/arks) | 10.1186/s12859-018-2243-x | 2019-12 |
 |  | [fragScaff](https://github.com/adeylab/fragScaff) | 10.1101/gr.178319.114 | 2018-11 |
-|  | [scaff10X](https://github.com/wtsi-hpag/Scaff10X) |  2022 | 2022-1 |
+|  | [scaff10X](https://github.com/wtsi-hpag/Scaff10X) |  | 2022-1 |
 | __Long reads__ | [DENTIST](https://github.com/a-ludi/dentist) | 10.1093/gigascience/giab100 | 2022-10 |
 |  | [FinisherSC](https://github.com/kakitone/finishingTool) | 10.1093/bioinformatics/btv280 | 2016-11 |
 |  | [gapless]() | 10.1101/2022.03.08.483466 |  |
@@ -249,9 +249,9 @@ The category "Last update" takes into account commits and responses from the dev
 |  | [PBJelly](https://sourceforge.net/projects/pb-jelly/) | 10.1371/journal.pone.0047768 | 2017 |
 |  | [RAILS](https://github.com/bcgsc/RAILS) | 10.21105/joss.00116 | 2022-8 |
 |  | [SLR](https://github.com/luojunwei/SLR) | 10.1186/s12859-019-3114-9 | 2020-8 |
-|  | [SMIS](https://github.com/wtsi-hpag/smis) |  2018 | 2018-2 |
+|  | [SMIS](https://github.com/wtsi-hpag/smis) |  | 2018-2 |
 |  | [SMSC](https://github.com/UTbioinf/SMSC) | 10.1186/s12864-017-4271-8 | 2019-9 |
-|  | [SSPACE-LongRead](10.1186/1471-2105-15-211) | 2014 | None |
+|  | [SSPACE-LongRead]() | 10.1186/1471-2105-15-211 | 2014 |
 | __Mate pairs__ | [BATISCAF]() | 10.1101/330472 |  |
 |  | [BESST]() | 10.1186/1471-2105-15-281 |  |
 |  | [BOSS]() | 10.1093/bioinformatics/btw597 |  |
