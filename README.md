@@ -79,10 +79,10 @@ The category "Last update" takes into account commits and responses from the dev
 
 | Assembler | Publication | Last update |
 |:----------|:------------|:------------|
-| [Canu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2022-11 |
+| [Canu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2022-12 |
 | [FALCON](https://github.com/PacificBiosciences/FALCON) | 10.1038/nmeth.4035 | 2018-4 |
-| [Flye](https://github.com/fenderglass/Flye) | 10.1038/s41587-019-0072-8 | 2022-11 |
-| [GoldRush](https://github.com/bcgsc/goldrush) | 10.1101/2022.10.25.513734 | 2022-11 |
+| [Flye](https://github.com/fenderglass/Flye) | 10.1038/s41587-019-0072-8 | 2022-12 |
+| [GoldRush](https://github.com/bcgsc/goldrush) | 10.1101/2022.10.25.513734 | 2022-12 |
 | [HINGE](https://github.com/HingeAssembler/HINGE) | 10.1101/gr.216465.116 | 2019-1 |
 | [MECAT](https://github.com/xiaochuanle/MECAT) | 10.1038/nmeth.4432 | 2019-2 |
 | [MECAT2](https://github.com/xiaochuanle/MECAT2) | 10.1038/nmeth.4432 | 2020-4 |
@@ -99,8 +99,8 @@ The category "Last update" takes into account commits and responses from the dev
 
 | Assembler | Publication | Last update |
 |:----------|:------------|:------------|
-| [Flye](https://github.com/fenderglass/Flye) | 10.1038/s41587-019-0072-8 | 2022-11 |
-| [HiCanu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2022-11 |
+| [Flye](https://github.com/fenderglass/Flye) | 10.1038/s41587-019-0072-8 | 2022-12 |
+| [HiCanu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2022-12 |
 | [hifiasm](https://github.com/chhylp123/hifiasm) | 10.1038/s41592-020-01056-5 | 2022-12 |
 | [IPA](https://github.com/PacificBiosciences/pbipa) |  | 2022-3 |
 | [LJA](https://github.com/AntonBankevich/LJA) | 10.1101/2020.12.10.420448 | 2022-1 |
@@ -109,7 +109,7 @@ The category "Last update" takes into account commits and responses from the dev
 | [NextDenovo](https://github.com/Nextomics/NextDenovo) |  | 2022-7 |
 | [Peregrine](https://github.com/cschin/Peregrine) |  | 2022-2 |
 | [Raven](https://github.com/lbcb-sci/raven) | 10.1038/s43588-021-00073-4 | 2022-11 |
-| [verkko](https://github.com/marbl/verkko) | 10.1101/2022.06.24.497523 | 2022-11 |
+| [verkko](https://github.com/marbl/verkko) | 10.1101/2022.06.24.497523 | 2022-12 |
 | [wtdbg2](https://github.com/ruanjue/wtdbg2) | 10.1038/s41592-019-0669-3 | 2020-12 |
 ## Assembly pre and post-processing
 
@@ -117,7 +117,7 @@ The category "Last update" takes into account commits and responses from the dev
  
 | Reads | Tool  | Publication | Last update |
 |:------|:------|:------------| ----------- |
-| __Long reads__ | [Canu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2022-11 |
+| __Long reads__ | [Canu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2022-12 |
 |  | [CONSENT](https://github.com/morispi/CONSENT) | 10.1038/s41598-020-80757-5 | 2021-9 |
 |  | [Daccord](https://github.com/gt1/daccord) | 10.1101/106252 | 2018-9 |
 |  | [FLAS](https://github.com/baoe/FLAS) | 10.1093/bioinformatics/btz206 | 2019-2 |
@@ -142,14 +142,14 @@ The category "Last update" takes into account commits and responses from the dev
 |:------|:------|:------------| ----------- |
 | __Long reads__ | [Arrow]() |  | 2014 |
 |  | [CONSENT](https://github.com/morispi/CONSENT) | 10.1038/s41598-020-80757-5 | 2021-9 |
-|  | [GoldRush](https://github.com/bcgsc/goldrush) | 10.1101/2022.10.25.513734 | 2022-11 |
+|  | [GoldRush](https://github.com/bcgsc/goldrush) | 10.1101/2022.10.25.513734 | 2022-12 |
 |  | [Quiver]() |  | 2014 |
 | __Long reads + short reads__ | [ Hapo-G](https://github.com/institut-de-genomique/HAPO-G) | 10.1093/nargab/lqab034 | 2022-11 |
 |  | [HyPo](https://github.com/kensung-lab/hypo) | 10.1101/2019.12.19.882506 | 2020-2 |
 |  | [Racon](https://github.com/isovic/racon) | 10.1101/gr.214270.116 | 2020-8 |
-| __Short reads__ | [ntEdit](https://github.com/bcgsc/ntEdit) | 10.1093/bioinformatics/btz400 | 2022-3 |
+| __Short reads__ | [ntEdit](https://github.com/bcgsc/ntEdit) | 10.1093/bioinformatics/btz400 | 2022-12 |
 |  | [Pilon](https://github.com/broadinstitute/pilon) | 10.1371/journal.pone.0112963 | 2021-1 |
-|  | [POLCA](https://github.com/alekseyzimin/masurca) | 10.1371/journal.pcbi.1007981 | 2022-10 |
+|  | [POLCA](https://github.com/alekseyzimin/masurca) | 10.1371/journal.pcbi.1007981 | 2022-12 |
 |  | [Apollo](https://github.com/CMU-SAFARI/Apollo) | 10.1093/bioinformatics/btaa179 | 2020-5 |
 
 ### Haplotig purging
@@ -159,7 +159,7 @@ The category "Last update" takes into account commits and responses from the dev
 | __Long reads__ | [HaploMerger2](https://github.com/mapleforest/HaploMerger2) | 10.1093/bioinformatics/btx220 | 2016-12 |
 |  | [purge_dups](https://github.com/dfguan/purge_dups) | 10.1093/bioinformatics/btaa025 | 2022-6 |
 |  | [Purge Haplotigs](https://bitbucket.org/mroachawri/purge_haplotigs) |  10.1186/s12859-018-2485-7 | 2021-11 |
-| __Long reads + short reads__ | [Redundans](https://github.com/lpryszcz/redundans) | 10.1093/nar/gkw294 | 2021-11 |
+| __Long reads + short reads__ | [Redundans](https://github.com/lpryszcz/redundans) | 10.1093/nar/gkw294 | 2022-12 |
 
 ### Scaffolding
 
@@ -175,8 +175,8 @@ The category "Last update" takes into account commits and responses from the dev
 |  | [Lachesis](https://github.com/shendurelab/LACHESIS) | 10.1038/nbt.2727 | 2017-12 |
 |  | [pin_hic](https://github.com/dfguan/pin_hic) | 10.1186/s12859-021-04453-5 | 2021-12 |
 |  | [SALSA2](https://github.com/marbl/SALSA) | 10.1371/journal.pcbi.1007273 | 2022-4 |
-|  | [scaffHiC](https://github.com/wtsi-hpag/scaffHiC) |  | 2020-3 |
-|  | [YaHS](https://github.com/c-zhou/yahs) |  | 2022-9 |
+|  | [scaffHiC](https://github.com/wtsi-hpag/scaffHiC) |  | 2022-12 |
+|  | [YaHS](https://github.com/c-zhou/yahs) |  | 2022-12 |
 | __Linked reads__ | [ ARBitR](https://github.com/markhilt/ARBitR) | 10.1093/bioinformatics/btaa975 | 2020-10 |
 |  | [Architect](https://github.com/kuleshov/architect) | 10.1093/bioinformatics/btw267 | 2016-10 |
 |  | [ARCS](https://github.com/bcgsc/ARCS/) | 10.1093/bioinformatics/btx675 | 2022-6 |
@@ -186,12 +186,12 @@ The category "Last update" takes into account commits and responses from the dev
 | __Long reads__ | [DENTIST](https://github.com/a-ludi/dentist) | 10.1093/gigascience/giab100 | 2022-10 |
 |  | [FinisherSC](https://github.com/kakitone/finishingTool) | 10.1093/bioinformatics/btv280 | 2016-11 |
 |  | [gapless]() | 10.1101/2022.03.08.483466 |  |
-|  | [GoldRush](https://github.com/bcgsc/goldrush) | 10.1101/2022.10.25.513734 | 2022-11 |
-|  | [LINKS](https://github.com/bcgsc/LINKS) | 10.1186/s13742-015-0076-3 | 2022-4 |
+|  | [GoldRush](https://github.com/bcgsc/goldrush) | 10.1101/2022.10.25.513734 | 2022-12 |
+|  | [LINKS](https://github.com/bcgsc/LINKS) | 10.1186/s13742-015-0076-3 | 2022-12 |
 |  | [LRScaf](https://github.com/shingocat/lrscaf) | 10.1186/s12864-019-6337-2 | 2021-11 |
 |  | [npScarf](https://github.com/mdcao/npScarf) | 10.1038/ncomms14515 | 2019-10 |
 |  | [PBJelly](https://sourceforge.net/projects/pb-jelly/) | 10.1371/journal.pone.0047768 | 2017 |
-|  | [RAILS](https://github.com/bcgsc/RAILS) | 10.21105/joss.00116 | 2022-8 |
+|  | [RAILS](https://github.com/bcgsc/RAILS) | 10.21105/joss.00116 | 2022-12 |
 |  | [SLR](https://github.com/luojunwei/SLR) | 10.1186/s12859-019-3114-9 | 2020-8 |
 |  | [SMIS](https://github.com/wtsi-hpag/smis) |  | 2018-2 |
 |  | [SMSC](https://github.com/UTbioinf/SMSC) | 10.1186/s12864-017-4271-8 | 2019-9 |
@@ -221,7 +221,7 @@ The category "Last update" takes into account commits and responses from the dev
 
 | Reads | Tool  | Publication | Last update |
 |:------|:------|:------------| ----------- |
-| __Long reads__ | [Cobbler](https://github.com/bcgsc/RAILS) | 10.21105/joss.00116 | 2022-8 |
+| __Long reads__ | [Cobbler](https://github.com/bcgsc/RAILS) | 10.21105/joss.00116 | 2022-12 |
 |  | [DENTIST](https://github.com/a-ludi/dentist) | 10.1093/gigascience/giab100 | 2022-10 |
 |  | [FGAP](https://github.com/pirovc/fgap) | 10.1186/1756-0500-7-371 | 2017-12 |
 |  | [FinisherSC](https://github.com/kakitone/finishingTool) | 10.1093/bioinformatics/btv280 | 2016-11 |
@@ -230,7 +230,7 @@ The category "Last update" takes into account commits and responses from the dev
 |  | [LR_Gapcloser](https://github.com/CAFS-bioinformatics/LR_Gapcloser) |  10.1093/gigascience/giy157 | 2018-9 |
 |  | [PBJelly](https://sourceforge.net/projects/pb-jelly/) | 10.1371/journal.pone.0047768 | 2017 |
 |  | [PGcloser]() | 10.1177/1176934320913859 | 2020 |
-|  | [TGS-GapCloser](https://github.com/BGI-Qingdao/TGS-GapCloser) | 10.1093/gigascience/giaa094 | 2022-3 |
+|  | [TGS-GapCloser](https://github.com/BGI-Qingdao/TGS-GapCloser) | 10.1093/gigascience/giaa094 | 2022-12 |
 |  | [YAGCloser](https://github.com/merlyescalona/yagcloser) |  | 2022-3 |
 | __Short reads__ | [GapFiller]() | 10.1186/gb-2012-13-6-r56 |  |
 |  | [GAPPadder]() | 10.1186/s12864-019-5703-4 |  |
