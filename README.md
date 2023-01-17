@@ -1,8 +1,7 @@
 
 # Genome assembly tools
-List of genome assembly tools
 
-The category "Last update" takes into account commits and responses from the developers to issues.
+List of genome assembly tools based on the one presented in the review: "A deep dive into genome assemblies of non-vertebrate animals." Guiglielmoni N,  Rivera-Vicéns R, Koszul R, Flot J-F. Peer Community Journal, 2022. [doi:10.24072/pcjournal.128](https://peercommunityjournal.org/articles/10.24072/pcjournal.128/)
 
 ## Table of contents
 * [Genome assemblers](#Genome-assemblers)
@@ -16,7 +15,6 @@ The category "Last update" takes into account commits and responses from the dev
   * [Haplotig purging](#Haplotig-purging)
   * [Scaffolding](#Scaffolding)
   * [Gap filling](#Gap-filling)
-
 
 ## Genome assemblers
 
@@ -183,6 +181,7 @@ The category "Last update" takes into account commits and responses from the dev
 |  | [ARKS](https://github.com/bcgsc/arks) | 10.1186/s12859-018-2243-x | 2019-12 |
 |  | [fragScaff](https://github.com/adeylab/fragScaff) | 10.1101/gr.178319.114 | 2018-11 |
 |  | [scaff10X](https://github.com/wtsi-hpag/Scaff10X) |  | 2022-1 |
+|  | [SpLitteR](https://github.com/ablab/spades/releases/tag/splitter-paper) | 10.1101/2022.12.08.519233 | 2022-12 |
 | __Long reads__ | [DENTIST](https://github.com/a-ludi/dentist) | 10.1093/gigascience/giab100 | 2022-10 |
 |  | [FinisherSC](https://github.com/kakitone/finishingTool) | 10.1093/bioinformatics/btv280 | 2016-11 |
 |  | [gapless]() | 10.1101/2022.03.08.483466 |  |
