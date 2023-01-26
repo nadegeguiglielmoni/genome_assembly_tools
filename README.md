@@ -171,6 +171,7 @@ List of genome assembly tools based on the one presented in the review: "A deep 
 |  | [HiCAssembler](https://github.com/maxplanck-ie/HiCAssembler) | 10.1101/gad.328971.119 | 2019-11 |
 |  | [instaGRAAL](https://github.com/koszullab/instaGRAAL) | 10.1186/s13059-020-02041-z | 2022-11 |
 |  | [Lachesis](https://github.com/shendurelab/LACHESIS) | 10.1038/nbt.2727 | 2017-12 |
+|  | [msscaf](https://github.com/mzytnicki/msscaf) |  |  |
 |  | [pin_hic](https://github.com/dfguan/pin_hic) | 10.1186/s12859-021-04453-5 | 2021-12 |
 |  | [SALSA2](https://github.com/marbl/SALSA) | 10.1371/journal.pcbi.1007273 | 2022-4 |
 |  | [scaffHiC](https://github.com/wtsi-hpag/scaffHiC) |  | 2022-12 |
@@ -180,6 +181,7 @@ List of genome assembly tools based on the one presented in the review: "A deep 
 |  | [ARCS](https://github.com/bcgsc/ARCS/) | 10.1093/bioinformatics/btx675 | 2022-6 |
 |  | [ARKS](https://github.com/bcgsc/arks) | 10.1186/s12859-018-2243-x | 2019-12 |
 |  | [fragScaff](https://github.com/adeylab/fragScaff) | 10.1101/gr.178319.114 | 2018-11 |
+|  | [msscaf](https://github.com/mzytnicki/msscaf) |  |  |
 |  | [scaff10X](https://github.com/wtsi-hpag/Scaff10X) |  | 2022-1 |
 |  | [SpLitteR](https://github.com/ablab/spades/releases/tag/splitter-paper) | 10.1101/2022.12.08.519233 | 2022-12 |
 | __Long reads__ | [DENTIST](https://github.com/a-ludi/dentist) | 10.1093/gigascience/giab100 | 2022-10 |
@@ -188,6 +190,7 @@ List of genome assembly tools based on the one presented in the review: "A deep 
 |  | [GoldRush](https://github.com/bcgsc/goldrush) | 10.1101/2022.10.25.513734 | 2022-12 |
 |  | [LINKS](https://github.com/bcgsc/LINKS) | 10.1186/s13742-015-0076-3 | 2022-12 |
 |  | [LRScaf](https://github.com/shingocat/lrscaf) | 10.1186/s12864-019-6337-2 | 2021-11 |
+|  | [msscaf](https://github.com/mzytnicki/msscaf) |  |  |
 |  | [npScarf](https://github.com/mdcao/npScarf) | 10.1038/ncomms14515 | 2019-10 |
 |  | [PBJelly](https://sourceforge.net/projects/pb-jelly/) | 10.1371/journal.pone.0047768 | 2017 |
 |  | [RAILS](https://github.com/bcgsc/RAILS) | 10.21105/joss.00116 | 2022-12 |
