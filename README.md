@@ -1,7 +1,8 @@
 
 # Genome assembly tools
+List of genome assembly tools
 
-List of genome assembly tools based on the one presented in the review: "A deep dive into genome assemblies of non-vertebrate animals." Guiglielmoni N,  Rivera-Vicéns R, Koszul R, Flot J-F. Peer Community Journal, 2022. [doi:10.24072/pcjournal.128](https://peercommunityjournal.org/articles/10.24072/pcjournal.128/)
+The category "Last update" takes into account commits and responses from the developers to issues.
 
 ## Table of contents
 * [Genome assemblers](#Genome-assemblers)
@@ -15,6 +16,7 @@ List of genome assembly tools based on the one presented in the review: "A deep 
   * [Haplotig purging](#Haplotig-purging)
   * [Scaffolding](#Scaffolding)
   * [Gap filling](#Gap-filling)
+
 
 ## Genome assemblers
 
@@ -38,7 +40,7 @@ List of genome assembly tools based on the one presented in the review: "A deep 
 
 | Assembler | Publication | Last update |
 |:----------|:------------|:------------|
-| [ABySS](https://github.com/bcgsc/abyss) | 10.1101/gr.214346.116 | 2022-11 |
+| [ABySS](https://github.com/bcgsc/abyss) | 10.1101/gr.214346.116 | 2023-1 |
 | [ALLPATHS](https://software.broadinstitute.org/allpaths-lg/blog/?page_id=12) | 10.1101/gr.7337908 | 2008 |
 | [BASE](https://github.com/dhlbh/BASE) | 10.1186/s12864-016-2829-5 | 2016-1 |
 | [CABOG](http://wgs-assembler.sourceforge.net) | 10.1093/bioinformatics/btn548 | 2008 |
@@ -77,10 +79,10 @@ List of genome assembly tools based on the one presented in the review: "A deep 
 
 | Assembler | Publication | Last update |
 |:----------|:------------|:------------|
-| [Canu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2022-12 |
+| [Canu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2023-1 |
 | [FALCON](https://github.com/PacificBiosciences/FALCON) | 10.1038/nmeth.4035 | 2018-4 |
 | [Flye](https://github.com/fenderglass/Flye) | 10.1038/s41587-019-0072-8 | 2022-12 |
-| [GoldRush](https://github.com/bcgsc/goldrush) | 10.1101/2022.10.25.513734 | 2022-12 |
+| [GoldRush](https://github.com/bcgsc/goldrush) | 10.1101/2022.10.25.513734 | 2023-1 |
 | [HINGE](https://github.com/HingeAssembler/HINGE) | 10.1101/gr.216465.116 | 2019-1 |
 | [MECAT](https://github.com/xiaochuanle/MECAT) | 10.1038/nmeth.4432 | 2019-2 |
 | [MECAT2](https://github.com/xiaochuanle/MECAT2) | 10.1038/nmeth.4432 | 2020-4 |
@@ -98,16 +100,16 @@ List of genome assembly tools based on the one presented in the review: "A deep 
 | Assembler | Publication | Last update |
 |:----------|:------------|:------------|
 | [Flye](https://github.com/fenderglass/Flye) | 10.1038/s41587-019-0072-8 | 2022-12 |
-| [HiCanu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2022-12 |
-| [hifiasm](https://github.com/chhylp123/hifiasm) | 10.1038/s41592-020-01056-5 | 2022-12 |
+| [HiCanu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2023-1 |
+| [hifiasm](https://github.com/chhylp123/hifiasm) | 10.1038/s41592-020-01056-5 | 2023-1 |
 | [IPA](https://github.com/PacificBiosciences/pbipa) |  | 2022-3 |
 | [LJA](https://github.com/AntonBankevich/LJA) | 10.1101/2020.12.10.420448 | 2022-1 |
-| [mdBG](https://github.com/ekimb/rust-mdbg/) | 10.1016/j.cels.2021.08.009 | 2022-10 |
-| [MBG](https://github.com/maickrau/MBG) | 10.1093/bioinformatics/btab004 | 2022-12 |
+| [mdBG](https://github.com/ekimb/rust-mdbg/) | 10.1016/j.cels.2021.08.009 | 2023-1 |
+| [MBG](https://github.com/maickrau/MBG) | 10.1093/bioinformatics/btab004 | 2023-1 |
 | [NextDenovo](https://github.com/Nextomics/NextDenovo) |  | 2022-7 |
 | [Peregrine](https://github.com/cschin/Peregrine) |  | 2022-2 |
 | [Raven](https://github.com/lbcb-sci/raven) | 10.1038/s43588-021-00073-4 | 2022-11 |
-| [verkko](https://github.com/marbl/verkko) | 10.1101/2022.06.24.497523 | 2022-12 |
+| [verkko](https://github.com/marbl/verkko) | 10.1101/2022.06.24.497523 | 2023-1 |
 | [wtdbg2](https://github.com/ruanjue/wtdbg2) | 10.1038/s41592-019-0669-3 | 2020-12 |
 ## Assembly pre and post-processing
 
@@ -115,7 +117,7 @@ List of genome assembly tools based on the one presented in the review: "A deep 
  
 | Reads | Tool  | Publication | Last update |
 |:------|:------|:------------| ----------- |
-| __Long reads__ | [Canu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2022-12 |
+| __Long reads__ | [Canu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2023-1 |
 |  | [CONSENT](https://github.com/morispi/CONSENT) | 10.1038/s41598-020-80757-5 | 2021-9 |
 |  | [Daccord](https://github.com/gt1/daccord) | 10.1101/106252 | 2018-9 |
 |  | [FLAS](https://github.com/baoe/FLAS) | 10.1093/bioinformatics/btz206 | 2019-2 |
@@ -140,14 +142,14 @@ List of genome assembly tools based on the one presented in the review: "A deep 
 |:------|:------|:------------| ----------- |
 | __Long reads__ | [Arrow]() |  | 2014 |
 |  | [CONSENT](https://github.com/morispi/CONSENT) | 10.1038/s41598-020-80757-5 | 2021-9 |
-|  | [GoldRush](https://github.com/bcgsc/goldrush) | 10.1101/2022.10.25.513734 | 2022-12 |
+|  | [GoldRush](https://github.com/bcgsc/goldrush) | 10.1101/2022.10.25.513734 | 2023-1 |
 |  | [Quiver]() |  | 2014 |
-| __Long reads + short reads__ | [ Hapo-G](https://github.com/institut-de-genomique/HAPO-G) | 10.1093/nargab/lqab034 | 2022-11 |
+| __Long reads + short reads__ | [ Hapo-G](https://github.com/institut-de-genomique/HAPO-G) | 10.1093/nargab/lqab034 | 2023-1 |
 |  | [HyPo](https://github.com/kensung-lab/hypo) | 10.1101/2019.12.19.882506 | 2020-2 |
 |  | [Racon](https://github.com/isovic/racon) | 10.1101/gr.214270.116 | 2020-8 |
-| __Short reads__ | [ntEdit](https://github.com/bcgsc/ntEdit) | 10.1093/bioinformatics/btz400 | 2022-12 |
+| __Short reads__ | [ntEdit](https://github.com/bcgsc/ntEdit) | 10.1093/bioinformatics/btz400 | 2023-1 |
 |  | [Pilon](https://github.com/broadinstitute/pilon) | 10.1371/journal.pone.0112963 | 2021-1 |
-|  | [POLCA](https://github.com/alekseyzimin/masurca) | 10.1371/journal.pcbi.1007981 | 2022-12 |
+|  | [POLCA](https://github.com/alekseyzimin/masurca) | 10.1371/journal.pcbi.1007981 | 2023-1 |
 |  | [Apollo](https://github.com/CMU-SAFARI/Apollo) | 10.1093/bioinformatics/btaa179 | 2020-5 |
 
 ### Haplotig purging
@@ -169,28 +171,24 @@ List of genome assembly tools based on the one presented in the review: "A deep 
 |  | [EndHiC](https://github.com/fanagislab/EndHiC) | 10.48550/arXiv.2111.15411 | 2022-10 |
 |  | [GRAAL](https://github.com/koszullab/GRAAL) | 10.1038/ncomms6695 | 2020-1 |
 |  | [HiCAssembler](https://github.com/maxplanck-ie/HiCAssembler) | 10.1101/gad.328971.119 | 2019-11 |
-|  | [instaGRAAL](https://github.com/koszullab/instaGRAAL) | 10.1186/s13059-020-02041-z | 2022-11 |
+|  | [instaGRAAL](https://github.com/koszullab/instaGRAAL) | 10.1186/s13059-020-02041-z | 2023-1 |
 |  | [Lachesis](https://github.com/shendurelab/LACHESIS) | 10.1038/nbt.2727 | 2017-12 |
-|  | [msscaf](https://github.com/mzytnicki/msscaf) |  |  |
 |  | [pin_hic](https://github.com/dfguan/pin_hic) | 10.1186/s12859-021-04453-5 | 2021-12 |
 |  | [SALSA2](https://github.com/marbl/SALSA) | 10.1371/journal.pcbi.1007273 | 2022-4 |
 |  | [scaffHiC](https://github.com/wtsi-hpag/scaffHiC) |  | 2022-12 |
 |  | [YaHS](https://github.com/c-zhou/yahs) |  | 2022-12 |
 | __Linked reads__ | [ ARBitR](https://github.com/markhilt/ARBitR) | 10.1093/bioinformatics/btaa975 | 2020-10 |
 |  | [Architect](https://github.com/kuleshov/architect) | 10.1093/bioinformatics/btw267 | 2016-10 |
-|  | [ARCS](https://github.com/bcgsc/ARCS/) | 10.1093/bioinformatics/btx675 | 2022-6 |
+|  | [ARCS](https://github.com/bcgsc/ARCS/) | 10.1093/bioinformatics/btx675 | 2023-1 |
 |  | [ARKS](https://github.com/bcgsc/arks) | 10.1186/s12859-018-2243-x | 2019-12 |
 |  | [fragScaff](https://github.com/adeylab/fragScaff) | 10.1101/gr.178319.114 | 2018-11 |
-|  | [msscaf](https://github.com/mzytnicki/msscaf) |  |  |
 |  | [scaff10X](https://github.com/wtsi-hpag/Scaff10X) |  | 2022-1 |
-|  | [SpLitteR](https://github.com/ablab/spades/releases/tag/splitter-paper) | 10.1101/2022.12.08.519233 | 2022-12 |
 | __Long reads__ | [DENTIST](https://github.com/a-ludi/dentist) | 10.1093/gigascience/giab100 | 2022-10 |
 |  | [FinisherSC](https://github.com/kakitone/finishingTool) | 10.1093/bioinformatics/btv280 | 2016-11 |
 |  | [gapless]() | 10.1101/2022.03.08.483466 |  |
-|  | [GoldRush](https://github.com/bcgsc/goldrush) | 10.1101/2022.10.25.513734 | 2022-12 |
+|  | [GoldRush](https://github.com/bcgsc/goldrush) | 10.1101/2022.10.25.513734 | 2023-1 |
 |  | [LINKS](https://github.com/bcgsc/LINKS) | 10.1186/s13742-015-0076-3 | 2022-12 |
 |  | [LRScaf](https://github.com/shingocat/lrscaf) | 10.1186/s12864-019-6337-2 | 2021-11 |
-|  | [msscaf](https://github.com/mzytnicki/msscaf) |  |  |
 |  | [npScarf](https://github.com/mdcao/npScarf) | 10.1038/ncomms14515 | 2019-10 |
 |  | [PBJelly](https://sourceforge.net/projects/pb-jelly/) | 10.1371/journal.pone.0047768 | 2017 |
 |  | [RAILS](https://github.com/bcgsc/RAILS) | 10.21105/joss.00116 | 2022-12 |
