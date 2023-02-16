@@ -9,7 +9,7 @@ Adding a software can be done by adding a line in the corresponding CSV file:
 * [data/assemblers.csv](data/assemblers.csv) for genome assemblers.
 * [data/processors.csv](data/processors.csv) for assembly pre- or post-processing tools.
 
-Modifications to this readme should be done in the template file of the corresponding section (see [templates](templates).
+Modifications to this readme should be done in the template file of the corresponding section (see [templates](templates)).
 Every month, a Github action automatically updates the README using the data and templates, fetching the latest commit date for each software.
 
 ## Table of contents
