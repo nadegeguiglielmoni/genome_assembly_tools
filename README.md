@@ -9,7 +9,7 @@ Adding a software can be done by adding a line in the corresponding CSV file:
 * [data/assemblers.csv](data/assemblers.csv) for genome assemblers.
 * [data/processors.csv](data/processors.csv) for assembly pre- or post-processing tools.
 
-Modifications to this readme should be done in the template file of the corresponding section (see [templates](templates).
+Modifications to this readme should be done in the template file of the corresponding section (see [templates](templates)).
 Every month, a Github action automatically updates the README using the data and templates, fetching the latest commit date for each software.
 
 ## Table of contents
@@ -188,7 +188,7 @@ Every month, a Github action automatically updates the README using the data and
 |  | [YaHS](https://github.com/c-zhou/yahs) |  | 2022-12 |
 | __Linked reads__ | [ ARBitR](https://github.com/markhilt/ARBitR) | 10.1093/bioinformatics/btaa975 | 2020-10 |
 |  | [Architect](https://github.com/kuleshov/architect) | 10.1093/bioinformatics/btw267 | 2016-10 |
-|  | [ARCS](https://github.com/bcgsc/ARCS/) | 10.1093/bioinformatics/btx675 | 2023-1 |
+|  | [ARCS](https://github.com/bcgsc/ARCS/) | 10.1093/bioinformatics/btx675 | 2023-2 |
 |  | [ARKS](https://github.com/bcgsc/arks) | 10.1186/s12859-018-2243-x | 2019-12 |
 |  | [fragScaff](https://github.com/adeylab/fragScaff) | 10.1101/gr.178319.114 | 2018-11 |
 |  | [scaff10X](https://github.com/wtsi-hpag/Scaff10X) |  | 2022-1 |
@@ -198,11 +198,11 @@ Every month, a Github action automatically updates the README using the data and
 |  | [FinisherSC](https://github.com/kakitone/finishingTool) | 10.1093/bioinformatics/btv280 | 2016-11 |
 |  | [gapless]() | 10.1101/2022.03.08.483466 |  |
 |  | [GoldRush](https://github.com/bcgsc/goldrush) | 10.1101/2022.10.25.513734 | 2023-1 |
-|  | [LINKS](https://github.com/bcgsc/LINKS) | 10.1186/s13742-015-0076-3 | 2022-12 |
+|  | [LINKS](https://github.com/bcgsc/LINKS) | 10.1186/s13742-015-0076-3 | 2023-2 |
 |  | [LRScaf](https://github.com/shingocat/lrscaf) | 10.1186/s12864-019-6337-2 | 2021-11 |
 |  | [npScarf](https://github.com/mdcao/npScarf) | 10.1038/ncomms14515 | 2019-10 |
 |  | [PBJelly](https://sourceforge.net/projects/pb-jelly/) | 10.1371/journal.pone.0047768 | 2017 |
-|  | [RAILS](https://github.com/bcgsc/RAILS) | 10.21105/joss.00116 | 2022-12 |
+|  | [RAILS](https://github.com/bcgsc/RAILS) | 10.21105/joss.00116 | 2023-2 |
 |  | [SLR](https://github.com/luojunwei/SLR) | 10.1186/s12859-019-3114-9 | 2020-8 |
 |  | [msscaf](https://github.com/mzytnicki/msscaf) |  | 2022-10 |
 |  | [SMIS](https://github.com/wtsi-hpag/smis) |  | 2018-2 |
@@ -233,7 +233,7 @@ Every month, a Github action automatically updates the README using the data and
 
 | Reads | Tool  | Publication | Last update |
 |:------|:------|:------------| ----------- |
-| __Long reads__ | [Cobbler](https://github.com/bcgsc/RAILS) | 10.21105/joss.00116 | 2022-12 |
+| __Long reads__ | [Cobbler](https://github.com/bcgsc/RAILS) | 10.21105/joss.00116 | 2023-2 |
 |  | [DENTIST](https://github.com/a-ludi/dentist) | 10.1093/gigascience/giab100 | 2022-10 |
 |  | [FGAP](https://github.com/pirovc/fgap) | 10.1186/1756-0500-7-371 | 2017-12 |
 |  | [FinisherSC](https://github.com/kakitone/finishingTool) | 10.1093/bioinformatics/btv280 | 2016-11 |
@@ -243,7 +243,7 @@ Every month, a Github action automatically updates the README using the data and
 |  | [PBJelly](https://sourceforge.net/projects/pb-jelly/) | 10.1371/journal.pone.0047768 | 2017 |
 |  | [PGcloser]() | 10.1177/1176934320913859 | 2020 |
 |  | [TGS-GapCloser](https://github.com/BGI-Qingdao/TGS-GapCloser) | 10.1093/gigascience/giaa094 | 2022-12 |
-|  | [YAGCloser](https://github.com/merlyescalona/yagcloser) |  | 2022-3 |
+|  | [YAGCloser](https://github.com/merlyescalona/yagcloser) |  | 2023-2 |
 | __Short reads__ | [GapFiller]() | 10.1186/gb-2012-13-6-r56 |  |
 |  | [GAPPadder]() | 10.1186/s12864-019-5703-4 |  |
 |  | [Sealer]() | 10.1186/s12859-015-0663-4 |  |
