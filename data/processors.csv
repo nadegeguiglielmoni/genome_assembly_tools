@@ -57,6 +57,7 @@ Scaffolding,Long reads,npScarf,https://github.com/mdcao/npScarf,10.1038/ncomms14
 Scaffolding,Long reads,PBJelly,https://sourceforge.net/projects/pb-jelly/,10.1371/journal.pone.0047768,2017
 Scaffolding,Long reads,RAILS,https://github.com/bcgsc/RAILS,10.21105/joss.00116,2021
 Scaffolding,Long reads,SLR,https://github.com/luojunwei/SLR,10.1186/s12859-019-3114-9,2020
+Scaffolding,Long reads,msscaf,https://github.com/mzytnicki/msscaf,,2022
 Scaffolding,Long reads,SMIS,https://github.com/wtsi-hpag/smis,,2018
 Scaffolding,Long reads,SMSC,https://github.com/UTbioinf/SMSC,10.1186/s12864-017-4271-8,2019
 Scaffolding,Long reads,SSPACE-LongRead,,10.1186/1471-2105-15-211,2014
@@ -72,11 +73,14 @@ Scaffolding,Linked reads,ARCS,https://github.com/bcgsc/ARCS/,10.1093/bioinformat
 Scaffolding,Linked reads,ARKS,https://github.com/bcgsc/arks,10.1186/s12859-018-2243-x,2019
 Scaffolding,Linked reads,fragScaff,https://github.com/adeylab/fragScaff,10.1101/gr.178319.114,2018
 Scaffolding,Linked reads,scaff10X,https://github.com/wtsi-hpag/Scaff10X,,2022
+Scaffolding,Linked reads,SpLitteR,https://github.com/ablab/spades/releases/tag/splitter-paper,,2022-12
+Scaffolding,Linked reads,msscaf,https://github.com/mzytnicki/msscaf,,2022
 Scaffolding,Hi-C,3D-DNA,https://github.com/aidenlab/3d-dna,10.1126/science.aal3327,2021
 Scaffolding,Hi-C,dnaTri,https://github.com/NoamKaplan/dna-triangulation,10.1038/nbt.2768,2016
 Scaffolding,Hi-C,EndHiC,https://github.com/fanagislab/EndHiC,10.48550/arXiv.2111.15411,2022
 Scaffolding,Hi-C,GRAAL,https://github.com/koszullab/GRAAL,10.1038/ncomms6695,2018
 Scaffolding,Hi-C,HiCAssembler,https://github.com/maxplanck-ie/HiCAssembler,10.1101/gad.328971.119,2019
+Scaffolding,Hi-C,msscaf,https://github.com/mzytnicki/msscaf,,2022
 Scaffolding,Hi-C,instaGRAAL,https://github.com/koszullab/instaGRAAL,10.1186/s13059-020-02041-z,2022
 Scaffolding,Hi-C,Lachesis,https://github.com/shendurelab/LACHESIS,10.1038/nbt.2727,2017
 Scaffolding,Hi-C,pin_hic,https://github.com/dfguan/pin_hic,10.1186/s12859-021-04453-5,2021

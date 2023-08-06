@@ -1,8 +1,16 @@
 
 # Genome assembly tools
-List of genome assembly tools
 
-The category "Last update" takes into account commits and responses from the developers to issues.
+List of genome assembly tools based on the one presented in the review: "A deep dive into genome assemblies of non-vertebrate animals." Guiglielmoni N, Rivera-Vicéns R, Koszul R, Flot J-F. Peer Community Journal, 2022. [doi:10.24072/pcjournal.128](https://peercommunityjournal.org/articles/10.24072/pcjournal.128/)
+
+## Contributing
+
+Adding a software can be done by adding a line in the corresponding CSV file:
+* [data/assemblers.csv](data/assemblers.csv) for genome assemblers.
+* [data/processors.csv](data/processors.csv) for assembly pre- or post-processing tools.
+
+Modifications to this readme should be done in the template file of the corresponding section (see [templates](templates)).
+Every month, a Github action automatically updates the README using the data and templates, fetching the latest commit date for each software.
 
 ## Table of contents
 * [Genome assemblers](#Genome-assemblers)
@@ -171,6 +179,7 @@ The category "Last update" takes into account commits and responses from the dev
 |  | [EndHiC](https://github.com/fanagislab/EndHiC) | 10.48550/arXiv.2111.15411 | 2022-10 |
 |  | [GRAAL](https://github.com/koszullab/GRAAL) | 10.1038/ncomms6695 | 2020-1 |
 |  | [HiCAssembler](https://github.com/maxplanck-ie/HiCAssembler) | 10.1101/gad.328971.119 | 2019-11 |
+|  | [msscaf](https://github.com/mzytnicki/msscaf) |  | 2022-10 |
 |  | [instaGRAAL](https://github.com/koszullab/instaGRAAL) | 10.1186/s13059-020-02041-z | 2023-1 |
 |  | [Lachesis](https://github.com/shendurelab/LACHESIS) | 10.1038/nbt.2727 | 2017-12 |
 |  | [pin_hic](https://github.com/dfguan/pin_hic) | 10.1186/s12859-021-04453-5 | 2021-12 |
@@ -183,6 +192,8 @@ The category "Last update" takes into account commits and responses from the dev
 |  | [ARKS](https://github.com/bcgsc/arks) | 10.1186/s12859-018-2243-x | 2019-12 |
 |  | [fragScaff](https://github.com/adeylab/fragScaff) | 10.1101/gr.178319.114 | 2018-11 |
 |  | [scaff10X](https://github.com/wtsi-hpag/Scaff10X) |  | 2022-1 |
+|  | [SpLitteR](https://github.com/ablab/spades/releases/tag/splitter-paper) |  | 2022-12 |
+|  | [msscaf](https://github.com/mzytnicki/msscaf) |  | 2022-10 |
 | __Long reads__ | [DENTIST](https://github.com/a-ludi/dentist) | 10.1093/gigascience/giab100 | 2022-10 |
 |  | [FinisherSC](https://github.com/kakitone/finishingTool) | 10.1093/bioinformatics/btv280 | 2016-11 |
 |  | [gapless]() | 10.1101/2022.03.08.483466 |  |
@@ -193,6 +204,7 @@ The category "Last update" takes into account commits and responses from the dev
 |  | [PBJelly](https://sourceforge.net/projects/pb-jelly/) | 10.1371/journal.pone.0047768 | 2017 |
 |  | [RAILS](https://github.com/bcgsc/RAILS) | 10.21105/joss.00116 | 2023-2 |
 |  | [SLR](https://github.com/luojunwei/SLR) | 10.1186/s12859-019-3114-9 | 2020-8 |
+|  | [msscaf](https://github.com/mzytnicki/msscaf) |  | 2022-10 |
 |  | [SMIS](https://github.com/wtsi-hpag/smis) |  | 2018-2 |
 |  | [SMSC](https://github.com/UTbioinf/SMSC) | 10.1186/s12864-017-4271-8 | 2019-9 |
 |  | [SSPACE-LongRead]() | 10.1186/1471-2105-15-211 | 2014 |
