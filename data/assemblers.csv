@@ -67,6 +67,7 @@ High-accuracy long reads,LJA,https://github.com/AntonBankevich/LJA,10.1101/2020.
 High-accuracy long reads,mdBG,https://github.com/ekimb/rust-mdbg/,10.1016/j.cels.2021.08.009,2021
 High-accuracy long reads,MBG,https://github.com/maickrau/MBG,10.1093/bioinformatics/btab004,2021
 High-accuracy long reads,NextDenovo,https://github.com/Nextomics/NextDenovo,,2022
+High-accuracy long reads,PECAT,https://github.com/lemene/PECAT,10.1101/2022.09.25.509436,2024
 High-accuracy long reads,Peregrine,https://github.com/cschin/Peregrine,,2021
 High-accuracy long reads,Raven,https://github.com/lbcb-sci/raven,10.1038/s43588-021-00073-4,2021
 High-accuracy long reads,verkko,https://github.com/marbl/verkko,10.1101/2022.06.24.497523,2022
