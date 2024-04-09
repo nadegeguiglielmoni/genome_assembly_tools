@@ -59,6 +59,7 @@ Low-accuracy long reads,SMARTdenovo,https://github.com/ruanjue/smartdenovo,10.20
 Low-accuracy long reads,wtdbg,https://github.com/ruanjue/wtdbg,,2021
 Low-accuracy long reads,wtdbg2,https://github.com/ruanjue/wtdbg2,10.1038/s41592-019-0669-3,2021
 Low-accuracy long reads,shasta,https://github.com/paoloshasta/shasta,10.1038/s41587-020-0503-6,2023
+High-accuracy long reads,Alice-asm,https://github.com/rolandfaure/alice-asm,,2024
 High-accuracy long reads,Flye,https://github.com/fenderglass/Flye,10.1038/s41587-019-0072-8,2022
 High-accuracy long reads,HiCanu,https://github.com/marbl/canu,10.1101/gr.215087.116,2021
 High-accuracy long reads,hifiasm,https://github.com/chhylp123/hifiasm,10.1038/s41592-020-01056-5,2022
