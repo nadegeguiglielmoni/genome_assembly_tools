@@ -52,7 +52,7 @@ Low-accuracy long reads,MECAT,https://github.com/xiaochuanle/MECAT,10.1038/nmeth
 Low-accuracy long reads,MECAT2,https://github.com/xiaochuanle/MECAT2,10.1038/nmeth.4432,2020
 Low-accuracy long reads,miniasm,https://github.com/lh3/miniasm,10.1038/nmeth.4432,2020
 Low-accuracy long reads,NECAT,https://github.com/xiaochuanle/NECAT,10.1038/s41467-020-20236-7,2021
-Low-accuracy long reads,NextDenovo,https://github.com/Nextomics/NextDenovo,,2022
+Low-accuracy long reads,NextDenovo,https://github.com/Nextomics/NextDenovo,10.1186/s13059-024-03252-4,2022
 Low-accuracy long reads,Ra,https://github.com/lbcb-sci/ra,10.1109/ISPA.2019.8868909,2020
 Low-accuracy long reads,Raven,https://github.com/lbcb-sci/raven,10.1038/s43588-021-00073-4,2021
 Low-accuracy long reads,SMARTdenovo,https://github.com/ruanjue/smartdenovo,10.20944/preprints202009.0207.v1,2021
@@ -67,7 +67,7 @@ High-accuracy long reads,IPA,https://github.com/PacificBiosciences/pbipa,,2021
 High-accuracy long reads,LJA,https://github.com/AntonBankevich/LJA,10.1101/2020.12.10.420448,2021
 High-accuracy long reads,mdBG,https://github.com/ekimb/rust-mdbg/,10.1016/j.cels.2021.08.009,2021
 High-accuracy long reads,MBG,https://github.com/maickrau/MBG,10.1093/bioinformatics/btab004,2021
-High-accuracy long reads,NextDenovo,https://github.com/Nextomics/NextDenovo,,2022
+High-accuracy long reads,NextDenovo,https://github.com/Nextomics/NextDenovo,10.1186/s13059-024-03252-4,2022
 High-accuracy long reads,PECAT,https://github.com/lemene/PECAT,10.1101/2022.09.25.509436,2024
 High-accuracy long reads,Peregrine,https://github.com/cschin/Peregrine,,2021
 High-accuracy long reads,Raven,https://github.com/lbcb-sci/raven,10.1038/s43588-021-00073-4,2021
