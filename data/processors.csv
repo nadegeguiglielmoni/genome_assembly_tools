@@ -76,6 +76,7 @@ Scaffolding,Linked reads,scaff10X,https://github.com/wtsi-hpag/Scaff10X,,2022
 Scaffolding,Linked reads,SpLitteR,https://github.com/ablab/spades/releases/tag/splitter-paper,,2022-12
 Scaffolding,Linked reads,msscaf,https://github.com/mzytnicki/msscaf,,2022
 Scaffolding,Hi-C,3D-DNA,https://github.com/aidenlab/3d-dna,10.1126/science.aal3327,2021
+Scaffolding,Hi-C,AutoHiC,https://github.com/Jwindler/AutoHiC,10.1101/2023.08.27.555031,2024
 Scaffolding,Hi-C,dnaTri,https://github.com/NoamKaplan/dna-triangulation,10.1038/nbt.2768,2016
 Scaffolding,Hi-C,EndHiC,https://github.com/fanagislab/EndHiC,10.48550/arXiv.2111.15411,2022
 Scaffolding,Hi-C,GRAAL,https://github.com/koszullab/GRAAL,10.1038/ncomms6695,2018
