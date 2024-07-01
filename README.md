@@ -1,7 +1,7 @@
 
 # Genome assembly tools
 
-To support this work, please cite: "A deep dive into genome assemblies of non-vertebrate animals." Guiglielmoni N, Rivera-Vicéns R, Koszul R, Flot J-F. Peer Community Journal, 2022. [doi:10.24072/pcjournal.128](https://peercommunityjournal.org/articles/10.24072/pcjournal.128/)
+List of genome assembly tools based on the one presented in the review: "A deep dive into genome assemblies of non-vertebrate animals." Guiglielmoni N, Rivera-Vicéns R, Koszul R, Flot J-F. Peer Community Journal, 2022. [doi:10.24072/pcjournal.128](https://peercommunityjournal.org/articles/10.24072/pcjournal.128/)
 
 ## Contributing
 
@@ -90,19 +90,19 @@ Every month, a Github action automatically updates the README using the data and
 | [Canu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2024-4 |
 | [FALCON](https://github.com/PacificBiosciences/FALCON) | 10.1038/nmeth.4035 | 2018-4 |
 | [Flye](https://github.com/fenderglass/Flye) | 10.1038/s41587-019-0072-8 | 2024-5 |
-| [GoldRush](https://github.com/bcgsc/goldrush) | 10.1101/2022.10.25.513734 | 2024-5 |
+| [GoldRush](https://github.com/bcgsc/goldrush) | 10.1101/2022.10.25.513734 | 2024-6 |
 | [HINGE](https://github.com/HingeAssembler/HINGE) | 10.1101/gr.216465.116 | 2019-1 |
 | [MECAT](https://github.com/xiaochuanle/MECAT) | 10.1038/nmeth.4432 | 2019-2 |
 | [MECAT2](https://github.com/xiaochuanle/MECAT2) | 10.1038/nmeth.4432 | 2020-4 |
 | [miniasm](https://github.com/lh3/miniasm) | 10.1038/nmeth.4432 | 2019-10 |
 | [NECAT](https://github.com/xiaochuanle/NECAT) | 10.1038/s41467-020-20236-7 | 2021-3 |
-| [NextDenovo](https://github.com/Nextomics/NextDenovo) |  | 2024-5 |
+| [NextDenovo](https://github.com/Nextomics/NextDenovo) | 10.1186/s13059-024-03252-4 | 2024-5 |
 | [Ra](https://github.com/lbcb-sci/ra) | 10.1109/ISPA.2019.8868909 | 2018-12 |
 | [Raven](https://github.com/lbcb-sci/raven) | 10.1038/s43588-021-00073-4 | 2023-11 |
 | [SMARTdenovo](https://github.com/ruanjue/smartdenovo) | 10.20944/preprints202009.0207.v1 | 2021-2 |
 | [wtdbg](https://github.com/ruanjue/wtdbg) |  | 2017-3 |
 | [wtdbg2](https://github.com/ruanjue/wtdbg2) | 10.1038/s41592-019-0669-3 | 2020-12 |
-| [shasta](https://github.com/paoloshasta/shasta) | 10.1038/s41587-020-0503-6 | 2024-5 |
+| [shasta](https://github.com/paoloshasta/shasta) | 10.1038/s41587-020-0503-6 | 2024-6 |
 
 ### High-accuracy long reads 
 
@@ -116,11 +116,11 @@ Every month, a Github action automatically updates the README using the data and
 | [LJA](https://github.com/AntonBankevich/LJA) | 10.1101/2020.12.10.420448 | 2023-8 |
 | [mdBG](https://github.com/ekimb/rust-mdbg/) | 10.1016/j.cels.2021.08.009 | 2023-1 |
 | [MBG](https://github.com/maickrau/MBG) | 10.1093/bioinformatics/btab004 | 2024-3 |
-| [NextDenovo](https://github.com/Nextomics/NextDenovo) |  | 2024-5 |
+| [NextDenovo](https://github.com/Nextomics/NextDenovo) | 10.1186/s13059-024-03252-4 | 2024-5 |
 | [PECAT](https://github.com/lemene/PECAT) | 10.1101/2022.09.25.509436 | 2024-5 |
 | [Peregrine](https://github.com/cschin/Peregrine) |  | 2022-2 |
 | [Raven](https://github.com/lbcb-sci/raven) | 10.1038/s43588-021-00073-4 | 2023-11 |
-| [verkko](https://github.com/marbl/verkko) | 10.1101/2022.06.24.497523 | 2024-5 |
+| [verkko](https://github.com/marbl/verkko) | 10.1101/2022.06.24.497523 | 2024-6 |
 | [wtdbg2](https://github.com/ruanjue/wtdbg2) | 10.1038/s41592-019-0669-3 | 2020-12 |
 ## Assembly pre and post-processing
 
@@ -153,7 +153,7 @@ Every month, a Github action automatically updates the README using the data and
 |:------|:------|:------------| ----------- |
 | __Long reads__ | [Arrow]() |  | 2014 |
 |  | [CONSENT](https://github.com/morispi/CONSENT) | 10.1038/s41598-020-80757-5 | 2024-2 |
-|  | [GoldRush](https://github.com/bcgsc/goldrush) | 10.1101/2022.10.25.513734 | 2024-5 |
+|  | [GoldRush](https://github.com/bcgsc/goldrush) | 10.1101/2022.10.25.513734 | 2024-6 |
 |  | [Quiver]() |  | 2014 |
 | __Long reads + short reads__ | [ Hapo-G](https://github.com/institut-de-genomique/HAPO-G) | 10.1093/nargab/lqab034 | 2024-3 |
 |  | [HyPo](https://github.com/kensung-lab/hypo) | 10.1101/2019.12.19.882506 | 2020-2 |
@@ -178,13 +178,15 @@ Every month, a Github action automatically updates the README using the data and
 |:------|:------|:------------| ----------- |
 | __Genetic maps__ | [ ALLMAPS](https://github.com/tanghaibao/jcvi/wiki/ALLMAPS) | 10.1186/s13059-014-0573-1 | 2022 |
 | __Hi-C__ | [3D-DNA](https://github.com/aidenlab/3d-dna) | 10.1126/science.aal3327 | 2023-11 |
+|  | [AutoHiC](https://github.com/Jwindler/AutoHiC) | 10.1101/2023.08.27.555031 | 2024-6 |
 |  | [dnaTri](https://github.com/NoamKaplan/dna-triangulation) | 10.1038/nbt.2768 | 2015-7 |
 |  | [EndHiC](https://github.com/fanagislab/EndHiC) | 10.48550/arXiv.2111.15411 | 2022-10 |
 |  | [GRAAL](https://github.com/koszullab/GRAAL) | 10.1038/ncomms6695 | 2020-1 |
+|  | [HapHiC](https://github.com/zengxiaofei/HapHiC) | 10.1101/2023.11.18.567668 | 2024-6 |
 |  | [HiCAssembler](https://github.com/maxplanck-ie/HiCAssembler) | 10.1101/gad.328971.119 | 2019-11 |
-|  | [msscaf](https://github.com/mzytnicki/msscaf) |  | 2022-10 |
 |  | [instaGRAAL](https://github.com/koszullab/instaGRAAL) | 10.1186/s13059-020-02041-z | 2024-3 |
 |  | [Lachesis](https://github.com/shendurelab/LACHESIS) | 10.1038/nbt.2727 | 2017-12 |
+|  | [msscaf](https://github.com/mzytnicki/msscaf) |  | 2022-10 |
 |  | [pin_hic](https://github.com/dfguan/pin_hic) | 10.1186/s12859-021-04453-5 | 2021-12 |
 |  | [SALSA2](https://github.com/marbl/SALSA) | 10.1371/journal.pcbi.1007273 | 2024-5 |
 |  | [scaffHiC](https://github.com/wtsi-hpag/scaffHiC) |  | 2022-12 |
@@ -200,7 +202,7 @@ Every month, a Github action automatically updates the README using the data and
 | __Long reads__ | [DENTIST](https://github.com/a-ludi/dentist) | 10.1093/gigascience/giab100 | 2024-2 |
 |  | [FinisherSC](https://github.com/kakitone/finishingTool) | 10.1093/bioinformatics/btv280 | 2016-11 |
 |  | [gapless]() | 10.1101/2022.03.08.483466 |  |
-|  | [GoldRush](https://github.com/bcgsc/goldrush) | 10.1101/2022.10.25.513734 | 2024-5 |
+|  | [GoldRush](https://github.com/bcgsc/goldrush) | 10.1101/2022.10.25.513734 | 2024-6 |
 |  | [LINKS](https://github.com/bcgsc/LINKS) | 10.1186/s13742-015-0076-3 | 2023-12 |
 |  | [LRScaf](https://github.com/shingocat/lrscaf) | 10.1186/s12864-019-6337-2 | 2021-11 |
 |  | [npScarf](https://github.com/mdcao/npScarf) | 10.1038/ncomms14515 | 2019-10 |
