@@ -1,7 +1,7 @@
 
 # Genome assembly tools
 
-List of genome assembly tools based on the one presented in the review: "A deep dive into genome assemblies of non-vertebrate animals." Guiglielmoni N, Rivera-Vicéns R, Koszul R, Flot J-F. Peer Community Journal, 2022. [doi:10.24072/pcjournal.128](https://peercommunityjournal.org/articles/10.24072/pcjournal.128/)
+If you appreciate this work, please cite: "A deep dive into genome assemblies of non-vertebrate animals." Guiglielmoni N, Rivera-Vicéns R, Koszul R, Flot J-F. Peer Community Journal, 2022. [doi:10.24072/pcjournal.128](https://peercommunityjournal.org/articles/10.24072/pcjournal.128/)
 
 ## Contributing
 
