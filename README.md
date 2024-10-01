@@ -48,7 +48,7 @@ Every month, a Github action automatically updates the README using the data and
 
 | Assembler | Publication | Last update |
 |:----------|:------------|:------------|
-| [ABySS](https://github.com/bcgsc/abyss) | 10.1101/gr.214346.116 | 2024-7 |
+| [ABySS](https://github.com/bcgsc/abyss) | 10.1101/gr.214346.116 | 2024-9 |
 | [ALLPATHS](https://software.broadinstitute.org/allpaths-lg/blog/?page_id=12) | 10.1101/gr.7337908 | 2008 |
 | [BASE](https://github.com/dhlbh/BASE) | 10.1186/s12864-016-2829-5 | 2016-1 |
 | [CABOG](http://wgs-assembler.sourceforge.net) | 10.1093/bioinformatics/btn548 | 2008 |
@@ -61,7 +61,7 @@ Every month, a Github action automatically updates the README using the data and
 | [JR-Assembler]() | 10.1073/pnas.1314090110 |  |
 | [LightAssembler]() | 10.1093/bioinformatics/btw470 |  |
 | [Meraculous]() | 10.1371/journal.pone.0023501 |  |
-| [Minia](https://github.com/GATB/minia) | 10.1186/1748-7188-8-22 | 2024-5 |
+| [Minia](https://github.com/GATB/minia) | 10.1186/1748-7188-8-22 | 2024-9 |
 | [Mira]() | 10.1.1.23.7465 |  |
 | [Newbler]() |  |  |
 | [PCAP](https://faculty.sites.iastate.edu/xqhuang/pcap-assembly-program) | 10.1101/gr.1390403 |  |
@@ -87,10 +87,10 @@ Every month, a Github action automatically updates the README using the data and
 
 | Assembler | Publication | Last update |
 |:----------|:------------|:------------|
-| [Canu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2024-8 |
+| [Canu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2024-9 |
 | [FALCON](https://github.com/PacificBiosciences/FALCON) | 10.1038/nmeth.4035 | 2018-4 |
 | [Flye](https://github.com/fenderglass/Flye) | 10.1038/s41587-019-0072-8 | 2024-8 |
-| [GoldRush](https://github.com/bcgsc/goldrush) | 10.1101/2022.10.25.513734 | 2024-6 |
+| [GoldRush](https://github.com/bcgsc/goldrush) | 10.1101/2022.10.25.513734 | 2024-9 |
 | [HINGE](https://github.com/HingeAssembler/HINGE) | 10.1101/gr.216465.116 | 2019-1 |
 | [MECAT](https://github.com/xiaochuanle/MECAT) | 10.1038/nmeth.4432 | 2019-2 |
 | [MECAT2](https://github.com/xiaochuanle/MECAT2) | 10.1038/nmeth.4432 | 2020-4 |
@@ -102,7 +102,7 @@ Every month, a Github action automatically updates the README using the data and
 | [SMARTdenovo](https://github.com/ruanjue/smartdenovo) | 10.20944/preprints202009.0207.v1 | 2021-2 |
 | [wtdbg](https://github.com/ruanjue/wtdbg) |  | 2017-3 |
 | [wtdbg2](https://github.com/ruanjue/wtdbg2) | 10.1038/s41592-019-0669-3 | 2020-12 |
-| [shasta](https://github.com/paoloshasta/shasta) | 10.1038/s41587-020-0503-6 | 2024-8 |
+| [shasta](https://github.com/paoloshasta/shasta) | 10.1038/s41587-020-0503-6 | 2024-9 |
 
 ### High-accuracy long reads 
 
@@ -110,17 +110,17 @@ Every month, a Github action automatically updates the README using the data and
 |:----------|:------------|:------------|
 | [Alice-asm](https://github.com/rolandfaure/alice-asm) |  | 2024-8 |
 | [Flye](https://github.com/fenderglass/Flye) | 10.1038/s41587-019-0072-8 | 2024-8 |
-| [HiCanu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2024-8 |
+| [HiCanu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2024-9 |
 | [hifiasm](https://github.com/chhylp123/hifiasm) | 10.1038/s41592-020-01056-5 | 2024-5 |
 | [IPA](https://github.com/PacificBiosciences/pbipa) |  | 2022-3 |
 | [LJA](https://github.com/AntonBankevich/LJA) | 10.1101/2020.12.10.420448 | 2023-8 |
-| [mdBG](https://github.com/ekimb/rust-mdbg/) | 10.1016/j.cels.2021.08.009 | 2023-1 |
+| [mdBG](https://github.com/ekimb/rust-mdbg/) | 10.1016/j.cels.2021.08.009 | 2024-9 |
 | [MBG](https://github.com/maickrau/MBG) | 10.1093/bioinformatics/btab004 | 2024-3 |
 | [NextDenovo](https://github.com/Nextomics/NextDenovo) | 10.1186/s13059-024-03252-4 | 2024-5 |
 | [PECAT](https://github.com/lemene/PECAT) | 10.1101/2022.09.25.509436 | 2024-5 |
 | [Peregrine](https://github.com/cschin/Peregrine) |  | 2022-2 |
 | [Raven](https://github.com/lbcb-sci/raven) | 10.1038/s43588-021-00073-4 | 2023-11 |
-| [verkko](https://github.com/marbl/verkko) | 10.1101/2022.06.24.497523 | 2024-8 |
+| [verkko](https://github.com/marbl/verkko) | 10.1101/2022.06.24.497523 | 2024-9 |
 | [wtdbg2](https://github.com/ruanjue/wtdbg2) | 10.1038/s41592-019-0669-3 | 2020-12 |
 ## Assembly pre and post-processing
 
@@ -128,7 +128,7 @@ Every month, a Github action automatically updates the README using the data and
  
 | Reads | Tool  | Publication | Last update |
 |:------|:------|:------------| ----------- |
-| __Long reads__ | [Canu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2024-8 |
+| __Long reads__ | [Canu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2024-9 |
 |  | [CONSENT](https://github.com/morispi/CONSENT) | 10.1038/s41598-020-80757-5 | 2024-2 |
 |  | [Daccord](https://github.com/gt1/daccord) | 10.1101/106252 | 2018-9 |
 |  | [FLAS](https://github.com/baoe/FLAS) | 10.1093/bioinformatics/btz206 | 2019-2 |
@@ -145,7 +145,7 @@ Every month, a Github action automatically updates the README using the data and
 |  | [LoRMA](https://gite.lirmm.fr/lorma/lorma-releases/-/wikis/home) | 10.1093/bioinformatics/btw321 | 2019 |
 |  | [NaS](https://github.com/institut-de-genomique/NaS) | 10.1186/s12864-015-1519-z | 2017-3 |
 |  | [proovread](https://github.com/BioInf-Wuerzburg/proovread) | 10.1093/bioinformatics/btu392 | 2019-5 |
-|  | [Ratatosk](https://github.com/DecodeGenetics/Ratatosk) | 10.1186/s13059-020-02244-4 | 2023-8 |
+|  | [Ratatosk](https://github.com/DecodeGenetics/Ratatosk) | 10.1186/s13059-020-02244-4 | 2024-9 |
 
 ### Polishing
 
@@ -153,12 +153,12 @@ Every month, a Github action automatically updates the README using the data and
 |:------|:------|:------------| ----------- |
 | __Long reads__ | [Arrow]() |  | 2014 |
 |  | [CONSENT](https://github.com/morispi/CONSENT) | 10.1038/s41598-020-80757-5 | 2024-2 |
-|  | [GoldRush](https://github.com/bcgsc/goldrush) | 10.1101/2022.10.25.513734 | 2024-6 |
+|  | [GoldRush](https://github.com/bcgsc/goldrush) | 10.1101/2022.10.25.513734 | 2024-9 |
 |  | [Quiver]() |  | 2014 |
 | __Long reads + short reads__ | [ Hapo-G](https://github.com/institut-de-genomique/HAPO-G) | 10.1093/nargab/lqab034 | 2024-3 |
 |  | [HyPo](https://github.com/kensung-lab/hypo) | 10.1101/2019.12.19.882506 | 2020-2 |
 |  | [Racon](https://github.com/isovic/racon) | 10.1101/gr.214270.116 | 2020-8 |
-| __Short reads__ | [ntEdit](https://github.com/bcgsc/ntEdit) | 10.1093/bioinformatics/btz400 | 2024-5 |
+| __Short reads__ | [ntEdit](https://github.com/bcgsc/ntEdit) | 10.1093/bioinformatics/btz400 | 2024-9 |
 |  | [Pilon](https://github.com/broadinstitute/pilon) | 10.1371/journal.pone.0112963 | 2021-1 |
 |  | [POLCA](https://github.com/alekseyzimin/masurca) | 10.1371/journal.pcbi.1007981 | 2024-2 |
 |  | [Apollo](https://github.com/CMU-SAFARI/Apollo) | 10.1093/bioinformatics/btaa179 | 2020-5 |
@@ -178,19 +178,19 @@ Every month, a Github action automatically updates the README using the data and
 |:------|:------|:------------| ----------- |
 | __Genetic maps__ | [ ALLMAPS](https://github.com/tanghaibao/jcvi/wiki/ALLMAPS) | 10.1186/s13059-014-0573-1 | 2022 |
 | __Hi-C__ | [3D-DNA](https://github.com/aidenlab/3d-dna) | 10.1126/science.aal3327 | 2023-11 |
-|  | [AutoHiC](https://github.com/Jwindler/AutoHiC) | 10.1101/2023.08.27.555031 | 2024-6 |
+|  | [AutoHiC](https://github.com/Jwindler/AutoHiC) | 10.1101/2023.08.27.555031 | 2024-9 |
 |  | [dnaTri](https://github.com/NoamKaplan/dna-triangulation) | 10.1038/nbt.2768 | 2015-7 |
 |  | [EndHiC](https://github.com/fanagislab/EndHiC) | 10.48550/arXiv.2111.15411 | 2022-10 |
 |  | [GRAAL](https://github.com/koszullab/GRAAL) | 10.1038/ncomms6695 | 2020-1 |
-|  | [HapHiC](https://github.com/zengxiaofei/HapHiC) | 10.1101/2023.11.18.567668 | 2024-8 |
-|  | [HiCAssembler](https://github.com/maxplanck-ie/HiCAssembler) | 10.1101/gad.328971.119 | 2019-11 |
+|  | [HapHiC](https://github.com/zengxiaofei/HapHiC) | 10.1101/2023.11.18.567668 | 2024-9 |
+|  | [HiCAssembler](https://github.com/maxplanck-ie/HiCAssembler) | 10.1101/gad.328971.119 | 2024-9 |
 |  | [instaGRAAL](https://github.com/koszullab/instaGRAAL) | 10.1186/s13059-020-02041-z | 2024-3 |
 |  | [Lachesis](https://github.com/shendurelab/LACHESIS) | 10.1038/nbt.2727 | 2017-12 |
 |  | [msscaf](https://github.com/mzytnicki/msscaf) |  | 2022-10 |
 |  | [pin_hic](https://github.com/dfguan/pin_hic) | 10.1186/s12859-021-04453-5 | 2021-12 |
 |  | [SALSA2](https://github.com/marbl/SALSA) | 10.1371/journal.pcbi.1007273 | 2024-5 |
 |  | [scaffHiC](https://github.com/wtsi-hpag/scaffHiC) |  | 2022-12 |
-|  | [YaHS](https://github.com/c-zhou/yahs) |  | 2023-6 |
+|  | [YaHS](https://github.com/c-zhou/yahs) |  | 2024-9 |
 | __Linked reads__ | [ ARBitR](https://github.com/markhilt/ARBitR) | 10.1093/bioinformatics/btaa975 | 2020-10 |
 |  | [Architect](https://github.com/kuleshov/architect) | 10.1093/bioinformatics/btw267 | 2016-10 |
 |  | [ARCS](https://github.com/bcgsc/ARCS/) | 10.1093/bioinformatics/btx675 | 2024-3 |
@@ -202,7 +202,7 @@ Every month, a Github action automatically updates the README using the data and
 | __Long reads__ | [DENTIST](https://github.com/a-ludi/dentist) | 10.1093/gigascience/giab100 | 2024-2 |
 |  | [FinisherSC](https://github.com/kakitone/finishingTool) | 10.1093/bioinformatics/btv280 | 2016-11 |
 |  | [gapless]() | 10.1101/2022.03.08.483466 |  |
-|  | [GoldRush](https://github.com/bcgsc/goldrush) | 10.1101/2022.10.25.513734 | 2024-6 |
+|  | [GoldRush](https://github.com/bcgsc/goldrush) | 10.1101/2022.10.25.513734 | 2024-9 |
 |  | [LINKS](https://github.com/bcgsc/LINKS) | 10.1186/s13742-015-0076-3 | 2023-12 |
 |  | [LRScaf](https://github.com/shingocat/lrscaf) | 10.1186/s12864-019-6337-2 | 2021-11 |
 |  | [npScarf](https://github.com/mdcao/npScarf) | 10.1038/ncomms14515 | 2019-10 |
@@ -247,7 +247,7 @@ Every month, a Github action automatically updates the README using the data and
 |  | [LR_Gapcloser](https://github.com/CAFS-bioinformatics/LR_Gapcloser) |  10.1093/gigascience/giy157 | 2018-9 |
 |  | [PBJelly](https://sourceforge.net/projects/pb-jelly/) | 10.1371/journal.pone.0047768 | 2017 |
 |  | [PGcloser]() | 10.1177/1176934320913859 | 2020 |
-|  | [TGS-GapCloser](https://github.com/BGI-Qingdao/TGS-GapCloser) | 10.1093/gigascience/giaa094 | 2023-12 |
+|  | [TGS-GapCloser](https://github.com/BGI-Qingdao/TGS-GapCloser) | 10.1093/gigascience/giaa094 | 2024-9 |
 |  | [YAGCloser](https://github.com/merlyescalona/yagcloser) |  | 2023-2 |
 | __Short reads__ | [GapFiller]() | 10.1186/gb-2012-13-6-r56 |  |
 |  | [GAPPadder]() | 10.1186/s12864-019-5703-4 |  |
