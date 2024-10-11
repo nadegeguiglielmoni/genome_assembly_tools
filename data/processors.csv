@@ -80,6 +80,7 @@ Scaffolding,Hi-C,AutoHiC,https://github.com/Jwindler/AutoHiC,10.1101/2023.08.27.
 Scaffolding,Hi-C,dnaTri,https://github.com/NoamKaplan/dna-triangulation,10.1038/nbt.2768,2016
 Scaffolding,Hi-C,EndHiC,https://github.com/fanagislab/EndHiC,10.48550/arXiv.2111.15411,2022
 Scaffolding,Hi-C,GRAAL,https://github.com/koszullab/GRAAL,10.1038/ncomms6695,2018
+Scaffolding,Hi-C,GreenHill,https://github.com/ShunOuchi/GreenHill,10.1186/s13059-023-03006-8
 Scaffolding,Hi-C,HapHiC,https://github.com/zengxiaofei/HapHiC,10.1101/2023.11.18.567668,2024
 Scaffolding,Hi-C,HiCAssembler,https://github.com/maxplanck-ie/HiCAssembler,10.1101/gad.328971.119,2019
 Scaffolding,Hi-C,instaGRAAL,https://github.com/koszullab/instaGRAAL,10.1186/s13059-020-02041-z,2022
