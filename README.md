@@ -87,14 +87,14 @@ Every month, a Github action automatically updates the README using the data and
 
 | Assembler | Publication | Last update |
 |:----------|:------------|:------------|
-| [Canu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2025-5 |
+| [Canu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2025-7 |
 | [FALCON](https://github.com/PacificBiosciences/FALCON) | 10.1038/nmeth.4035 | 2018-4 |
 | [Flye](https://github.com/fenderglass/Flye) | 10.1038/s41587-019-0072-8 | 2025-5 |
 | [GoldRush](https://github.com/bcgsc/goldrush) | 10.1101/2022.10.25.513734 | 2025-1 |
 | [HINGE](https://github.com/HingeAssembler/HINGE) | 10.1101/gr.216465.116 | 2019-1 |
 | [MECAT](https://github.com/xiaochuanle/MECAT) | 10.1038/nmeth.4432 | 2019-2 |
 | [MECAT2](https://github.com/xiaochuanle/MECAT2) | 10.1038/nmeth.4432 | 2020-4 |
-| [miniasm](https://github.com/lh3/miniasm) | 10.1038/nmeth.4432 | 2019-10 |
+| [miniasm](https://github.com/lh3/miniasm) | 10.1038/nmeth.4432 | 2025-7 |
 | [NECAT](https://github.com/xiaochuanle/NECAT) | 10.1038/s41467-020-20236-7 | 2021-3 |
 | [NextDenovo](https://github.com/Nextomics/NextDenovo) | 10.1186/s13059-024-03252-4 | 2024-5 |
 | [Ra](https://github.com/lbcb-sci/ra) | 10.1109/ISPA.2019.8868909 | 2018-12 |
@@ -108,9 +108,9 @@ Every month, a Github action automatically updates the README using the data and
 
 | Assembler | Publication | Last update |
 |:----------|:------------|:------------|
-| [Alice-asm](https://github.com/rolandfaure/alice-asm) |  | 2025-6 |
+| [Alice-asm](https://github.com/rolandfaure/alice-asm) |  | 2025-7 |
 | [Flye](https://github.com/fenderglass/Flye) | 10.1038/s41587-019-0072-8 | 2025-5 |
-| [HiCanu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2025-5 |
+| [HiCanu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2025-7 |
 | [hifiasm](https://github.com/chhylp123/hifiasm) | 10.1038/s41592-020-01056-5 | 2025-3 |
 | [IPA](https://github.com/PacificBiosciences/pbipa) |  | 2022-3 |
 | [LJA](https://github.com/AntonBankevich/LJA) | 10.1101/2020.12.10.420448 | 2023-8 |
@@ -128,7 +128,7 @@ Every month, a Github action automatically updates the README using the data and
  
 | Reads | Tool  | Publication | Last update |
 |:------|:------|:------------| ----------- |
-| __Long reads__ | [Canu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2025-5 |
+| __Long reads__ | [Canu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2025-7 |
 |  | [CONSENT](https://github.com/morispi/CONSENT) | 10.1038/s41598-020-80757-5 | 2024-2 |
 |  | [Daccord](https://github.com/gt1/daccord) | 10.1101/106252 | 2018-9 |
 |  | [FLAS](https://github.com/baoe/FLAS) | 10.1093/bioinformatics/btz206 | 2019-2 |
