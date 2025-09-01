@@ -87,7 +87,7 @@ Every month, a Github action automatically updates the README using the data and
 
 | Assembler | Publication | Last update |
 |:----------|:------------|:------------|
-| [Canu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2025-7 |
+| [Canu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2025-8 |
 | [FALCON](https://github.com/PacificBiosciences/FALCON) | 10.1038/nmeth.4035 | 2018-4 |
 | [Flye](https://github.com/fenderglass/Flye) | 10.1038/s41587-019-0072-8 | 2025-5 |
 | [GoldRush](https://github.com/bcgsc/goldrush) | 10.1101/2022.10.25.513734 | 2025-1 |
@@ -110,7 +110,7 @@ Every month, a Github action automatically updates the README using the data and
 |:----------|:------------|:------------|
 | [Alice-asm](https://github.com/rolandfaure/alice-asm) |  | 2025-7 |
 | [Flye](https://github.com/fenderglass/Flye) | 10.1038/s41587-019-0072-8 | 2025-5 |
-| [HiCanu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2025-7 |
+| [HiCanu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2025-8 |
 | [hifiasm](https://github.com/chhylp123/hifiasm) | 10.1038/s41592-020-01056-5 | 2025-3 |
 | [IPA](https://github.com/PacificBiosciences/pbipa) |  | 2022-3 |
 | [LJA](https://github.com/AntonBankevich/LJA) | 10.1101/2020.12.10.420448 | 2023-8 |
@@ -120,7 +120,7 @@ Every month, a Github action automatically updates the README using the data and
 | [PECAT](https://github.com/lemene/PECAT) | 10.1101/2022.09.25.509436 | 2024-5 |
 | [Peregrine](https://github.com/cschin/Peregrine) |  | 2022-2 |
 | [Raven](https://github.com/lbcb-sci/raven) | 10.1038/s43588-021-00073-4 | 2023-11 |
-| [verkko](https://github.com/marbl/verkko) | 10.1101/2022.06.24.497523 | 2025-6 |
+| [verkko](https://github.com/marbl/verkko) | 10.1101/2022.06.24.497523 | 2025-8 |
 | [wtdbg2](https://github.com/ruanjue/wtdbg2) | 10.1038/s41592-019-0669-3 | 2020-12 |
 ## Assembly pre and post-processing
 
@@ -128,7 +128,7 @@ Every month, a Github action automatically updates the README using the data and
  
 | Reads | Tool  | Publication | Last update |
 |:------|:------|:------------| ----------- |
-| __Long reads__ | [Canu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2025-7 |
+| __Long reads__ | [Canu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2025-8 |
 |  | [CONSENT](https://github.com/morispi/CONSENT) | 10.1038/s41598-020-80757-5 | 2024-2 |
 |  | [Daccord](https://github.com/gt1/daccord) | 10.1101/106252 | 2018-9 |
 |  | [FLAS](https://github.com/baoe/FLAS) | 10.1093/bioinformatics/btz206 | 2019-2 |
@@ -183,7 +183,7 @@ Every month, a Github action automatically updates the README using the data and
 |  | [EndHiC](https://github.com/fanagislab/EndHiC) | 10.48550/arXiv.2111.15411 | 2022-10 |
 |  | [GRAAL](https://github.com/koszullab/GRAAL) | 10.1038/ncomms6695 | 2020-1 |
 |  | [GreenHill](https://github.com/ShunOuchi/GreenHill) | 10.1186/s13059-023-03006-8 | 2025-3 |
-|  | [HapHiC](https://github.com/zengxiaofei/HapHiC) | 10.1101/2023.11.18.567668 | 2025-5 |
+|  | [HapHiC](https://github.com/zengxiaofei/HapHiC) | 10.1101/2023.11.18.567668 | 2025-8 |
 |  | [HiCAssembler](https://github.com/maxplanck-ie/HiCAssembler) | 10.1101/gad.328971.119 | 2024-9 |
 |  | [instaGRAAL](https://github.com/koszullab/instaGRAAL) | 10.1186/s13059-020-02041-z | 2024-3 |
 |  | [Lachesis](https://github.com/shendurelab/LACHESIS) | 10.1038/nbt.2727 | 2017-12 |
