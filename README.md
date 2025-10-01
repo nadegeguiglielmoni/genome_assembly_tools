@@ -87,7 +87,7 @@ Every month, a Github action automatically updates the README using the data and
 
 | Assembler | Publication | Last update |
 |:----------|:------------|:------------|
-| [Canu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2025-8 |
+| [Canu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2025-9 |
 | [FALCON](https://github.com/PacificBiosciences/FALCON) | 10.1038/nmeth.4035 | 2018-4 |
 | [Flye](https://github.com/fenderglass/Flye) | 10.1038/s41587-019-0072-8 | 2025-5 |
 | [GoldRush](https://github.com/bcgsc/goldrush) | 10.1101/2022.10.25.513734 | 2025-1 |
@@ -108,14 +108,14 @@ Every month, a Github action automatically updates the README using the data and
 
 | Assembler | Publication | Last update |
 |:----------|:------------|:------------|
-| [Alice-asm](https://github.com/rolandfaure/alice-asm) |  | 2025-7 |
+| [Alice-asm](https://github.com/rolandfaure/alice-asm) |  | 2025-9 |
 | [Flye](https://github.com/fenderglass/Flye) | 10.1038/s41587-019-0072-8 | 2025-5 |
-| [HiCanu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2025-8 |
+| [HiCanu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2025-9 |
 | [hifiasm](https://github.com/chhylp123/hifiasm) | 10.1038/s41592-020-01056-5 | 2025-3 |
 | [IPA](https://github.com/PacificBiosciences/pbipa) |  | 2022-3 |
 | [LJA](https://github.com/AntonBankevich/LJA) | 10.1101/2020.12.10.420448 | 2023-8 |
 | [mdBG](https://github.com/ekimb/rust-mdbg/) | 10.1016/j.cels.2021.08.009 | 2024-9 |
-| [MBG](https://github.com/maickrau/MBG) | 10.1093/bioinformatics/btab004 | 2025-6 |
+| [MBG](https://github.com/maickrau/MBG) | 10.1093/bioinformatics/btab004 | 2025-9 |
 | [NextDenovo](https://github.com/Nextomics/NextDenovo) | 10.1186/s13059-024-03252-4 | 2024-5 |
 | [PECAT](https://github.com/lemene/PECAT) | 10.1101/2022.09.25.509436 | 2024-5 |
 | [Peregrine](https://github.com/cschin/Peregrine) |  | 2022-2 |
@@ -128,7 +128,7 @@ Every month, a Github action automatically updates the README using the data and
  
 | Reads | Tool  | Publication | Last update |
 |:------|:------|:------------| ----------- |
-| __Long reads__ | [Canu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2025-8 |
+| __Long reads__ | [Canu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2025-9 |
 |  | [CONSENT](https://github.com/morispi/CONSENT) | 10.1038/s41598-020-80757-5 | 2024-2 |
 |  | [Daccord](https://github.com/gt1/daccord) | 10.1101/106252 | 2018-9 |
 |  | [FLAS](https://github.com/baoe/FLAS) | 10.1093/bioinformatics/btz206 | 2019-2 |
@@ -145,7 +145,7 @@ Every month, a Github action automatically updates the README using the data and
 |  | [LoRMA](https://gite.lirmm.fr/lorma/lorma-releases/-/wikis/home) | 10.1093/bioinformatics/btw321 | 2019 |
 |  | [NaS](https://github.com/institut-de-genomique/NaS) | 10.1186/s12864-015-1519-z | 2017-3 |
 |  | [proovread](https://github.com/BioInf-Wuerzburg/proovread) | 10.1093/bioinformatics/btu392 | 2019-5 |
-|  | [Ratatosk](https://github.com/DecodeGenetics/Ratatosk) | 10.1186/s13059-020-02244-4 | 2024-9 |
+|  | [Ratatosk](https://github.com/DecodeGenetics/Ratatosk) | 10.1186/s13059-020-02244-4 | 2025-9 |
 
 ### Polishing
 
@@ -155,10 +155,10 @@ Every month, a Github action automatically updates the README using the data and
 |  | [CONSENT](https://github.com/morispi/CONSENT) | 10.1038/s41598-020-80757-5 | 2024-2 |
 |  | [GoldRush](https://github.com/bcgsc/goldrush) | 10.1101/2022.10.25.513734 | 2025-1 |
 |  | [Quiver]() |  | 2014 |
-| __Long reads + short reads__ | [ Hapo-G](https://github.com/institut-de-genomique/HAPO-G) | 10.1093/nargab/lqab034 | 2024-3 |
+| __Long reads + short reads__ | [ Hapo-G](https://github.com/institut-de-genomique/HAPO-G) | 10.1093/nargab/lqab034 | 2025-9 |
 |  | [HyPo](https://github.com/kensung-lab/hypo) | 10.1101/2019.12.19.882506 | 2020-2 |
 |  | [Racon](https://github.com/isovic/racon) | 10.1101/gr.214270.116 | 2020-8 |
-| __Short reads__ | [ntEdit](https://github.com/bcgsc/ntEdit) | 10.1093/bioinformatics/btz400 | 2025-6 |
+| __Short reads__ | [ntEdit](https://github.com/bcgsc/ntEdit) | 10.1093/bioinformatics/btz400 | 2025-9 |
 |  | [Pilon](https://github.com/broadinstitute/pilon) | 10.1371/journal.pone.0112963 | 2021-1 |
 |  | [POLCA](https://github.com/alekseyzimin/masurca) | 10.1371/journal.pcbi.1007981 | 2025-6 |
 |  | [Apollo](https://github.com/CMU-SAFARI/Apollo) | 10.1093/bioinformatics/btaa179 | 2020-5 |
