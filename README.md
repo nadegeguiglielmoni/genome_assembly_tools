@@ -102,7 +102,7 @@ Every month, a Github action automatically updates the README using the data and
 | [SMARTdenovo](https://github.com/ruanjue/smartdenovo) | 10.20944/preprints202009.0207.v1 | 2021-2 |
 | [wtdbg](https://github.com/ruanjue/wtdbg) |  | 2017-3 |
 | [wtdbg2](https://github.com/ruanjue/wtdbg2) | 10.1038/s41592-019-0669-3 | 2020-12 |
-| [shasta](https://github.com/paoloshasta/shasta) | 10.1038/s41587-020-0503-6 | 2025-5 |
+| [shasta](https://github.com/paoloshasta/shasta) | 10.1038/s41587-020-0503-6 | 2025-11 |
 
 ### High-accuracy long reads 
 
@@ -120,7 +120,7 @@ Every month, a Github action automatically updates the README using the data and
 | [PECAT](https://github.com/lemene/PECAT) | 10.1101/2022.09.25.509436 | 2024-5 |
 | [Peregrine](https://github.com/cschin/Peregrine) |  | 2022-2 |
 | [Raven](https://github.com/lbcb-sci/raven) | 10.1038/s43588-021-00073-4 | 2023-11 |
-| [verkko](https://github.com/marbl/verkko) | 10.1101/2022.06.24.497523 | 2025-8 |
+| [verkko](https://github.com/marbl/verkko) | 10.1101/2022.06.24.497523 | 2025-11 |
 | [wtdbg2](https://github.com/ruanjue/wtdbg2) | 10.1038/s41592-019-0669-3 | 2020-12 |
 ## Assembly pre and post-processing
 
@@ -183,7 +183,7 @@ Every month, a Github action automatically updates the README using the data and
 |  | [EndHiC](https://github.com/fanagislab/EndHiC) | 10.48550/arXiv.2111.15411 | 2022-10 |
 |  | [GRAAL](https://github.com/koszullab/GRAAL) | 10.1038/ncomms6695 | 2020-1 |
 |  | [GreenHill](https://github.com/ShunOuchi/GreenHill) | 10.1186/s13059-023-03006-8 | 2025-3 |
-|  | [HapHiC](https://github.com/zengxiaofei/HapHiC) | 10.1101/2023.11.18.567668 | 2025-10 |
+|  | [HapHiC](https://github.com/zengxiaofei/HapHiC) | 10.1101/2023.11.18.567668 | 2025-11 |
 |  | [HiCAssembler](https://github.com/maxplanck-ie/HiCAssembler) | 10.1101/gad.328971.119 | 2024-9 |
 |  | [instaGRAAL](https://github.com/koszullab/instaGRAAL) | 10.1186/s13059-020-02041-z | 2024-3 |
 |  | [Lachesis](https://github.com/shendurelab/LACHESIS) | 10.1038/nbt.2727 | 2017-12 |
@@ -249,7 +249,7 @@ Every month, a Github action automatically updates the README using the data and
 |  | [PBJelly](https://sourceforge.net/projects/pb-jelly/) | 10.1371/journal.pone.0047768 | 2017 |
 |  | [PGcloser]() | 10.1177/1176934320913859 | 2020 |
 |  | [TGS-GapCloser](https://github.com/BGI-Qingdao/TGS-GapCloser) | 10.1093/gigascience/giaa094 | 2024-9 |
-|  | [YAGCloser](https://github.com/merlyescalona/yagcloser) |  | 2023-2 |
+|  | [YAGCloser](https://github.com/merlyescalona/yagcloser) |  | 2025-11 |
 | __Short reads__ | [GapFiller]() | 10.1186/gb-2012-13-6-r56 |  |
 |  | [GAPPadder]() | 10.1186/s12864-019-5703-4 |  |
 |  | [Sealer]() | 10.1186/s12859-015-0663-4 |  |
