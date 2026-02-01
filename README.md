@@ -120,7 +120,7 @@ Every month, a Github action automatically updates the README using the data and
 | [PECAT](https://github.com/lemene/PECAT) | 10.1101/2022.09.25.509436 | 2024-5 |
 | [Peregrine](https://github.com/cschin/Peregrine) |  | 2022-2 |
 | [Raven](https://github.com/lbcb-sci/raven) | 10.1038/s43588-021-00073-4 | 2023-11 |
-| [verkko](https://github.com/marbl/verkko) | 10.1101/2022.06.24.497523 | 2025-12 |
+| [verkko](https://github.com/marbl/verkko) | 10.1101/2022.06.24.497523 | 2026-1 |
 | [wtdbg2](https://github.com/ruanjue/wtdbg2) | 10.1038/s41592-019-0669-3 | 2020-12 |
 ## Assembly pre and post-processing
 
@@ -145,7 +145,7 @@ Every month, a Github action automatically updates the README using the data and
 |  | [LoRMA](https://gite.lirmm.fr/lorma/lorma-releases/-/wikis/home) | 10.1093/bioinformatics/btw321 | 2019 |
 |  | [NaS](https://github.com/institut-de-genomique/NaS) | 10.1186/s12864-015-1519-z | 2017-3 |
 |  | [proovread](https://github.com/BioInf-Wuerzburg/proovread) | 10.1093/bioinformatics/btu392 | 2019-5 |
-|  | [Ratatosk](https://github.com/DecodeGenetics/Ratatosk) | 10.1186/s13059-020-02244-4 | 2025-9 |
+|  | [Ratatosk](https://github.com/DecodeGenetics/Ratatosk) | 10.1186/s13059-020-02244-4 | 2026-1 |
 
 ### Polishing
 
@@ -183,7 +183,7 @@ Every month, a Github action automatically updates the README using the data and
 |  | [EndHiC](https://github.com/fanagislab/EndHiC) | 10.48550/arXiv.2111.15411 | 2022-10 |
 |  | [GRAAL](https://github.com/koszullab/GRAAL) | 10.1038/ncomms6695 | 2020-1 |
 |  | [GreenHill](https://github.com/ShunOuchi/GreenHill) | 10.1186/s13059-023-03006-8 | 2025-3 |
-|  | [HapHiC](https://github.com/zengxiaofei/HapHiC) | 10.1101/2023.11.18.567668 | 2025-11 |
+|  | [HapHiC](https://github.com/zengxiaofei/HapHiC) | 10.1101/2023.11.18.567668 | 2026-1 |
 |  | [HiCAssembler](https://github.com/maxplanck-ie/HiCAssembler) | 10.1101/gad.328971.119 | 2024-9 |
 |  | [instaGRAAL](https://github.com/koszullab/instaGRAAL) | 10.1186/s13059-020-02041-z | 2024-3 |
 |  | [Lachesis](https://github.com/shendurelab/LACHESIS) | 10.1038/nbt.2727 | 2017-12 |
