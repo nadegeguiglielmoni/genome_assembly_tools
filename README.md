@@ -48,7 +48,7 @@ Every month, a Github action automatically updates the README using the data and
 
 | Assembler | Publication | Last update |
 |:----------|:------------|:------------|
-| [ABySS](https://github.com/bcgsc/abyss) | 10.1101/gr.214346.116 | 2025-3 |
+| [ABySS](https://github.com/bcgsc/abyss) | 10.1101/gr.214346.116 | 2026-3 |
 | [ALLPATHS](https://software.broadinstitute.org/allpaths-lg/blog/?page_id=12) | 10.1101/gr.7337908 | 2008 |
 | [BASE](https://github.com/dhlbh/BASE) | 10.1186/s12864-016-2829-5 | 2016-1 |
 | [CABOG](http://wgs-assembler.sourceforge.net) | 10.1093/bioinformatics/btn548 | 2008 |
@@ -90,7 +90,7 @@ Every month, a Github action automatically updates the README using the data and
 | [Canu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2026-2 |
 | [FALCON](https://github.com/PacificBiosciences/FALCON) | 10.1038/nmeth.4035 | 2018-4 |
 | [Flye](https://github.com/fenderglass/Flye) | 10.1038/s41587-019-0072-8 | 2025-5 |
-| [GoldRush](https://github.com/bcgsc/goldrush) | 10.1101/2022.10.25.513734 | 2025-10 |
+| [GoldRush](https://github.com/bcgsc/goldrush) | 10.1101/2022.10.25.513734 | 2026-3 |
 | [HINGE](https://github.com/HingeAssembler/HINGE) | 10.1101/gr.216465.116 | 2019-1 |
 | [MECAT](https://github.com/xiaochuanle/MECAT) | 10.1038/nmeth.4432 | 2019-2 |
 | [MECAT2](https://github.com/xiaochuanle/MECAT2) | 10.1038/nmeth.4432 | 2020-4 |
@@ -108,7 +108,7 @@ Every month, a Github action automatically updates the README using the data and
 
 | Assembler | Publication | Last update |
 |:----------|:------------|:------------|
-| [Alice-asm](https://github.com/rolandfaure/alice-asm) |  | 2026-2 |
+| [Alice-asm](https://github.com/rolandfaure/alice-asm) |  | 2026-3 |
 | [Flye](https://github.com/fenderglass/Flye) | 10.1038/s41587-019-0072-8 | 2025-5 |
 | [HiCanu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2026-2 |
 | [hifiasm](https://github.com/chhylp123/hifiasm) | 10.1038/s41592-020-01056-5 | 2025-3 |
@@ -120,7 +120,7 @@ Every month, a Github action automatically updates the README using the data and
 | [PECAT](https://github.com/lemene/PECAT) | 10.1101/2022.09.25.509436 | 2024-5 |
 | [Peregrine](https://github.com/cschin/Peregrine) |  | 2022-2 |
 | [Raven](https://github.com/lbcb-sci/raven) | 10.1038/s43588-021-00073-4 | 2023-11 |
-| [verkko](https://github.com/marbl/verkko) | 10.1101/2022.06.24.497523 | 2026-2 |
+| [verkko](https://github.com/marbl/verkko) | 10.1101/2022.06.24.497523 | 2026-3 |
 | [wtdbg2](https://github.com/ruanjue/wtdbg2) | 10.1038/s41592-019-0669-3 | 2020-12 |
 ## Assembly pre and post-processing
 
@@ -153,12 +153,12 @@ Every month, a Github action automatically updates the README using the data and
 |:------|:------|:------------| ----------- |
 | __Long reads__ | [Arrow]() |  | 2014 |
 |  | [CONSENT](https://github.com/morispi/CONSENT) | 10.1038/s41598-020-80757-5 | 2024-2 |
-|  | [GoldRush](https://github.com/bcgsc/goldrush) | 10.1101/2022.10.25.513734 | 2025-10 |
+|  | [GoldRush](https://github.com/bcgsc/goldrush) | 10.1101/2022.10.25.513734 | 2026-3 |
 |  | [Quiver]() |  | 2014 |
 | __Long reads + short reads__ | [ Hapo-G](https://github.com/institut-de-genomique/HAPO-G) | 10.1093/nargab/lqab034 | 2025-10 |
 |  | [HyPo](https://github.com/kensung-lab/hypo) | 10.1101/2019.12.19.882506 | 2020-2 |
 |  | [Racon](https://github.com/isovic/racon) | 10.1101/gr.214270.116 | 2020-8 |
-| __Short reads__ | [ntEdit](https://github.com/bcgsc/ntEdit) | 10.1093/bioinformatics/btz400 | 2025-10 |
+| __Short reads__ | [ntEdit](https://github.com/bcgsc/ntEdit) | 10.1093/bioinformatics/btz400 | 2026-3 |
 |  | [Pilon](https://github.com/broadinstitute/pilon) | 10.1371/journal.pone.0112963 | 2021-1 |
 |  | [POLCA](https://github.com/alekseyzimin/masurca) | 10.1371/journal.pcbi.1007981 | 2025-6 |
 |  | [Apollo](https://github.com/CMU-SAFARI/Apollo) | 10.1093/bioinformatics/btaa179 | 2020-5 |
@@ -194,7 +194,7 @@ Every month, a Github action automatically updates the README using the data and
 |  | [YaHS](https://github.com/c-zhou/yahs) |  | 2024-11 |
 | __Linked reads__ | [ ARBitR](https://github.com/markhilt/ARBitR) | 10.1093/bioinformatics/btaa975 | 2020-10 |
 |  | [Architect](https://github.com/kuleshov/architect) | 10.1093/bioinformatics/btw267 | 2016-10 |
-|  | [ARCS](https://github.com/bcgsc/ARCS/) | 10.1093/bioinformatics/btx675 | 2024-11 |
+|  | [ARCS](https://github.com/bcgsc/ARCS/) | 10.1093/bioinformatics/btx675 | 2026-3 |
 |  | [ARKS](https://github.com/bcgsc/arks) | 10.1186/s12859-018-2243-x | 2019-12 |
 |  | [fragScaff](https://github.com/adeylab/fragScaff) | 10.1101/gr.178319.114 | 2018-11 |
 |  | [scaff10X](https://github.com/wtsi-hpag/Scaff10X) |  | 2022-1 |
@@ -203,12 +203,12 @@ Every month, a Github action automatically updates the README using the data and
 | __Long reads__ | [DENTIST](https://github.com/a-ludi/dentist) | 10.1093/gigascience/giab100 | 2024-2 |
 |  | [FinisherSC](https://github.com/kakitone/finishingTool) | 10.1093/bioinformatics/btv280 | 2016-11 |
 |  | [gapless]() | 10.1101/2022.03.08.483466 |  |
-|  | [GoldRush](https://github.com/bcgsc/goldrush) | 10.1101/2022.10.25.513734 | 2025-10 |
-|  | [LINKS](https://github.com/bcgsc/LINKS) | 10.1186/s13742-015-0076-3 | 2025-4 |
+|  | [GoldRush](https://github.com/bcgsc/goldrush) | 10.1101/2022.10.25.513734 | 2026-3 |
+|  | [LINKS](https://github.com/bcgsc/LINKS) | 10.1186/s13742-015-0076-3 | 2026-3 |
 |  | [LRScaf](https://github.com/shingocat/lrscaf) | 10.1186/s12864-019-6337-2 | 2021-11 |
 |  | [npScarf](https://github.com/mdcao/npScarf) | 10.1038/ncomms14515 | 2019-10 |
 |  | [PBJelly](https://sourceforge.net/projects/pb-jelly/) | 10.1371/journal.pone.0047768 | 2017 |
-|  | [RAILS](https://github.com/bcgsc/RAILS) | 10.21105/joss.00116 | 2023-12 |
+|  | [RAILS](https://github.com/bcgsc/RAILS) | 10.21105/joss.00116 | 2026-3 |
 |  | [SLR](https://github.com/luojunwei/SLR) | 10.1186/s12859-019-3114-9 | 2020-8 |
 |  | [msscaf](https://github.com/mzytnicki/msscaf) |  | 2022-10 |
 |  | [SMIS](https://github.com/wtsi-hpag/smis) |  | 2018-2 |
@@ -239,7 +239,7 @@ Every month, a Github action automatically updates the README using the data and
 
 | Reads | Tool  | Publication | Last update |
 |:------|:------|:------------| ----------- |
-| __Long reads__ | [Cobbler](https://github.com/bcgsc/RAILS) | 10.21105/joss.00116 | 2023-12 |
+| __Long reads__ | [Cobbler](https://github.com/bcgsc/RAILS) | 10.21105/joss.00116 | 2026-3 |
 |  | [DENTIST](https://github.com/a-ludi/dentist) | 10.1093/gigascience/giab100 | 2024-2 |
 |  | [FGAP](https://github.com/pirovc/fgap) | 10.1186/1756-0500-7-371 | 2017-12 |
 |  | [FinisherSC](https://github.com/kakitone/finishingTool) | 10.1093/bioinformatics/btv280 | 2016-11 |
