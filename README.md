@@ -1,7 +1,19 @@
 
 # Genome assembly tools
 
-If you appreciate this work, please cite: "A deep dive into genome assemblies of non-vertebrate animals." Guiglielmoni N, Rivera-Vicéns R, Koszul R, Flot J-F. Peer Community Journal, 2022. [doi:10.24072/pcjournal.128](https://peercommunityjournal.org/articles/10.24072/pcjournal.128/)
+If you appreciate this work, please cite: 
+```
+Guiglielmoni, N., Rivera-Vicéns, R., Koszul, R., & Flot, J. F. (2022). A deep dive into genome assemblies of non-vertebrate animals. Peer Community Journal, 2.
+```
+[doi:10.24072/pcjournal.128](https://peercommunityjournal.org/articles/10.24072/pcjournal.128/)
+
+Not sure which of these assemblers to use? If you have PacBio HiFi or Nanopore R10.4.1 reads, or are considering to sequence one or the other and don't know which to choose, check out this paper:
+```
+Guiglielmoni, N., & Schiffer, P. H. (2024). Phasing or purging: tackling the genome assembly of a highly heterozygous animal species in the era of high-accuracy long reads. bioRxiv, 2024-06.
+```
+[doi:10.1101/2024.06.16.599187](https://www.biorxiv.org/content/10.1101/2024.06.16.599187v2)
+
+For a step-by-step tutorial to assemble your genomes with PacBio HiFi or Nanopore R10.4.1 reads, [follow this link](https://github.com/nadegeguiglielmoni/EMBO-25-genome-sequencing).
 
 ## Contributing
 
@@ -84,6 +96,12 @@ Every month, a Github action automatically updates the README using the data and
 | [Taipan]() | 10.1093/bioinformatics/btp374 |  |
 
 ### Low-accuracy long reads
+
+If you have low-accuracy long reads, you can check out this benchmark:
+```
+Guiglielmoni, N., Houtain, A., Derzelle, A., Van Doninck, K., & Flot, J. F. (2021). Overcoming uncollapsed haplotypes in long-read assemblies of non-model organisms. BMC bioinformatics, 22(1), 303.
+```
+[doi:10.1186/s12859-021-04118-3](https://link.springer.com/article/10.1186/s12859-021-04118-3)
 
 | Assembler | Publication | Last update |
 |:----------|:------------|:------------|
