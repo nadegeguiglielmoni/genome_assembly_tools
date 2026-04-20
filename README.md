@@ -9,7 +9,7 @@ Guiglielmoni, N., Rivera-Vicéns, R., Koszul, R., & Flot, J. F. (2022). A deep d
 
 Not sure which of these assemblers to use? If you have PacBio HiFi or Nanopore R10.4.1 reads, or are considering to sequence one or the other and don't know which to choose, check out this paper:
 ```
-Guiglielmoni, N., & Schiffer, P. H. (2024). Phasing or purging: tackling the genome assembly of a highly heterozygous animal species in the era of high-accuracy long reads. bioRxiv, 2024-06.
+Guiglielmoni, N., & Schiffer, P. H. (2024). Phasing genome assemblies of non-model animal species in the era of high-accuracy long reads bioRxiv, 2024.
 ```
 [doi:10.1101/2024.06.16.599187](https://www.biorxiv.org/content/10.1101/2024.06.16.599187v2)
 
