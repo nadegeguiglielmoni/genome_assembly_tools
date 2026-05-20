@@ -32,6 +32,7 @@ Haplotig purging,Long reads,HaploMerger2,https://github.com/mapleforest/HaploMer
 Haplotig purging,Long reads,purge_dups,https://github.com/dfguan/purge_dups,10.1093/bioinformatics/btaa025,2021
 Haplotig purging,Long reads,Purge Haplotigs,https://bitbucket.org/mroachawri/purge_haplotigs, 10.1186/s12859-018-2485-7,2022
 Haplotig purging,Long reads + short reads,Redundans,https://github.com/lpryszcz/redundans,10.1093/nar/gkw294,2021
+Haplotig purging,No reads,HapSolo,https://github.com/ESB-AI-Lab/HapSolo,10.1186/s12859-020-03939-y,2026
 Scaffolding,Short reads,Bambus,,10.1101/gr.1536204,
 Scaffolding,Mate pairs,BATISCAF,,10.1101/330472,
 Scaffolding,Mate pairs,BESST,,10.1186/1471-2105-15-281,
