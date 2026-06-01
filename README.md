@@ -158,7 +158,7 @@ Every month, a Github action automatically updates the README using the data and
 | __Long reads + short reads__ | [ Hapo-G](https://github.com/institut-de-genomique/HAPO-G) | 10.1093/nargab/lqab034 | 2025-10 |
 |  | [HyPo](https://github.com/kensung-lab/hypo) | 10.1101/2019.12.19.882506 | 2020-2 |
 |  | [Racon](https://github.com/isovic/racon) | 10.1101/gr.214270.116 | 2020-8 |
-| __Short reads__ | [ntEdit](https://github.com/bcgsc/ntEdit) | 10.1093/bioinformatics/btz400 | 2026-4 |
+| __Short reads__ | [ntEdit](https://github.com/bcgsc/ntEdit) | 10.1093/bioinformatics/btz400 | 2026-5 |
 |  | [Pilon](https://github.com/broadinstitute/pilon) | 10.1371/journal.pone.0112963 | 2021-1 |
 |  | [POLCA](https://github.com/alekseyzimin/masurca) | 10.1371/journal.pcbi.1007981 | 2025-6 |
 |  | [Apollo](https://github.com/CMU-SAFARI/Apollo) | 10.1093/bioinformatics/btaa179 | 2020-5 |
@@ -167,10 +167,11 @@ Every month, a Github action automatically updates the README using the data and
 
 | Reads | Tool  | Publication | Last update |
 |:------|:------|:------------| ----------- |
-| __Long reads__ | [HaploMerger2](https://github.com/mapleforest/HaploMerger2) | 10.1093/bioinformatics/btx220 | 2016-12 |
+| __Long reads__ | [HaploMerger2](https://github.com/mapleforest/HaploMerger2) | 10.1093/bioinformatics/btx220 | 2026-5 |
 |  | [purge_dups](https://github.com/dfguan/purge_dups) | 10.1093/bioinformatics/btaa025 | 2025-10 |
 |  | [Purge Haplotigs](https://bitbucket.org/mroachawri/purge_haplotigs) |  10.1186/s12859-018-2485-7 | 2024-2 |
 | __Long reads + short reads__ | [Redundans](https://github.com/lpryszcz/redundans) | 10.1093/nar/gkw294 | 2025-4 |
+| __No reads__ | [HapSolo](https://github.com/ESB-AI-Lab/HapSolo) | 10.1186/s12859-020-03939-y | 2026-4 |
 
 ### Scaffolding
 
