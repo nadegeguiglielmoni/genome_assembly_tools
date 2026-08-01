@@ -170,7 +170,7 @@ Every month, a Github action automatically updates the README using the data and
 | __Long reads__ | [HaploMerger2](https://github.com/mapleforest/HaploMerger2) | 10.1093/bioinformatics/btx220 | 2026-5 |
 |  | [purge_dups](https://github.com/dfguan/purge_dups) | 10.1093/bioinformatics/btaa025 | 2025-10 |
 |  | [Purge Haplotigs](https://bitbucket.org/mroachawri/purge_haplotigs) |  10.1186/s12859-018-2485-7 | 2024-2 |
-| __Long reads + short reads__ | [Redundans](https://github.com/lpryszcz/redundans) | 10.1093/nar/gkw294 | 2026-6 |
+| __Long reads + short reads__ | [Redundans](https://github.com/lpryszcz/redundans) | 10.1093/nar/gkw294 | 2026-7 |
 | __No reads__ | [HapSolo](https://github.com/ESB-AI-Lab/HapSolo) | 10.1186/s12859-020-03939-y | 2026-6 |
 
 ### Scaffolding
@@ -184,7 +184,7 @@ Every month, a Github action automatically updates the README using the data and
 |  | [EndHiC](https://github.com/fanagislab/EndHiC) | 10.48550/arXiv.2111.15411 | 2022-10 |
 |  | [GRAAL](https://github.com/koszullab/GRAAL) | 10.1038/ncomms6695 | 2020-1 |
 |  | [GreenHill](https://github.com/ShunOuchi/GreenHill) | 10.1186/s13059-023-03006-8 | 2025-3 |
-|  | [HapHiC](https://github.com/zengxiaofei/HapHiC) | 10.1101/2023.11.18.567668 | 2026-6 |
+|  | [HapHiC](https://github.com/zengxiaofei/HapHiC) | 10.1101/2023.11.18.567668 | 2026-7 |
 |  | [HiCAssembler](https://github.com/maxplanck-ie/HiCAssembler) | 10.1101/gad.328971.119 | 2024-9 |
 |  | [instaGRAAL](https://github.com/koszullab/instaGRAAL) | 10.1186/s13059-020-02041-z | 2026-4 |
 |  | [Lachesis](https://github.com/shendurelab/LACHESIS) | 10.1038/nbt.2727 | 2017-12 |
