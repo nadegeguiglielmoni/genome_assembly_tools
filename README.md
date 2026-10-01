@@ -87,7 +87,7 @@ Every month, a Github action automatically updates the README using the data and
 
 | Assembler | Publication | Last update |
 |:----------|:------------|:------------|
-| [Canu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2026-6 |
+| [Canu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2026-9 |
 | [FALCON](https://github.com/PacificBiosciences/FALCON) | 10.1038/nmeth.4035 | 2018-4 |
 | [Flye](https://github.com/fenderglass/Flye) | 10.1038/s41587-019-0072-8 | 2025-5 |
 | [GoldRush](https://github.com/bcgsc/goldrush) | 10.1101/2022.10.25.513734 | 2026-3 |
@@ -110,7 +110,7 @@ Every month, a Github action automatically updates the README using the data and
 |:----------|:------------|:------------|
 | [Alice-asm](https://github.com/rolandfaure/alice-asm) |  | 2026-3 |
 | [Flye](https://github.com/fenderglass/Flye) | 10.1038/s41587-019-0072-8 | 2025-5 |
-| [HiCanu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2026-6 |
+| [HiCanu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2026-9 |
 | [hifiasm](https://github.com/chhylp123/hifiasm) | 10.1038/s41592-020-01056-5 | 2025-3 |
 | [IPA](https://github.com/PacificBiosciences/pbipa) |  | 2022-3 |
 | [LJA](https://github.com/AntonBankevich/LJA) | 10.1101/2020.12.10.420448 | 2023-8 |
@@ -128,7 +128,7 @@ Every month, a Github action automatically updates the README using the data and
  
 | Reads | Tool  | Publication | Last update |
 |:------|:------|:------------| ----------- |
-| __Long reads__ | [Canu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2026-6 |
+| __Long reads__ | [Canu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2026-9 |
 |  | [CONSENT](https://github.com/morispi/CONSENT) | 10.1038/s41598-020-80757-5 | 2024-2 |
 |  | [Daccord](https://github.com/gt1/daccord) | 10.1101/106252 | 2018-9 |
 |  | [FLAS](https://github.com/baoe/FLAS) | 10.1093/bioinformatics/btz206 | 2019-2 |
@@ -158,7 +158,7 @@ Every month, a Github action automatically updates the README using the data and
 | __Long reads + short reads__ | [ Hapo-G](https://github.com/institut-de-genomique/HAPO-G) | 10.1093/nargab/lqab034 | 2025-10 |
 |  | [HyPo](https://github.com/kensung-lab/hypo) | 10.1101/2019.12.19.882506 | 2020-2 |
 |  | [Racon](https://github.com/isovic/racon) | 10.1101/gr.214270.116 | 2020-8 |
-| __Short reads__ | [ntEdit](https://github.com/bcgsc/ntEdit) | 10.1093/bioinformatics/btz400 | 2026-6 |
+| __Short reads__ | [ntEdit](https://github.com/bcgsc/ntEdit) | 10.1093/bioinformatics/btz400 | 2026-9 |
 |  | [Pilon](https://github.com/broadinstitute/pilon) | 10.1371/journal.pone.0112963 | 2021-1 |
 |  | [POLCA](https://github.com/alekseyzimin/masurca) | 10.1371/journal.pcbi.1007981 | 2025-6 |
 |  | [Apollo](https://github.com/CMU-SAFARI/Apollo) | 10.1093/bioinformatics/btaa179 | 2020-5 |
